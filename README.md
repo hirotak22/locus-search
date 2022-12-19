@@ -36,7 +36,7 @@ Tools to search for UniRef (UniRef50, 90, 100) of UniProt query.
 │       ├── UniRef50
 │       ├── UniRef90
 │       └── UniRef100
-└── src
+└── src/locus_search
     ├── __init__.py
     ├── id_mapping_tools.py
     ├── locus_search_tools.py
