@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_A0A068MRV3" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Signal peptide protein</name>
+  <property type="member count" value="9"/>
+  <property type="common taxon" value="Synechocystis"/>
+  <property type="common taxon ID" value="1142"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A068MRV3_SYNY4">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))"/>
+      <property type="NCBI taxonomy" value="1147"/>
+      <property type="protein name" value="Signal peptide protein"/>
+      <property type="UniParc ID" value="UPI0004920BC4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A068MRV3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A068MRV3"/>
+      <property type="UniProtKB accession" value="A0A068MRV3"/>
+      <property type="length" value="215"/>
+    </dbReference>
+    <sequence length="215" checksum="8DBF37195EC5E667">MKYLPFVATVITAVVGEVILFPSQVMAQSPNQNLRSFFETGRPQSQDTLRFQRPPSGVPPIRSNANNWQLIVFSQGNVSFWMPPGILAQDNVTIPTAAGNLNFQTLTSTDDQYRYVAAYATGLTPQQISDPMVLFTAMRARVAPEETFSLMNERPVSLGNYQGSEFTFESDVERVTFRTYLVGDKIYAMGVIQPLNSTRDNASRAFLNALQLIDG</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="P74251_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Sll1089 protein"/>
+      <property type="UniParc ID" value="UPI00000C0E3C"/>
+      <property type="UniRef100 ID" value="UniRef100_P74251"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P1VJB7"/>
+      <property type="UniProtKB accession" value="P74251"/>
+      <property type="length" value="213"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P1VJB7_9SYNC">
+      <property type="source organism" value="Synechocystis sp. CACIAM 05"/>
+      <property type="NCBI taxonomy" value="1933929"/>
+      <property type="protein name" value="PsbP domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00138E7384"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P1VJB7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P1VJB7"/>
+      <property type="UniProtKB accession" value="A0A6P1VJB7"/>
+      <property type="length" value="213"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CC03FFA">
+      <property type="source organism" value="Synechocystis sp. PCC 7339"/>
+      <property type="NCBI taxonomy" value="2782213"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CC03FFA"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018820CCC"/>
+      <property type="length" value="224"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018820CCC">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018820CCC"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018820CCC"/>
+      <property type="length" value="224"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BAFAB9D">
+      <property type="source organism" value="Synechocystis sp. PCC 7338"/>
+      <property type="NCBI taxonomy" value="2732530"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BAFAB9D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018820CCC"/>
+      <property type="length" value="224"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001881CD2F">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001881CD2F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018820CCC"/>
+      <property type="length" value="224"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016868F25">
+      <property type="source organism" value="Synechocystis sp. FACHB-383"/>
+      <property type="NCBI taxonomy" value="2692864"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016868F25"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018820CCC"/>
+      <property type="length" value="224"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018800BE7">
+      <property type="source organism" value="Synechocystis sp. LEGE 06083"/>
+      <property type="NCBI taxonomy" value="915336"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018800BE7"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018820CCC"/>
+      <property type="length" value="224"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

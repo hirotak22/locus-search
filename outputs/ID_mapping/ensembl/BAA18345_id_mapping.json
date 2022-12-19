@@ -1,0 +1,309 @@
+{
+    "from": "BAA18345",
+    "to": {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "P74251",
+        "uniProtkbId": "P74251_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "1997-02-01",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1997-02-01",
+            "entryVersion": 88,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 1.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "EMBL",
+                    "id": "BAA18345.1"
+                },
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "Proteomes",
+                    "id": "UP000001425"
+                }
+            ],
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "4: Predicted",
+        "proteinDescription": {
+            "submissionNames": [
+                {
+                    "fullName": {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "EMBL",
+                                "id": "BAA18345.1"
+                            }
+                        ],
+                        "value": "Sll1089 protein"
+                    }
+                }
+            ]
+        },
+        "genes": [
+            {
+                "orderedLocusNames": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "EMBL",
+                                "id": "BAA18345.1"
+                            }
+                        ],
+                        "value": "sll1089"
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001425"
+                    }
+                ],
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Proteomes",
+                                "id": "UP000001425"
+                            }
+                        ],
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "EMBL",
+                        "id": "BAA18345.1"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001425"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18345.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S75886",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S75886"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "P74251",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653431",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "P74251",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18345",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18345"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18345"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1089",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "ENOG5032XTM",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "SFWMPPG",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0030288",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "C:outer membrane-bounded periplasmic space"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "HDA:UniProtKB"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0007005",
+                        "source": "PubMed",
+                        "id": "10998049"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MKYSLFVATAIATVVGGSTTGQVMAQSPNQDLRSFFETGRPQSQDTLRFQRPPSGVPPIRTNANNWQLIVFSQGNVSFWMPPGILAQDNVVIATAEGDLNFQTLTSTDNDHRYVAAYATGLTEQQINDPAALFTAMQARVAPTETFSLMNERPVTLGDYQGSEFTFESDTERVTFRAYLVGNKIYAMGVIQPLTSTRDNAARTFLNALQFIDN",
+            "length": 213,
+            "molWeight": 23491,
+            "crc64": "B71B5DF17BBA8D91",
+            "md5": "A39A9C51EE09F154E19CA745743CCD0F"
+        },
+        "extraAttributes": {
+            "uniParcId": "UPI00000C0E3C"
+        }
+    }
+}

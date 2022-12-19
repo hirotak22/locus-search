@@ -1,0 +1,736 @@
+{
+    "from": "BAA18363",
+    "to": {
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "primaryAccession": "P74269",
+        "uniProtkbId": "CIMA_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "2000-05-30",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1997-02-01",
+            "entryVersion": 119,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 2.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "proteinDescription": {
+            "recommendedName": {
+                "fullName": {
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000305"
+                        }
+                    ],
+                    "value": "(R)-citramalate synthase"
+                },
+                "ecNumbers": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000250",
+                                "source": "UniProtKB",
+                                "id": "Q74C76"
+                            }
+                        ],
+                        "value": "2.3.3.21"
+                    }
+                ]
+            }
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000305"
+                        }
+                    ],
+                    "value": "cimA"
+                },
+                "orderedLocusNames": [
+                    {
+                        "value": "sll1564"
+                    }
+                ]
+            }
+        ],
+        "comments": [
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000250",
+                                "source": "UniProtKB",
+                                "id": "Q74C76"
+                            }
+                        ],
+                        "value": "Catalyzes the condensation of pyruvate and acetyl-coenzyme A to form (R)-citramalate"
+                    }
+                ],
+                "commentType": "FUNCTION"
+            },
+            {
+                "commentType": "CATALYTIC ACTIVITY",
+                "reaction": {
+                    "name": "acetyl-CoA + H2O + pyruvate = (3R)-citramalate + CoA + H(+)",
+                    "reactionCrossReferences": [
+                        {
+                            "database": "Rhea",
+                            "id": "RHEA:19045"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:15361"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:15377"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:15378"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:30934"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57287"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57288"
+                        }
+                    ],
+                    "ecNumber": "2.3.3.21",
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000250",
+                            "source": "UniProtKB",
+                            "id": "Q74C76"
+                        }
+                    ]
+                }
+            },
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000250",
+                                "source": "UniProtKB",
+                                "id": "Q74C76"
+                            }
+                        ],
+                        "value": "Amino-acid biosynthesis; L-isoleucine biosynthesis; 2-oxobutanoate from pyruvate: step 1/3"
+                    }
+                ],
+                "commentType": "PATHWAY"
+            },
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000305"
+                            }
+                        ],
+                        "value": "Belongs to the alpha-IPM synthase/homocitrate synthase family"
+                    }
+                ],
+                "commentType": "SIMILARITY"
+            }
+        ],
+        "features": [
+            {
+                "type": "Chain",
+                "location": {
+                    "start": {
+                        "value": 1,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 547,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "(R)-citramalate synthase",
+                "featureId": "PRO_0000140471"
+            },
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 8,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 278,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Pyruvate carboxyltransferase",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000255",
+                        "source": "PROSITE-ProRule",
+                        "id": "PRU01151"
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "id": "KW-0028",
+                "category": "Biological process",
+                "name": "Amino-acid biosynthesis"
+            },
+            {
+                "id": "KW-0100",
+                "category": "Biological process",
+                "name": "Branched-chain amino acid biosynthesis"
+            },
+            {
+                "id": "KW-0412",
+                "category": "Biological process",
+                "name": "Isoleucine biosynthesis"
+            },
+            {
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            },
+            {
+                "id": "KW-0808",
+                "category": "Molecular function",
+                "name": "Transferase"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18363.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S75904",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S75904"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "P74269",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "P74269",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "IntAct",
+                "id": "P74269",
+                "properties": [
+                    {
+                        "key": "Interactions",
+                        "value": "3"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653449",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "P74269",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18363",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18363"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18363"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1564",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG0119",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "P74269",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "KSWDFHV",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PhylomeDB",
+                "id": "P74269",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "UniPathway",
+                "id": "UPA00047",
+                "properties": [
+                    {
+                        "key": "RectionId",
+                        "value": "UER00066"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0043714",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:(R)-citramalate synthase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:RHEA"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0003852",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:2-isopropylmalate synthase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0009097",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:isoleucine biosynthetic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-UniPathway"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0009098",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:leucine biosynthetic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "3.20.20.70",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "3.30.160.270",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR013709",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "2-isopropylmalate_synth_dimer"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR002034",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "AIPM/Hcit_synth_CS"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR013785",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Aldolase_TIM"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR005675",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Citramal_synthase"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR036230",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "LeuA_allosteric_dom_sf"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR000891",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "PYR_CT"
+                    }
+                ]
+            },
+            {
+                "database": "PANTHER",
+                "id": "PTHR43538",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ALPHA-IPM SYNTHASE/HOMOCITRATE SYNTHASE"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF00682",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "HMGL-like"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF08502",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "LeuA_dimer"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "SMART",
+                "id": "SM00917",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "LeuA_dimer"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF110921",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "2-isopropylmalate synthase LeuA, allosteric (dimerisation) domain"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "TIGRFAMs",
+                "id": "TIGR00977",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "citramal_synth"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PROSITE",
+                "id": "PS00815",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "AIPM_HOMOCIT_SYNTH_1"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PROSITE",
+                "id": "PS00816",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "AIPM_HOMOCIT_SYNTH_2"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PROSITE",
+                "id": "PS50991",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "PYR_CT"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MATKKTSLWLYDTTLRDGAQREGISLSLTDKLTIARRLDQLGIPFIEGGWPGANPKDVQFFWQLQEEPLEQAEIVAFCSTRRPHKAVETDKMLQAILSAGTRWVTIFGKSWDLHVLEGLQTSLAENLAMISDTIAYLRSQGRRVIYDAEHWFDGYRANPDYALATLATAQQAGAEWLVMCDTNGGTLPGQISEITTKVRRSLGLDGQSDRQPQLGIHAHNDSGTAVANSLLAVEAGATMVQGTINGYGERCGNANLCTLIPNLQLKLDYDCIEPEKLAHLTSTSRLISEIVNLAPDDHAPFVGRSAFAHKGGIHVSAVQRNPFTYEHIAPNLVGNERRIVVSEQAGLSNVLSKAELFGIALDRQNPACRTILATLKDLEQQGYQFEAAEASFELLMRQAMGDRQPLFLVQGFQVHCDLLTPAENPAYRNALATVKVTVNGQNILEVAEGNGPVSALDQALRKALTRFYPQIADFHLTDYKVRILDGGAGTSAKTRVLVESSNGDRRWTTVGVSGNILEASYQAVVEGIEYGLRLLTCGLTNQEAISS",
+            "length": 547,
+            "molWeight": 59820,
+            "crc64": "9344A317735CAB47",
+            "md5": "9A27C6D54E106EDB790A6D825983C4C7"
+        },
+        "extraAttributes": {
+            "countByCommentType": {
+                "FUNCTION": 1,
+                "CATALYTIC ACTIVITY": 1,
+                "PATHWAY": 1,
+                "SIMILARITY": 1
+            },
+            "countByFeatureType": {
+                "Chain": 1,
+                "Domain": 1
+            },
+            "uniParcId": "UPI000012EA1D"
+        }
+    }
+}

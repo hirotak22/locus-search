@@ -1,0 +1,414 @@
+{
+    "from": "BAA18372",
+    "to": {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "P74278",
+        "uniProtkbId": "P74278_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "1997-02-01",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1997-02-01",
+            "entryVersion": 114,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 1.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "EMBL",
+                    "id": "BAA18372.1"
+                },
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "Proteomes",
+                    "id": "UP000001425"
+                }
+            ],
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "4: Predicted",
+        "proteinDescription": {
+            "submissionNames": [
+                {
+                    "fullName": {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "EMBL",
+                                "id": "BAA18372.1"
+                            }
+                        ],
+                        "value": "Transposase"
+                    }
+                }
+            ]
+        },
+        "genes": [
+            {
+                "orderedLocusNames": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "EMBL",
+                                "id": "BAA18372.1"
+                            }
+                        ],
+                        "value": "sll1560"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 99,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 297,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "DDE_Tnp_1",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF01609"
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001425"
+                    }
+                ],
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Proteomes",
+                                "id": "UP000001425"
+                            }
+                        ],
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "EMBL",
+                        "id": "BAA18372.1"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001425"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18372.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S75913",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S75913"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "P74278",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653458",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "P74278",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18372",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18372"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18372"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1560",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG3385",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "P74278",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PhylomeDB",
+                "id": "P74278",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0003677",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:DNA binding"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0004803",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:transposase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0006313",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:transposition, DNA-mediated"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR012337",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "RNaseH-like_sf"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR002559",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Transposase_11"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF01609",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "DDE_Tnp_1"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF53098",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Ribonuclease H-like"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MISNFGHIVKTYLSNFPKDDYPVLDTFKFVSIWLGLVLDQSQTSMRSMFKRLNLRGETVDISTFSKASKKRDVGVFREIIFSLKKELSKRKEIKQGELEIFPLDSTIVSITSKLMWNLGFHQVKVFSGINLSTGIPGGIVIHFGQGHDNKYGNETIEETPENGVAVMDRGFCDLQRIKRLQKENNKYHVLRIKNNIKLEKLANDNYMVGTEKNKIESRVVIFTHDNSEFRLVTNLPIESKEIEGVSDEKIAEIYKKRWQIELLWKFLKMHLKLNRLIAKNENAIGIQIYTYIIAYLILKLLVIPKEAGTTMLDKLCYLQAFMCEKISYVHWLRELALR",
+            "length": 338,
+            "molWeight": 39258,
+            "crc64": "1285EE7DFDF156CC",
+            "md5": "422280D1FB900EA1312347BE2DAF4C35"
+        },
+        "extraAttributes": {
+            "countByFeatureType": {
+                "Domain": 1
+            },
+            "uniParcId": "UPI00000D7106"
+        }
+    }
+}

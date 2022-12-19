@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_Q55087" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Geranylgeranyl diphosphate reductase</name>
+  <property type="member count" value="154"/>
+  <property type="common taxon" value="cellular organisms"/>
+  <property type="common taxon ID" value="131567"/>
+  <property type="GO Cellular Component" value="GO:0009507"/>
+  <property type="GO Biological Process" value="GO:0015979"/>
+  <property type="GO Biological Process" value="GO:0015995"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="CHLP_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0000127898"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55087"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="UniProtKB accession" value="Q55087"/>
+      <property type="UniProtKB accession" value="P74245"/>
+      <property type="length" value="407"/>
+    </dbReference>
+    <sequence length="407" checksum="1D46FA7AE1C43CC5">MVLRVAVVGGGPAGSSAAEILVKAGIETYLFERKLDNAKPCGGAIPLCMVDEFDLPPEIIDRRVRKMKMISPSNIEVNIGQTLKDDEYIGMCRREVLDGFLRERAEKLGTKVINGTVYKLDIPSKDSDPYTLHYADHSVGGTTGEMKILKVDVVIGADGANSRIAKAIDAGDYNYAIAFQERIRLPEDKMAYYDELAEMYVGDDVSPDFYAWVFPKYDHVAVGTGTMKVNKARIKDLQAGIRTRAAKKLEGGEIIKVEAHPIPEHPRPRRVVGRVALVGDAAGTVTKSSGEGIYFAAKSARMCAETIVATSNNGQRVPTEADLKQYIKQWDKRYGATYLVLDILQRVFYRTDATREAFVEMCSDIDVQKLTFDSYLYKTVVPANPLVQMKITAKTIGSLLRGNALAP</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A068MX90_SYNY4">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))"/>
+      <property type="NCBI taxonomy" value="1147"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004124F7B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A068MX90"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="UniProtKB accession" value="A0A068MX90"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P1VIE5_9SYNC">
+      <property type="source organism" value="Synechocystis sp. CACIAM 05"/>
+      <property type="NCBI taxonomy" value="1933929"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004124F7B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A068MX90"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="UniProtKB accession" value="A0A6P1VIE5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A845WZY7_9CYAN">
+      <property type="source organism" value="Spirulina sp. SIO3F2"/>
+      <property type="NCBI taxonomy" value="2607816"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013C6CE61"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A845WZY7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="UniProtKB accession" value="A0A845WZY7"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P2AM80_9CYAN">
+      <property type="source organism" value="Spirulina sp. DLM2.Bin59"/>
+      <property type="NCBI taxonomy" value="2480215"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00130B99A4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P2AM80"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="UniProtKB accession" value="A0A6P2AM80"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W7BL35_9CYAN">
+      <property type="source organism" value="Snowella sp"/>
+      <property type="NCBI taxonomy" value="2164131"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DB1611A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W7BL35"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="UniProtKB accession" value="A0A2W7BL35"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3A8P9_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI001970116F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S3A8P9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S3A8P9"/>
+      <property type="UniProtKB accession" value="A0A7S3A8P9"/>
+      <property type="length" value="390"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3A715_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="FAD_binding_3 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00196C419B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S3A8P9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S3A8P9"/>
+      <property type="UniProtKB accession" value="A0A7S3A715"/>
+      <property type="length" value="204"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L8LW36_9CYAN">
+      <property type="source organism" value="Xenococcus sp. PCC 7305"/>
+      <property type="NCBI taxonomy" value="102125"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0002AD11DD"/>
+      <property type="UniRef100 ID" value="UniRef100_L8LW36"/>
+      <property type="UniRef90 ID" value="UniRef90_L8LW36"/>
+      <property type="UniProtKB accession" value="L8LW36"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7AUP2_9CYAN">
+      <property type="source organism" value="Romeria aff. gracilis LEGE 07310"/>
+      <property type="NCBI taxonomy" value="915328"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00187E767D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7AUP2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7AUP2"/>
+      <property type="UniProtKB accession" value="A0A8J7AUP2"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0YQA0_9CYAN">
+      <property type="source organism" value="Merismopedia sp. SIO2A8"/>
+      <property type="NCBI taxonomy" value="2607779"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013B92834"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P0YQA0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P0T750"/>
+      <property type="UniProtKB accession" value="A0A6P0YQA0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0T750_9CYAN">
+      <property type="source organism" value="Cyanothece sp. SIO2G6"/>
+      <property type="NCBI taxonomy" value="2607797"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013BE8502"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P0T750"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P0T750"/>
+      <property type="UniProtKB accession" value="A0A6P0T750"/>
+      <property type="length" value="422"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M0F746_9CYAN">
+      <property type="source organism" value="Symploca sp. SIO2B6"/>
+      <property type="NCBI taxonomy" value="2607785"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0013F95FF9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M0F746"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P0T750"/>
+      <property type="UniProtKB accession" value="A0A6M0F746"/>
+      <property type="length" value="358"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9UPL2_CHAP6">
+      <property type="source organism" value="Chamaesiphon minutus (strain ATCC 27169 / PCC 6605)"/>
+      <property type="NCBI taxonomy" value="1173020"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00029FF26E"/>
+      <property type="UniRef100 ID" value="UniRef100_K9UPL2"/>
+      <property type="UniRef90 ID" value="UniRef90_K9UPL2"/>
+      <property type="UniProtKB accession" value="K9UPL2"/>
+      <property type="length" value="408"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B8CDB3_THAPS">
+      <property type="source organism" value="Thalassiosira pseudonana (Marine diatom) (Cyclotella nana)"/>
+      <property type="NCBI taxonomy" value="35128"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00018FDA88"/>
+      <property type="UniRef100 ID" value="UniRef100_B8CDB3"/>
+      <property type="UniRef90 ID" value="UniRef90_B8CDB3"/>
+      <property type="UniProtKB accession" value="B8CDB3"/>
+      <property type="length" value="426"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K0T3A7_THAOC">
+      <property type="source organism" value="Thalassiosira oceanica (Marine diatom)"/>
+      <property type="NCBI taxonomy" value="159749"/>
+      <property type="protein name" value="FAD_binding_3 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00028D28A1"/>
+      <property type="UniRef100 ID" value="UniRef100_K0T3A7"/>
+      <property type="UniRef90 ID" value="UniRef90_B8CDB3"/>
+      <property type="UniProtKB accession" value="K0T3A7"/>
+      <property type="length" value="360"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9SGD0_9CYAN">
+      <property type="source organism" value="Pseudanabaena sp. PCC 7367"/>
+      <property type="NCBI taxonomy" value="82654"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00029FE087"/>
+      <property type="UniRef100 ID" value="UniRef100_K9SGD0"/>
+      <property type="UniRef90 ID" value="UniRef90_K9SGD0"/>
+      <property type="UniProtKB accession" value="K9SGD0"/>
+      <property type="length" value="406"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W4UQW0_9CYAN">
+      <property type="source organism" value="Leptolyngbya foveolarum"/>
+      <property type="NCBI taxonomy" value="47253"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DB7103B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W4UQW0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0P7ZZF1"/>
+      <property type="UniProtKB accession" value="A0A2W4UQW0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W4Z3I6_9CYAN">
+      <property type="source organism" value="Phormidesmis priestleyi"/>
+      <property type="NCBI taxonomy" value="268141"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DB24E40"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W4Z3I6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0P7ZZF1"/>
+      <property type="UniProtKB accession" value="A0A2W4Z3I6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0P7ZZF1_9CYAN">
+      <property type="source organism" value="Phormidesmis priestleyi Ana"/>
+      <property type="NCBI taxonomy" value="1666911"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0006DA285D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0P7ZZF1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0P7ZZF1"/>
+      <property type="UniProtKB accession" value="A0A0P7ZZF1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7FUA8_9CYAN">
+      <property type="source organism" value="Elainella sp. C42_A2020_010"/>
+      <property type="NCBI taxonomy" value="2747798"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000F6B0E1C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7FUA8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7JMC5"/>
+      <property type="UniProtKB accession" value="A0A8J7FUA8"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M9Z0R4_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. IPPAS B-1204"/>
+      <property type="NCBI taxonomy" value="2483801"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000F6B0E1C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7FUA8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7JMC5"/>
+      <property type="UniProtKB accession" value="A0A3M9Z0R4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7JMC5_9CYAN">
+      <property type="source organism" value="Oculatella sp. LEGE 06141"/>
+      <property type="NCBI taxonomy" value="1828648"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0018808237"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7JMC5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7JMC5"/>
+      <property type="UniProtKB accession" value="A0A8J7JMC5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M8BCR6_9CYAN">
+      <property type="source organism" value="Thermoleptolyngbya sichuanensis PKUAC-SCTA183"/>
+      <property type="NCBI taxonomy" value="2737172"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00074D4B2F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M8BCR6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="UniProtKB accession" value="A0A6M8BCR6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M1PEG3_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium J069"/>
+      <property type="NCBI taxonomy" value="2420337"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000F24193A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3M1PEG3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="UniProtKB accession" value="A0A3M1PEG3"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S0M1W3_9CRYP">
+      <property type="source organism" value="Cryptomonas curvata"/>
+      <property type="NCBI taxonomy" value="233186"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0016C40166"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S0M1W3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0M1W3"/>
+      <property type="UniProtKB accession" value="A0A7S0M1W3"/>
+      <property type="length" value="393"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P5ZBZ8_PLAAG">
+      <property type="source organism" value="Planktothrix agardhii CCAP 1459/11A"/>
+      <property type="NCBI taxonomy" value="282420"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000410B1AF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P5ZBZ8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A4P5ZBZ8"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1T4ZNQ1_9CYAN">
+      <property type="source organism" value="Planktothrix sp. PCC 11201"/>
+      <property type="NCBI taxonomy" value="1729650"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000922934C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1T4ZNQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A1T4ZNQ1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1J5GF99_9CYAN">
+      <property type="source organism" value="Oscillatoriales cyanobacterium CG2_30_40_61"/>
+      <property type="NCBI taxonomy" value="1805291"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00091FE3C3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1J5GF99"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A1J5GF99"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J7ZM62_PLARU">
+      <property type="source organism" value="Planktothrix rubescens NIVA-CYA 18"/>
+      <property type="NCBI taxonomy" value="329571"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00041DFB0C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J7ZM62"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A6J7ZM62"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A073CHU7_PLAAG">
+      <property type="source organism" value="Planktothrix agardhii NIVA-CYA 126/8"/>
+      <property type="NCBI taxonomy" value="388467"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004A5567A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A073CHU7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A073CHU7"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1J1JET4_PLAAG">
+      <property type="source organism" value="Planktothrix agardhii (Oscillatoria agardhii)"/>
+      <property type="NCBI taxonomy" value="1160"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004A5567A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A073CHU7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A1J1JET4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Z6CK24_PLAAG">
+      <property type="source organism" value="Planktothrix agardhii NIES-204"/>
+      <property type="NCBI taxonomy" value="282423"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004A5567A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A073CHU7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A2Z6CK24"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1J1LLN6_9CYAN">
+      <property type="source organism" value="Planktothrix tepida PCC 9214"/>
+      <property type="NCBI taxonomy" value="671072"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0009133C7A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1J1LLN6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A1J1LLN6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3C1RPN4_9CYAN">
+      <property type="source organism" value="Planktothrix sp. UBA8407"/>
+      <property type="NCBI taxonomy" value="2055758"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000E7F0B1D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3C1RPN4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A3C1RPN4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A354WBG4_9CYAN">
+      <property type="source organism" value="Planktothrix sp. UBA10369"/>
+      <property type="NCBI taxonomy" value="2055760"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000E7F0B1D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3C1RPN4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A354WBG4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3C1PEB2_9CYAN">
+      <property type="source organism" value="Planktothrix sp. UBA8402"/>
+      <property type="NCBI taxonomy" value="2055759"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000E7F0B1D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3C1RPN4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A3C1PEB2"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7Z9BNF1_9CYAN">
+      <property type="source organism" value="Planktothrix paucivesiculata PCC 9631"/>
+      <property type="NCBI taxonomy" value="671071"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000914A886"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7Z9BNF1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A7Z9BNF1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7Z9DZJ3_9CYAN">
+      <property type="source organism" value="Planktothrix serta PCC 8927"/>
+      <property type="NCBI taxonomy" value="671068"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000912BC71"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7Z9DZJ3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="UniProtKB accession" value="A0A7Z9DZJ3"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9RSL5_SYNP3">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 27167 / PCC 6312)"/>
+      <property type="NCBI taxonomy" value="195253"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00029F0274"/>
+      <property type="UniRef100 ID" value="UniRef100_K9RSL5"/>
+      <property type="UniRef90 ID" value="UniRef90_K9RSL5"/>
+      <property type="UniProtKB accession" value="K9RSL5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A251WLG4_9CYAN">
+      <property type="source organism" value="Alkalinema sp. CACIAM 70d"/>
+      <property type="NCBI taxonomy" value="1934309"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000B76354C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A251WLG4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A251WLG4"/>
+      <property type="UniProtKB accession" value="A0A251WLG4"/>
+      <property type="length" value="406"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P5G1S6_ANACO">
+      <property type="source organism" value="Ananas comosus (Pineapple) (Ananas ananas)"/>
+      <property type="NCBI taxonomy" value="4615"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase, chloroplastic-like"/>
+      <property type="UniParc ID" value="UPI0009811F15"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P5G1S6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P5G1S6"/>
+      <property type="UniProtKB accession" value="A0A6P5G1S6"/>
+      <property type="length" value="349"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A199UUZ0_ANACO">
+      <property type="source organism" value="Ananas comosus (Pineapple) (Ananas ananas)"/>
+      <property type="NCBI taxonomy" value="4615"/>
+      <property type="protein name" value="Geranylgeranyl diphosphate reductase, chloroplastic (Fragment)"/>
+      <property type="UniParc ID" value="UPI00080545B1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P5G1S6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P5G1S6"/>
+      <property type="UniProtKB accession" value="A0A199UUZ0"/>
+      <property type="length" value="396"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S2ZPB7_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="FAD_binding_3 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001975A2FE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S2ZPB7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S3EE19"/>
+      <property type="UniProtKB accession" value="A0A7S2ZPB7"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S2ZMM9_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="Pyr_redox_2 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00196DBC96"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S2ZPB7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S3EE19"/>
+      <property type="UniProtKB accession" value="A0A7S2ZMM9"/>
+      <property type="length" value="259"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3EE19_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00196C7CEE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S3EE19"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S3EE19"/>
+      <property type="UniProtKB accession" value="A0A7S3EE19"/>
+      <property type="length" value="364"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3ECK8_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI001970D9EE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S3EE19"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S3EE19"/>
+      <property type="UniProtKB accession" value="A0A7S3ECK8"/>
+      <property type="length" value="331"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S0G436_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0016E91D3D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S0G436"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0G436"/>
+      <property type="UniProtKB accession" value="A0A7S0G436"/>
+      <property type="length" value="454"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3A815_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI001974336A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S3A815"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0G436"/>
+      <property type="UniProtKB accession" value="A0A7S3A815"/>
+      <property type="length" value="454"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3A712_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="Geranylgeranyl reductase"/>
+      <property type="UniParc ID" value="UPI0019789B8D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S3A815"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0G436"/>
+      <property type="UniProtKB accession" value="A0A7S3A712"/>
+      <property type="length" value="268"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S2ZNI1_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI001979D41A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S2ZNI1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0G436"/>
+      <property type="UniProtKB accession" value="A0A7S2ZNI1"/>
+      <property type="length" value="453"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S3ECK0_9RHOD">
+      <property type="source organism" value="Rhodosorus marinus"/>
+      <property type="NCBI taxonomy" value="101924"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0019766B73"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S2ZNI1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0G436"/>
+      <property type="UniProtKB accession" value="A0A7S3ECK0"/>
+      <property type="length" value="420"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A833VNB2_9POAL">
+      <property type="source organism" value="Carex littledalei"/>
+      <property type="NCBI taxonomy" value="544730"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI001A0462AF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A833VNB2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A833VCV8"/>
+      <property type="UniProtKB accession" value="A0A833VNB2"/>
+      <property type="length" value="448"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A833VCV8_9POAL">
+      <property type="source organism" value="Carex littledalei"/>
+      <property type="NCBI taxonomy" value="544730"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI001A06E192"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A833VCV8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A833VCV8"/>
+      <property type="UniProtKB accession" value="A0A833VCV8"/>
+      <property type="length" value="448"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W1JMP0_9CYAN">
+      <property type="source organism" value="Acaryochloris thomasi RCC1774"/>
+      <property type="NCBI taxonomy" value="1764569"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DA6729E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W1JMP0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W1JMP0"/>
+      <property type="UniProtKB accession" value="A0A2W1JMP0"/>
+      <property type="length" value="406"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7T5E6R7_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. BL0902"/>
+      <property type="NCBI taxonomy" value="1115757"/>
+      <property type="protein name" value="Geranylgeranyl reductase"/>
+      <property type="UniParc ID" value="UPI0019372CC6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7T5E6R7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="UniProtKB accession" value="A0A7T5E6R7"/>
+      <property type="length" value="382"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W7AHH8_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp"/>
+      <property type="NCBI taxonomy" value="47254"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DB1597F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W7AHH8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="UniProtKB accession" value="A0A2W7AHH8"/>
+      <property type="length" value="411"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W4XV02_9CYAN">
+      <property type="source organism" value="Shackletoniella antarctica"/>
+      <property type="NCBI taxonomy" value="268115"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DB1597F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W7AHH8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="UniProtKB accession" value="A0A2W4XV02"/>
+      <property type="length" value="411"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A350X9W1_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium UBA11372"/>
+      <property type="NCBI taxonomy" value="2055768"/>
+      <property type="protein name" value="FAD_binding_3 domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI000E9CB9D4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A350X9W1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A350XBV7"/>
+      <property type="UniProtKB accession" value="A0A350X9W1"/>
+      <property type="length" value="30"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A350XBV7_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium UBA11372"/>
+      <property type="NCBI taxonomy" value="2055768"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000E82DFC3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A350XBV7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A350XBV7"/>
+      <property type="UniProtKB accession" value="A0A350XBV7"/>
+      <property type="length" value="383"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A835U5U4_VANPL">
+      <property type="source organism" value="Vanilla planifolia (Vanilla)"/>
+      <property type="NCBI taxonomy" value="51239"/>
+      <property type="protein name" value="Geranylgeranyl reductase"/>
+      <property type="UniParc ID" value="UPI001A1C23B6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A835U5U4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A835U5U4"/>
+      <property type="UniProtKB accession" value="A0A835U5U4"/>
+      <property type="length" value="375"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A835VM12_VANPL">
+      <property type="source organism" value="Vanilla planifolia (Vanilla)"/>
+      <property type="NCBI taxonomy" value="51239"/>
+      <property type="protein name" value="FAD_binding_3 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001A35E371"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A835VM12"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A835U5U4"/>
+      <property type="UniProtKB accession" value="A0A835VM12"/>
+      <property type="length" value="441"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P5VK29_9CYAN">
+      <property type="source organism" value="Cyanobium sp"/>
+      <property type="NCBI taxonomy" value="2164130"/>
+      <property type="protein name" value="Geranylgeranyl reductase"/>
+      <property type="UniParc ID" value="UPI0010EFBC5E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P5VK29"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4P5VK29"/>
+      <property type="UniProtKB accession" value="A0A4P5VK29"/>
+      <property type="length" value="420"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0P4UI47_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. NIES-2104"/>
+      <property type="NCBI taxonomy" value="1552121"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0006ECBE98"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0P4UI47"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="UniProtKB accession" value="A0A0P4UI47"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T1DF78_9CYAN">
+      <property type="source organism" value="Phormidesmis priestleyi ULC007"/>
+      <property type="NCBI taxonomy" value="1920490"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0009343D17"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T1DF78"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="UniProtKB accession" value="A0A2T1DF78"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0S3UD62_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. NIES-3755"/>
+      <property type="NCBI taxonomy" value="1752064"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000722B637"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0S3UD62"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="UniProtKB accession" value="A0A0S3UD62"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4JKP0_LEPBY">
+      <property type="source organism" value="Leptolyngbya boryana NIES-2135"/>
+      <property type="NCBI taxonomy" value="1973484"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0003643EA0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4JKP0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="UniProtKB accession" value="A0A1Z4JKP0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7Z129_9CYAN">
+      <property type="source organism" value="Myxacorys almedinensis A"/>
+      <property type="NCBI taxonomy" value="2690445"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013917C83"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7Z129"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="UniProtKB accession" value="A0A8J7Z129"/>
+      <property type="length" value="406"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K8GQY9_9CYAN">
+      <property type="source organism" value="Leptolyngbyaceae cyanobacterium JSC-12"/>
+      <property type="NCBI taxonomy" value="864702"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0002984156"/>
+      <property type="UniRef100 ID" value="UniRef100_K8GQY9"/>
+      <property type="UniRef90 ID" value="UniRef90_B8HQP3"/>
+      <property type="UniProtKB accession" value="K8GQY9"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B8HQP3_CYAP4">
+      <property type="source organism" value="Cyanothece sp. (strain PCC 7425 / ATCC 29141)"/>
+      <property type="NCBI taxonomy" value="395961"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00017E6912"/>
+      <property type="UniRef100 ID" value="UniRef100_B8HQP3"/>
+      <property type="UniRef90 ID" value="UniRef90_B8HQP3"/>
+      <property type="UniProtKB accession" value="B8HQP3"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q8Z873_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. 'hensonii'"/>
+      <property type="NCBI taxonomy" value="1922337"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00094FA782"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q8Z873"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q8Z873"/>
+      <property type="UniProtKB accession" value="A0A1Q8Z873"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I5NPQ0_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. SIO4C1"/>
+      <property type="NCBI taxonomy" value="2607770"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013BCD4F1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I5NPQ0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A651DTI0"/>
+      <property type="UniProtKB accession" value="A0A6I5NPQ0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A651DTI0_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. DLM2.Bin15"/>
+      <property type="NCBI taxonomy" value="2480212"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00137E8D37"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A651DTI0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A651DTI0"/>
+      <property type="UniProtKB accession" value="A0A651DTI0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7C3KEF1_9CYAN">
+      <property type="source organism" value="Oscillatoriales cyanobacterium SpSt-418"/>
+      <property type="NCBI taxonomy" value="2282169"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00175916A2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7C3KEF1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7C3KEF1"/>
+      <property type="UniProtKB accession" value="A0A7C3KEF1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8K2A6B1_9CYAN">
+      <property type="source organism" value="Petrachloros mirabilis ULC683"/>
+      <property type="NCBI taxonomy" value="2781853"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00137B1600"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8K2A6B1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8K2A6B1"/>
+      <property type="UniProtKB accession" value="A0A8K2A6B1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M1KTJ6_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium J083"/>
+      <property type="NCBI taxonomy" value="2420336"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000F26594B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3M1KTJ6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3M1KTJ6"/>
+      <property type="UniProtKB accession" value="A0A3M1KTJ6"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4RQR1_9CHRO">
+      <property type="source organism" value="Chondrocystis sp. NIES-4102"/>
+      <property type="NCBI taxonomy" value="2005460"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000B61D741"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4RQR1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RQR1"/>
+      <property type="UniProtKB accession" value="A0A1Z4RQR1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T1CPX4_9CYAN">
+      <property type="source organism" value="Pleurocapsa sp. CCALA 161"/>
+      <property type="NCBI taxonomy" value="2107688"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000D04C010"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T1CPX4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RQR1"/>
+      <property type="UniProtKB accession" value="A0A2T1CPX4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T1E4X0_9CYAN">
+      <property type="source organism" value="Stenomitos frigidus ULC18"/>
+      <property type="NCBI taxonomy" value="2107698"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000D061DD4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T1E4X0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1E4X0"/>
+      <property type="UniProtKB accession" value="A0A2T1E4X0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1E5QSV4_9CHRO">
+      <property type="source organism" value="Cyanobacterium sp. IPPAS B-1200"/>
+      <property type="NCBI taxonomy" value="1562720"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000852854E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1E5QSV4"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A1E5QSV4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0D6AR24_9CHRO">
+      <property type="source organism" value="Geminocystis sp. NIES-3709"/>
+      <property type="NCBI taxonomy" value="1617448"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0005FC905B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0D6AR24"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A0D6AR24"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q2TV99_9SYNE">
+      <property type="source organism" value="Synechococcus sp. NIES-970"/>
+      <property type="NCBI taxonomy" value="1827144"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00097FB4AD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q2TV99"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A1Q2TV99"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9YP85_CYASC">
+      <property type="source organism" value="Cyanobacterium stanieri (strain ATCC 29140 / PCC 7202)"/>
+      <property type="NCBI taxonomy" value="292563"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0002A06144"/>
+      <property type="UniRef100 ID" value="UniRef100_K9YP85"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="K9YP85"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B1XKH9_SYNP2">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) (Agmenellumquadruplicatum)"/>
+      <property type="NCBI taxonomy" value="32049"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00016DCD21"/>
+      <property type="UniRef100 ID" value="UniRef100_B1XKH9"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="B1XKH9"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B1TRW2_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 7003"/>
+      <property type="NCBI taxonomy" value="374981"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00016DCD21"/>
+      <property type="UniRef100 ID" value="UniRef100_B1XKH9"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A1B1TRW2"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K8WRH4_9CHRO">
+      <property type="source organism" value="Cyanobacterium sp. HL-69"/>
+      <property type="NCBI taxonomy" value="2054282"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000CA0BF76"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K8WRH4"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A2K8WRH4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0D6AE02_9CHRO">
+      <property type="source organism" value="Geminocystis sp. NIES-3708"/>
+      <property type="NCBI taxonomy" value="1615909"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0005FC90C2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0D6AE02"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A0D6AE02"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B1U0V4_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 7117"/>
+      <property type="NCBI taxonomy" value="195498"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004ABA93A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B1U0V4"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A1B1U0V4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4V1G1B9_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 11901"/>
+      <property type="NCBI taxonomy" value="2579791"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0004ABA93A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B1U0V4"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A4V1G1B9"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9Z566_CYAAP">
+      <property type="source organism" value="Cyanobacterium aponinum (strain PCC 10605)"/>
+      <property type="NCBI taxonomy" value="755178"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0002A0713D"/>
+      <property type="UniRef100 ID" value="UniRef100_K9Z566"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="K9Z566"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A844GXP9_9CHRO">
+      <property type="source organism" value="Cyanobacterium aponinum 0216"/>
+      <property type="NCBI taxonomy" value="2676140"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0002A0713D"/>
+      <property type="UniRef100 ID" value="UniRef100_K9Z566"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="UniProtKB accession" value="A0A844GXP9"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A563VXN5_9CYAN">
+      <property type="source organism" value="Hyella patelloides LEGE 07179"/>
+      <property type="NCBI taxonomy" value="945734"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0011713840"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A563VXN5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A563VXN5"/>
+      <property type="UniProtKB accession" value="A0A563VXN5"/>
+      <property type="length" value="420"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M0S2E5_9CYAN">
+      <property type="source organism" value="Adonisia turfae CCMR0082"/>
+      <property type="NCBI taxonomy" value="2304604"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013D5A9B9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M0S2E5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="UniProtKB accession" value="A0A6M0S2E5"/>
+      <property type="length" value="422"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M0RK93_9CYAN">
+      <property type="source organism" value="Adonisia turfae CCMR0081"/>
+      <property type="NCBI taxonomy" value="2292702"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0013D5A9B9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M0S2E5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="UniProtKB accession" value="A0A6M0RK93"/>
+      <property type="length" value="422"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9FLU8_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. PCC 7375"/>
+      <property type="NCBI taxonomy" value="102129"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00029DDDCC"/>
+      <property type="UniRef100 ID" value="UniRef100_K9FLU8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="UniProtKB accession" value="K9FLU8"/>
+      <property type="length" value="422"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="U9VUL6_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. Heron Island J"/>
+      <property type="NCBI taxonomy" value="1385935"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0003B95232"/>
+      <property type="UniRef100 ID" value="UniRef100_U9VUL6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="UniProtKB accession" value="U9VUL6"/>
+      <property type="length" value="418"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B4WNE3_SYNS7">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 29403 / PCC 7335)"/>
+      <property type="NCBI taxonomy" value="91464"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00017EC3E7"/>
+      <property type="UniRef100 ID" value="UniRef100_B4WNE3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="UniProtKB accession" value="B4WNE3"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9PX88_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. PCC 7376"/>
+      <property type="NCBI taxonomy" value="111781"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00029F2898"/>
+      <property type="UniRef100 ID" value="UniRef100_K9PX88"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4R5V1"/>
+      <property type="UniProtKB accession" value="K9PX88"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q4R5V1_9CYAN">
+      <property type="source organism" value="Limnothrix rosea IAM M-220"/>
+      <property type="NCBI taxonomy" value="454133"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00095D9CFD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4R5V1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4R5V1"/>
+      <property type="UniProtKB accession" value="A0A1Q4R5V1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W7AU42_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp"/>
+      <property type="NCBI taxonomy" value="47254"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000DAFD204"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W7AU42"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7Y3TKF5"/>
+      <property type="UniProtKB accession" value="A0A2W7AU42"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7Y3TKF5_9FLAO">
+      <property type="source organism" value="Flavobacterium sp. CLA17"/>
+      <property type="NCBI taxonomy" value="2724135"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0014908AA2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7Y3TKF5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7Y3TKF5"/>
+      <property type="UniProtKB accession" value="A0A7Y3TKF5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M1TCN8_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium J055"/>
+      <property type="NCBI taxonomy" value="2420338"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000F149E94"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3M1TCN8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3M1TCN8"/>
+      <property type="UniProtKB accession" value="A0A3M1TCN8"/>
+      <property type="length" value="413"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T1C2A4_9CYAN">
+      <property type="source organism" value="Merismopedia glauca CCAP 1448/3"/>
+      <property type="NCBI taxonomy" value="1296344"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000D05DD9A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T1C2A4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1C2A4"/>
+      <property type="UniProtKB accession" value="A0A2T1C2A4"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U1MWN5_ARTAN">
+      <property type="source organism" value="Artemisia annua (Sweet wormwood)"/>
+      <property type="NCBI taxonomy" value="35608"/>
+      <property type="protein name" value="Aromatic-ring hydroxylase-like protein"/>
+      <property type="UniParc ID" value="UPI000D5DB5A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2U1MWN5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U1LXX8"/>
+      <property type="UniProtKB accession" value="A0A2U1MWN5"/>
+      <property type="length" value="378"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U1LXX8_ARTAN">
+      <property type="source organism" value="Artemisia annua (Sweet wormwood)"/>
+      <property type="NCBI taxonomy" value="35608"/>
+      <property type="protein name" value="Aromatic-ring hydroxylase-like protein"/>
+      <property type="UniParc ID" value="UPI000D5E0847"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2U1LXX8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U1LXX8"/>
+      <property type="UniProtKB accession" value="A0A2U1LXX8"/>
+      <property type="length" value="378"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q8DMG7_THEVB">
+      <property type="source organism" value="Thermosynechococcus vestitus (strain NIES-2133 / IAM M-273 / BP-1)"/>
+      <property type="NCBI taxonomy" value="197221"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00000E3807"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8DMG7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="UniProtKB accession" value="Q8DMG7"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="V5V7B0_9CYAN">
+      <property type="source organism" value="Thermosynechococcus sp. NK55a"/>
+      <property type="NCBI taxonomy" value="1394889"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0003D88730"/>
+      <property type="UniRef100 ID" value="UniRef100_V5V7B0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="UniProtKB accession" value="V5V7B0"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M2FN35_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium J003"/>
+      <property type="NCBI taxonomy" value="2420340"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI0003D88730"/>
+      <property type="UniRef100 ID" value="UniRef100_V5V7B0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="UniProtKB accession" value="A0A3M2FN35"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5C2M9N8_9CYAN">
+      <property type="source organism" value="Thermosynechococcus sp. CL-1"/>
+      <property type="NCBI taxonomy" value="2583530"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI00122E64BA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5C2M9N8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="UniProtKB accession" value="A0A5C2M9N8"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D2Q3L9_THELV">
+      <property type="source organism" value="Thermostichus lividus PCC 6715"/>
+      <property type="NCBI taxonomy" value="1917166"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000C187356"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D2Q3L9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="UniProtKB accession" value="A0A2D2Q3L9"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3B7MCT1_9CYAN">
+      <property type="source organism" value="Thermosynechococcus elongatus PKUAC-SCTE542"/>
+      <property type="NCBI taxonomy" value="2016101"/>
+      <property type="protein name" value="geranylgeranyl diphosphate reductase"/>
+      <property type="UniParc ID" value="UPI000EB6D05E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B7MCT1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="UniProtKB accession" value="A0A3B7MCT1"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0009352E76">
+      <property type="source organism" value="Spirulina major"/>
+      <property type="NCBI taxonomy" value="270636"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0009352E76"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="length" value="408"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168400D5">
+      <property type="source organism" value="Synechocystis"/>
+      <property type="NCBI taxonomy" value="1142"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168400D5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018808605">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018808605"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55087"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB0A365">
+      <property type="source organism" value="unclassified Synechocystis"/>
+      <property type="NCBI taxonomy" value="2640012"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB0A365"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001BB0A365"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004770EB6">
+      <property type="source organism" value="Synechococcus sp. PCC 7336"/>
+      <property type="NCBI taxonomy" value="195250"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004770EB6"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0004770EB6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000EFB6982">
+      <property type="source organism" value="Leptolyngbya sp. BC1307"/>
+      <property type="NCBI taxonomy" value="2029589"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000EFB6982"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0P7ZZF1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187FE53C">
+      <property type="source organism" value="cf. Phormidesmis sp. LEGE 11477"/>
+      <property type="NCBI taxonomy" value="1828680"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00187FE53C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0P7ZZF1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168870F7">
+      <property type="source organism" value="unclassified Leptolyngbya"/>
+      <property type="NCBI taxonomy" value="2650499"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168870F7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B5A2223">
+      <property type="source organism" value="Leptolyngbya ohadii"/>
+      <property type="NCBI taxonomy" value="1962290"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B5A2223"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018EFD886">
+      <property type="source organism" value="Phormidium tenue"/>
+      <property type="NCBI taxonomy" value="126344"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018EFD886"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001682D5B7">
+      <property type="source organism" value="Oscillatoria sp. FACHB-1407"/>
+      <property type="NCBI taxonomy" value="2692847"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001682D5B7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016889C2A">
+      <property type="source organism" value="Leptolyngbya sp. FACHB-711"/>
+      <property type="NCBI taxonomy" value="2692813"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016889C2A"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BCR6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E1D7517">
+      <property type="source organism" value="Mercenaria mercenaria"/>
+      <property type="NCBI taxonomy" value="6596"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: geranylgeranyl diphosphate reductase-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E1D7517"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001E1D7517"/>
+      <property type="length" value="420"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001685EBA5">
+      <property type="source organism" value="Planktothrix sp. FACHB-1365"/>
+      <property type="NCBI taxonomy" value="2692855"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001685EBA5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F28688E">
+      <property type="source organism" value="Planktothrix agardhii"/>
+      <property type="NCBI taxonomy" value="1160"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F28688E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001881A546">
+      <property type="source organism" value="Planktothrix mougeotii"/>
+      <property type="NCBI taxonomy" value="54306"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001881A546"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1J1LLN6"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168329E6">
+      <property type="source organism" value="Alkalinema sp. FACHB-956"/>
+      <property type="NCBI taxonomy" value="2692768"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168329E6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A251WLG4"/>
+      <property type="length" value="406"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016860E46">
+      <property type="source organism" value="Cyanobacteria"/>
+      <property type="NCBI taxonomy" value="1117"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016860E46"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="length" value="411"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001687C733">
+      <property type="source organism" value="Pseudanabaena sp. FACHB-2040"/>
+      <property type="NCBI taxonomy" value="2692859"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001687C733"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="length" value="411"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168678A7">
+      <property type="source organism" value="Phormidium sp. FACHB-1136"/>
+      <property type="NCBI taxonomy" value="2692848"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168678A7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="length" value="411"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018E74464">
+      <property type="source organism" value="Leptolyngbya sp. BL0902"/>
+      <property type="NCBI taxonomy" value="1115757"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018E74464"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W7AHH8"/>
+      <property type="length" value="411"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CFD1EE2">
+      <property type="source organism" value="Microseira wollei"/>
+      <property type="NCBI taxonomy" value="467598"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A350X9W1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A350XBV7"/>
+      <property type="length" value="406"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000563C354">
+      <property type="source organism" value="Myxosarcina sp. GI1"/>
+      <property type="NCBI taxonomy" value="1541065"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000563C354"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000563C354"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00083B06C3">
+      <property type="source organism" value="Phormidesmis priestleyi"/>
+      <property type="NCBI taxonomy" value="268141"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00083B06C3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001680FB92">
+      <property type="source organism" value="Leptolyngbya sp. FACHB-17"/>
+      <property type="NCBI taxonomy" value="2692803"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001680FB92"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1DF78"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016819661">
+      <property type="source organism" value="Leptolyngbya sp. FACHB-36"/>
+      <property type="NCBI taxonomy" value="2692808"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016819661"/>
+      <property type="UniRef90 ID" value="UniRef90_B8HQP3"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001407A180">
+      <property type="source organism" value="Lyngbya confervoides"/>
+      <property type="NCBI taxonomy" value="207921"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001407A180"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001407A180"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00194DE27D">
+      <property type="source organism" value="Leptolyngbya sp. CCY15150"/>
+      <property type="NCBI taxonomy" value="2767772"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00194DE27D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A651DTI0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CA77A7B">
+      <property type="source organism" value="Leptothermofonsia sichuanensis"/>
+      <property type="NCBI taxonomy" value="2917832"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CA77A7B"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7C3KEF1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000349D07C">
+      <property type="source organism" value="Pleurocapsa sp. PCC 7319"/>
+      <property type="NCBI taxonomy" value="118161"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000349D07C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RQR1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001DEA19D9">
+      <property type="source organism" value="Waterburya agarophytonicola"/>
+      <property type="NCBI taxonomy" value="2886916"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001DEA19D9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RQR1"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016896356">
+      <property type="source organism" value="Leptolyngbya sp. FACHB-321"/>
+      <property type="NCBI taxonomy" value="2692807"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016896356"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1E4X0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016852CC8">
+      <property type="source organism" value="Phormidium sp. FACHB-592"/>
+      <property type="NCBI taxonomy" value="2692850"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016852CC8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1E4X0"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003F657C5">
+      <property type="source organism" value="Synechococcus sp. NKBG15041c"/>
+      <property type="NCBI taxonomy" value="1407650"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003F657C5"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00034A0A35">
+      <property type="source organism" value="Geminocystis herdmanii"/>
+      <property type="NCBI taxonomy" value="669359"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034A0A35"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F5027AC">
+      <property type="source organism" value="Cyanobacterium aponinum"/>
+      <property type="NCBI taxonomy" value="379064"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F5027AC"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XKH9"/>
+      <property type="length" value="387"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011A96521">
+      <property type="source organism" value="Hyella patelloides"/>
+      <property type="NCBI taxonomy" value="1982969"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0011A96521"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A563VXN5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001881B129">
+      <property type="source organism" value="Leptolyngbya ectocarpi"/>
+      <property type="NCBI taxonomy" value="1202"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001881B129"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="length" value="418"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C00B5B4">
+      <property type="source organism" value="Leptothoe spongobia"/>
+      <property type="NCBI taxonomy" value="2651728"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C00B5B4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M0S2E5"/>
+      <property type="length" value="419"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CCF1791">
+      <property type="source organism" value="Kovacikia minuta"/>
+      <property type="NCBI taxonomy" value="2931930"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CCF1791"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7Y3TKF5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F47989B">
+      <property type="source organism" value="Leptodesmis sichuanensis"/>
+      <property type="NCBI taxonomy" value="2906798"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F47989B"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7Y3TKF5"/>
+      <property type="length" value="407"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00202CFF6C">
+      <property type="source organism" value="Thermosynechococcus sp. HN-54"/>
+      <property type="NCBI taxonomy" value="2933959"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00202CFF6C"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00197D1DD9">
+      <property type="source organism" value="Thermosynechococcus sp. TA-1"/>
+      <property type="NCBI taxonomy" value="2813673"/>
+      <property type="protein name" value="geranylgeranyl reductase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00197D1DD9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8DMG7"/>
+      <property type="length" value="402"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

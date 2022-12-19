@@ -56,14 +56,14 @@ def get_query_locus_via_NCBI(query_GeneID):
 def get_feature_table_via_NCBI(query_locus, update=False):
     
     file_name_ft = 'ft_' + query_locus.replace('.', '_') + '.tsv'
-    if (os.path.isfile(f'outputs/feature_table_ncbi/{file_name_ft}')):
+    if (os.path.isfile(f'outputs/NCBI/feature_table/{file_name_ft}')):
         if (not update):
             return file_name_ft
     
     NCBI_URL = f'https://eutils.NCBI.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id={query_locus}&rettype=ft&retmode=text'
     NCBI_text = requests.get(NCBI_URL).text
     
-    with open(f'outputs/feature_table_ncbi/{file_name_ft}', mode='w') as f:
+    with open(f'outputs/NCBI/feature_table/{file_name_ft}', mode='w') as f:
         print(NCBI_text, end='', file=f)
     
     return file_name_ft
@@ -73,13 +73,13 @@ def get_feature_table_via_NCBI(query_locus, update=False):
 def process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=False):
     
     file_name_gl = 'gl_' + query_locus.replace('.', '_') + '.json'
-    if (os.path.isfile(f'outputs/gene_list_ncbi/{file_name_gl}')):
+    if (os.path.isfile(f'outputs/NCBI/gene_list/{file_name_gl}')):
         if (not update):
-            with open(f'outputs/gene_list_ncbi/{file_name_gl}') as f:
+            with open(f'outputs/NCBI/gene_list/{file_name_gl}') as f:
                 class_dict_list = json.load(f)
             return class_dict_list, file_name_gl
     
-    df_ft = pd.read_table(f'outputs/feature_table_ncbi/{file_name_ft}',
+    df_ft = pd.read_table(f'outputs/NCBI/feature_table/{file_name_ft}',
                           skiprows=1,
                           names=['end', 'start', '_class', 'class_info', 'description'])
     
@@ -117,7 +117,7 @@ def process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=
             tmp_list.append(class_dict)
     class_dict_list.append(tmp_list)
     
-    with open(f'outputs/gene_list_ncbi/{file_name_gl}', mode='w') as f:
+    with open(f'outputs/NCBI/gene_list/{file_name_gl}', mode='w') as f:
         json.dump(class_dict_list, f, indent=4)
     
     return class_dict_list, file_name_gl
@@ -146,11 +146,11 @@ def process_NCBI_json_into_DataFrame(class_dict_list, query_locus, update=False)
     df_gt = pd.DataFrame(gene_table, columns=['start', 'end', 'gene_name', 'GeneID', 'description', 'protein_coding'])
     
     file_name_gt = 'gt_' + query_locus.replace('.', '_') + '.tsv'
-    if (os.path.isfile(f'outputs/gene_table_ncbi/{file_name_gt}')):
+    if (os.path.isfile(f'outputs/NCBI/gene_table/{file_name_gt}')):
         if (not update):
             return df_gt, file_name_gt
     
-    df_gt.to_csv(f'outputs/gene_table_ncbi/{file_name_gt}', sep='\t', header=True, index=False)
+    df_gt.to_csv(f'outputs/NCBI/gene_table/{file_name_gt}', sep='\t', header=True, index=False)
     
     return df_gt, file_name_gt
 
@@ -189,7 +189,7 @@ def get_query_specy_via_Ensembl(query_Ensembl_ID):
 def get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=False):
     
     file_name = f'gl_{query_specy}_{query_seq_region_name}.json'
-    if (os.path.isfile(f'outputs/gene_list_ensembl/{file_name}')):
+    if (os.path.isfile(f'outputs/Ensembl/gene_list/{file_name}')):
         if (not update):
             return 0
     
@@ -198,7 +198,7 @@ def get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=False):
     Ensembl_json = requests.get(Ensembl_URL).text
     dict_Ensembl = json.loads(Ensembl_json)
     
-    with open(f'outputs/gene_list_ensembl/{file_name}', 'w') as f:
+    with open(f'outputs/Ensembl/gene_list/{file_name}', 'w') as f:
         json.dump(dict_Ensembl, f, indent=4)
     
     return 0
@@ -207,12 +207,12 @@ def get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=False):
 
 def process_Ensembl_json_into_DataFrame(query_specy, query_seq_region_name, update=False):
     
-    if (os.path.isfile(f'outputs/gene_table_ensembl/gt_{query_specy}_{query_seq_region_name}.csv')):
+    if (os.path.isfile(f'outputs/Ensembl/gene_table/gt_{query_specy}_{query_seq_region_name}.csv')):
         if (not update):
-            df_gt = pd.read_csv(f'outputs/gene_table_ensembl/gt_{query_specy}_{query_seq_region_name}.csv', header=0)
+            df_gt = pd.read_csv(f'outputs/Ensembl/gene_table/gt_{query_specy}_{query_seq_region_name}.csv', header=0)
             return df_gt
     
-    with open(f'outputs/gene_list_ensembl/gl_{query_specy}_{query_seq_region_name}.json') as f:
+    with open(f'outputs/Ensembl/gene_list/gl_{query_specy}_{query_seq_region_name}.json') as f:
         dict_Ensembl = json.load(f)
     
     table_id_region = []
@@ -227,7 +227,7 @@ def process_Ensembl_json_into_DataFrame(query_specy, query_seq_region_name, upda
     table_id_region = sorted(table_id_region, key=lambda x: x[1])
     
     df_gt = pd.DataFrame(table_id_region, columns=['gene_id', 'start', 'end', 'strand', 'description'])
-    df_gt.to_csv(f'outputs/gene_table_ensembl/gt_{query_specy}_{query_seq_region_name}.csv', header=True, index=False)
+    df_gt.to_csv(f'outputs/Ensembl/gene_table/gt_{query_specy}_{query_seq_region_name}.csv', header=True, index=False)
     
     return df_gt
 

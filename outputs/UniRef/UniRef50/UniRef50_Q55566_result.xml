@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_Q55566" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Putative transposase for insertion sequence element IS4SA</name>
+  <property type="member count" value="215"/>
+  <property type="common taxon" value="Bacteria"/>
+  <property type="common taxon ID" value="2"/>
+  <property type="GO Molecular Function" value="GO:0003677"/>
+  <property type="GO Molecular Function" value="GO:0004803"/>
+  <property type="GO Cellular Component" value="GO:0016020"/>
+  <property type="GO Biological Process" value="GO:0006313"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="T4SA_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Putative transposase for insertion sequence element IS4SA"/>
+      <property type="UniParc ID" value="UPI0000000E93"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55566"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="Q55566"/>
+      <property type="UniProtKB accession" value="Q55067"/>
+      <property type="length" value="338"/>
+    </dbReference>
+    <sequence length="338" checksum="2F5DF21DFDF22ABC">MISNFGHIVKTYLSNFPKDDYPVLDTFKFVSIWLGLVLDQSQTSMRSMFKRLNLRGETVDISTFSKASKKRDVGVFREIIFSLKKELSKRKEIKQGELEIFPLDSTIVSITSKLMWNLGFHQVKVFSGINLSTGIPGGIVIHFGQGHDNKYGNETIEETPENGVAVMDRGFCDLQRIKRLQKENNKYHVLRIKNNIKLEKLANDNYMVGTGKNKIESRVVIFTHDNSEFRLVTNLPIESKEIEGVSDEKIAEIYKKRWQIELLWKFLKMHLKLNRLIAKNENAIGIQIYTCIIAYLILKLLVIPKEAGTTMLDKLRYLQAFMCEKISYVHWLRELALR</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q54AG6_9SYNC">
+      <property type="source organism" value="Synechocystis sp. PCC 6803"/>
+      <property type="NCBI taxonomy" value="1148"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0000000E93"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55566"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="Q54AG6"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q6YRP9_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0000000E93"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55566"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="Q6YRP9"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q55070_9SYNC">
+      <property type="source organism" value="Synechocystis sp. PCC 6803"/>
+      <property type="NCBI taxonomy" value="1148"/>
+      <property type="protein name" value="Putative transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI00000BDC2F"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55566"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="Q55070"/>
+      <property type="length" value="184"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q55644_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00000D710B"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55566"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="Q55644"/>
+      <property type="length" value="132"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="P74077_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00000D711F"/>
+      <property type="UniRef100 ID" value="UniRef100_P74077"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="P74077"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="P97153_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00000D70FA"/>
+      <property type="UniRef100 ID" value="UniRef100_P74077"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="P97153"/>
+      <property type="length" value="172"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="P73073_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00000D70E8"/>
+      <property type="UniRef100 ID" value="UniRef100_P73073"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="P73073"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q6ZEJ0_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000021F80B"/>
+      <property type="UniRef100 ID" value="UniRef100_Q6ZEJ0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="Q6ZEJ0"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="P74278_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00000D7106"/>
+      <property type="UniRef100 ID" value="UniRef100_P74278"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="UniProtKB accession" value="P74278"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q4RA36_9CYAN">
+      <property type="source organism" value="Calothrix sp. HK-06"/>
+      <property type="NCBI taxonomy" value="1137096"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0009371E52"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4RA36"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4RA36"/>
+      <property type="UniProtKB accession" value="A0A1Q4RA36"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="T2JYA8_CROWT">
+      <property type="source organism" value="Crocosphaera watsonii WH 0402"/>
+      <property type="NCBI taxonomy" value="1284629"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000396930C"/>
+      <property type="UniRef100 ID" value="UniRef100_T2JYA8"/>
+      <property type="UniRef90 ID" value="UniRef90_T2JYA8"/>
+      <property type="UniProtKB accession" value="T2JYA8"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B7K1Q3_RIPO1">
+      <property type="source organism" value="Rippkaea orientalis (strain PCC 8801) (Cyanothece sp. (strain PCC 8801))"/>
+      <property type="NCBI taxonomy" value="41431"/>
+      <property type="protein name" value="Transposase IS4 family protein"/>
+      <property type="UniParc ID" value="UPI00018847B7"/>
+      <property type="UniRef100 ID" value="UniRef100_B7K1Q3"/>
+      <property type="UniRef90 ID" value="UniRef90_B7K1Q3"/>
+      <property type="UniProtKB accession" value="B7K1Q3"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q7M7H1_GLOVI">
+      <property type="source organism" value="Gloeobacter violaceus (strain ATCC 29082 / PCC 7421)"/>
+      <property type="NCBI taxonomy" value="251221"/>
+      <property type="protein name" value="Gll0209 protein"/>
+      <property type="UniParc ID" value="UPI00001D1CC6"/>
+      <property type="UniRef100 ID" value="UniRef100_Q7M7H1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q7M787"/>
+      <property type="UniProtKB accession" value="Q7M7H1"/>
+      <property type="length" value="351"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q7M787_GLOVI">
+      <property type="source organism" value="Gloeobacter violaceus (strain ATCC 29082 / PCC 7421)"/>
+      <property type="NCBI taxonomy" value="251221"/>
+      <property type="protein name" value="Gll1093 protein"/>
+      <property type="UniParc ID" value="UPI00001D1F5B"/>
+      <property type="UniRef100 ID" value="UniRef100_Q7M787"/>
+      <property type="UniRef90 ID" value="UniRef90_Q7M787"/>
+      <property type="UniProtKB accession" value="Q7M787"/>
+      <property type="length" value="351"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WDS3_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0008016431"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7WDS3"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VCV4_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0008012B18"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7VCV4"/>
+      <property type="length" value="123"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VFI0_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0008023173"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7VFI0"/>
+      <property type="length" value="236"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VED4_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae LD13"/>
+      <property type="NCBI taxonomy" value="1710894"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FB73D6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7VED4"/>
+      <property type="length" value="68"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VE22_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FE7EBC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7VE22"/>
+      <property type="length" value="170"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VFM7_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FFB392"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7VFM7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7VFM7"/>
+      <property type="length" value="316"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7W374_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FFEB97"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7VFM7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7W374"/>
+      <property type="length" value="106"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WCX1_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000800199F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WCX1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="UniProtKB accession" value="A0A1B7WCX1"/>
+      <property type="length" value="306"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0M4SI40_9NOSO">
+      <property type="source organism" value="Nostoc piscinale CENA21"/>
+      <property type="NCBI taxonomy" value="224013"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0006BDF976"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0M4SI40"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0M4SI40"/>
+      <property type="UniProtKB accession" value="A0A0M4SI40"/>
+      <property type="length" value="351"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0M4TVZ9_9NOSO">
+      <property type="source organism" value="Nostoc piscinale CENA21"/>
+      <property type="NCBI taxonomy" value="224013"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0006BD208F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0M4TVZ9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0M4SI40"/>
+      <property type="UniProtKB accession" value="A0A0M4TVZ9"/>
+      <property type="length" value="351"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G6FSE7_9CYAN">
+      <property type="source organism" value="Fischerella thermalis JSC-11"/>
+      <property type="NCBI taxonomy" value="741277"/>
+      <property type="protein name" value="Transposase IS4"/>
+      <property type="UniParc ID" value="UPI000230C27F"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="UniProtKB accession" value="G6FSE7"/>
+      <property type="length" value="70"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G6FYP1_9CYAN">
+      <property type="source organism" value="Fischerella thermalis JSC-11"/>
+      <property type="NCBI taxonomy" value="741277"/>
+      <property type="protein name" value="Transposase IS4 family protein"/>
+      <property type="UniParc ID" value="UPI000230CA63"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FYP1"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="UniProtKB accession" value="G6FYP1"/>
+      <property type="length" value="354"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A218Q3I6_9CYAN">
+      <property type="source organism" value="Nodularia sp. NIES-3585"/>
+      <property type="NCBI taxonomy" value="1973477"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000B5C3EFD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A218Q3I6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A218Q3I6"/>
+      <property type="UniProtKB accession" value="A0A218Q3I6"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1V4BM12_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa KW"/>
+      <property type="NCBI taxonomy" value="1960155"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0009A1EE11"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1V4BM12"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A1V4BM12"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0MAY0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa TA09"/>
+      <property type="NCBI taxonomy" value="2060472"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000E38C5EF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0MAY0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A3E0MAY0"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1V4BUW6_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa KW"/>
+      <property type="NCBI taxonomy" value="1960155"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0009A20666"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1V4BUW6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A1V4BUW6"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5J5LYJ7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa EAWAG127a"/>
+      <property type="NCBI taxonomy" value="2529855"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001246E5BF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5J5LYJ7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A5J5LYJ7"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0LQJ8_9CHRO">
+      <property type="source organism" value="Microcystis wesenbergii TW10"/>
+      <property type="NCBI taxonomy" value="2060474"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000E37FE97"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0LQJ8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A3E0LQJ8"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552ATC4_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_OC_H_19870700_S124"/>
+      <property type="NCBI taxonomy" value="2486262"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000E37FE97"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0LQJ8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A552ATC4"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0KVF8_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa TA09"/>
+      <property type="NCBI taxonomy" value="2060472"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000E3728B2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0KVF8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A3E0KVF8"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0A1VYG8_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-44"/>
+      <property type="NCBI taxonomy" value="449439"/>
+      <property type="protein name" value="Mobile element protein"/>
+      <property type="UniParc ID" value="UPI00052C1C00"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0A1VYG8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="UniProtKB accession" value="A0A0A1VYG8"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6N0LQP7_9NOSO">
+      <property type="source organism" value="Nostoc sp. TCL240-02"/>
+      <property type="NCBI taxonomy" value="2572090"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI00157F882D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6N0LQP7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A6N0LQP7"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6N0LQV1_9NOSO">
+      <property type="source organism" value="Nostoc sp. TCL240-02"/>
+      <property type="NCBI taxonomy" value="2572090"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI00157F91B4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6N0LQV1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A6N0LQV1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7D5Z6_9CYAN">
+      <property type="source organism" value="aff. Roholtiella sp. LEGE 12411"/>
+      <property type="NCBI taxonomy" value="1828822"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI00188075D7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7D5Z6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A8J7D5Z6"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P1L3V5_9NOSO">
+      <property type="source organism" value="Nostoc sp. ATCC 53789"/>
+      <property type="NCBI taxonomy" value="76335"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000DEC4C1A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P1L3V5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A6P1L3V5"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6ZSN8_DESMC">
+      <property type="source organism" value="Desmonostoc muscorum LEGE 12446"/>
+      <property type="NCBI taxonomy" value="1828758"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI00187F6DBA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6ZSN8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A8J6ZSN8"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6N0LMT1_9NOSO">
+      <property type="source organism" value="Nostoc sp. TCL240-02"/>
+      <property type="NCBI taxonomy" value="2572090"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI00157FA225"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6N0LMT1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A6N0LMT1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B2IWM5_NOSP7">
+      <property type="source organism" value="Nostoc punctiforme (strain ATCC 29133 / PCC 73102)"/>
+      <property type="NCBI taxonomy" value="63737"/>
+      <property type="protein name" value="Transposase, IS4 family protein"/>
+      <property type="UniParc ID" value="UPI000038CF59"/>
+      <property type="UniRef100 ID" value="UniRef100_B2IWM5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="B2IWM5"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7IMU9_9NOST">
+      <property type="source organism" value="Dendronalium phyllosphericum CENA369"/>
+      <property type="NCBI taxonomy" value="1725256"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001A21B5BB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7IMU9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A8J7IMU9"/>
+      <property type="length" value="332"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A367RY21_NOSPU">
+      <property type="source organism" value="Nostoc punctiforme NIES-2108"/>
+      <property type="NCBI taxonomy" value="1356359"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000E04C574"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A367RY21"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A367RY21"/>
+      <property type="length" value="331"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A841VL14_9NOSO">
+      <property type="source organism" value="Nostoc sp. UCD120"/>
+      <property type="NCBI taxonomy" value="2681312"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI001629DC98"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841VL14"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A841VL14"/>
+      <property type="length" value="290"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A252E7H9_9NOSO">
+      <property type="source organism" value="Nostoc sp. T09"/>
+      <property type="NCBI taxonomy" value="1932621"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000B701AF7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252E7H9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A252E7H9"/>
+      <property type="length" value="70"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7IDD0_9NOST">
+      <property type="source organism" value="Dendronalium phyllosphericum CENA369"/>
+      <property type="NCBI taxonomy" value="1725256"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001A349F20"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252E7H9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A8J7IDD0"/>
+      <property type="length" value="68"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7LHN5_9NOST">
+      <property type="source organism" value="Dendronalium phyllosphericum CENA369"/>
+      <property type="NCBI taxonomy" value="1725256"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001A1AC4FC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252E7H9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A8J7LHN5"/>
+      <property type="length" value="55"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A841VAA0_9NOSO">
+      <property type="source organism" value="Nostoc sp. UCD120"/>
+      <property type="NCBI taxonomy" value="2681312"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI00183032BC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841VAA0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="UniProtKB accession" value="A0A841VAA0"/>
+      <property type="length" value="51"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A853MGX0_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-505"/>
+      <property type="NCBI taxonomy" value="533240"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0007EF4B5A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A853MGX0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A853MGX0"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4UK51_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis kisseleviana NIES-73"/>
+      <property type="NCBI taxonomy" value="1973480"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000B616375"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4UK51"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1Z4UK51"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A479ZTB4_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis reniformis"/>
+      <property type="NCBI taxonomy" value="531300"/>
+      <property type="protein name" value="Transposase, IS4 family protein"/>
+      <property type="UniParc ID" value="UPI000B616375"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4UK51"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A479ZTB4"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A166KSM7_NODSP">
+      <property type="source organism" value="Nodularia spumigena CENA596"/>
+      <property type="NCBI taxonomy" value="1819295"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0007B4EA0C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A166KSM7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A166KSM7"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="D4TDH9_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-505"/>
+      <property type="NCBI taxonomy" value="533240"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0001C15C36"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="D4TDH9"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7W2A3M4_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_D"/>
+      <property type="NCBI taxonomy" value="2585137"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0017DBEB60"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A7W2A3M4"/>
+      <property type="length" value="81"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A838WX57_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_A"/>
+      <property type="NCBI taxonomy" value="2585140"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0017DBEB60"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A838WX57"/>
+      <property type="length" value="81"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7W1WG05_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_D"/>
+      <property type="NCBI taxonomy" value="2585137"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0017F0374B"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A7W1WG05"/>
+      <property type="length" value="101"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A838WRR1_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_A"/>
+      <property type="NCBI taxonomy" value="2585140"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0018506C7E"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A838WRR1"/>
+      <property type="length" value="107"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7W1WAQ1_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_D"/>
+      <property type="NCBI taxonomy" value="2585137"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0015EEAB6A"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A7W1WAQ1"/>
+      <property type="length" value="218"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7W2A1L0_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_D"/>
+      <property type="NCBI taxonomy" value="2585137"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0017B5FEEA"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A7W2A1L0"/>
+      <property type="length" value="75"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7W2A343_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_D"/>
+      <property type="NCBI taxonomy" value="2585137"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0017EFF3E7"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A7W2A343"/>
+      <property type="length" value="95"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A838WXW8_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_A"/>
+      <property type="NCBI taxonomy" value="2585140"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0017F0D73A"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A838WXW8"/>
+      <property type="length" value="103"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A838WHV5_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-506_A"/>
+      <property type="NCBI taxonomy" value="2585140"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0017DC358B"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A838WHV5"/>
+      <property type="length" value="47"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4UWC9_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis kisseleviana NIES-73"/>
+      <property type="NCBI taxonomy" value="1973480"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000B5E86FE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4UWC9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1Z4UWC9"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A654SE00_9CYAN">
+      <property type="source organism" value="Chrysosporum ovalisporum"/>
+      <property type="NCBI taxonomy" value="75695"/>
+      <property type="protein name" value="Transposase IS4 family (Transposase, IS4)"/>
+      <property type="UniParc ID" value="UPI0006F0EEBA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A654SE00"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A654SE00"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3S1IAI6_ANAVA">
+      <property type="source organism" value="Trichormus variabilis SAG 1403-4b"/>
+      <property type="NCBI taxonomy" value="447716"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000F9950A2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3S1IAI6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A3S1IAI6"/>
+      <property type="length" value="302"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WVE9_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0008017473"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7WVE9"/>
+      <property type="length" value="70"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8G0RVJ9_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis torques-reginae ITEP-024"/>
+      <property type="NCBI taxonomy" value="984208"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001C72C136"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A8G0RVJ9"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VFE8_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FE5703"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7VFE8"/>
+      <property type="length" value="74"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WBM2_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000800B2CC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7WBM2"/>
+      <property type="length" value="68"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WNM6_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0008006F5D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7WNM6"/>
+      <property type="length" value="69"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VFL0_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0008006F5D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7VFL0"/>
+      <property type="length" value="69"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VGK6_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0008017473"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7VGK6"/>
+      <property type="length" value="70"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WI44_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000800D8D1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7WI44"/>
+      <property type="length" value="75"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7VM78_9NOST">
+      <property type="source organism" value="Anabaena sp. WA113"/>
+      <property type="NCBI taxonomy" value="1710889"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000800D8D1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WVE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="UniProtKB accession" value="A0A1B7VM78"/>
+      <property type="length" value="75"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9UDI6_CHAP6">
+      <property type="source organism" value="Chamaesiphon minutus (strain ATCC 27169 / PCC 6605)"/>
+      <property type="NCBI taxonomy" value="1173020"/>
+      <property type="protein name" value="Transposase family protein"/>
+      <property type="UniParc ID" value="UPI00029FF12D"/>
+      <property type="UniRef100 ID" value="UniRef100_K9UDI6"/>
+      <property type="UniRef90 ID" value="UniRef90_K9UDI6"/>
+      <property type="UniProtKB accession" value="K9UDI6"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F4XK99_9CYAN">
+      <property type="source organism" value="Moorena producens 3L"/>
+      <property type="NCBI taxonomy" value="489825"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00020E1C47"/>
+      <property type="UniRef100 ID" value="UniRef100_F4XK99"/>
+      <property type="UniRef90 ID" value="UniRef90_F4XK99"/>
+      <property type="UniProtKB accession" value="F4XK99"/>
+      <property type="length" value="337"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0PM12_9CYAN">
+      <property type="source organism" value="Moorena sp. SIO4E2"/>
+      <property type="NCBI taxonomy" value="2607826"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0013BA8C3D"/>
+      <property type="UniRef100 ID" value="UniRef100_F4XK99"/>
+      <property type="UniRef90 ID" value="UniRef90_F4XK99"/>
+      <property type="UniProtKB accession" value="A0A6P0PM12"/>
+      <property type="length" value="138"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A846H2B8_9CYAN">
+      <property type="source organism" value="Moorena sp. SIO1G6"/>
+      <property type="NCBI taxonomy" value="2607840"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0013BF2419"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A846H2B8"/>
+      <property type="UniRef90 ID" value="UniRef90_F4XK99"/>
+      <property type="UniProtKB accession" value="A0A846H2B8"/>
+      <property type="length" value="337"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9X2R4_9NOST">
+      <property type="source organism" value="Cylindrospermum stagnale PCC 7417"/>
+      <property type="NCBI taxonomy" value="56107"/>
+      <property type="protein name" value="Transposase family protein"/>
+      <property type="UniParc ID" value="UPI0002A5D1FD"/>
+      <property type="UniRef100 ID" value="UniRef100_K9X2R4"/>
+      <property type="UniRef90 ID" value="UniRef90_K9X2R4"/>
+      <property type="UniProtKB accession" value="K9X2R4"/>
+      <property type="length" value="354"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H1U525_9CYAN">
+      <property type="source organism" value="Oxynema aestuarii AP17"/>
+      <property type="NCBI taxonomy" value="2064643"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001442B6D2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H1U525"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H1U525"/>
+      <property type="UniProtKB accession" value="A0A6H1U525"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7EQG2_9CYAN">
+      <property type="source organism" value="Oculatella sp. LEGE 06141"/>
+      <property type="NCBI taxonomy" value="1828648"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI001880896F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7EQG2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7EQG2"/>
+      <property type="UniProtKB accession" value="A0A8J7EQG2"/>
+      <property type="length" value="322"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9X8H6_9NOST">
+      <property type="source organism" value="Cylindrospermum stagnale PCC 7417"/>
+      <property type="NCBI taxonomy" value="56107"/>
+      <property type="protein name" value="Transposase family protein"/>
+      <property type="UniParc ID" value="UPI0002A6743C"/>
+      <property type="UniRef100 ID" value="UniRef100_K9X8H6"/>
+      <property type="UniRef90 ID" value="UniRef90_K9X8H6"/>
+      <property type="UniProtKB accession" value="K9X8H6"/>
+      <property type="length" value="336"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2P1UFQ1_9CHRO">
+      <property type="source organism" value="Microcystis sp. MC19"/>
+      <property type="NCBI taxonomy" value="1967666"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000D116A43"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A2P1UFQ1"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5A5RBB2_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-2519"/>
+      <property type="NCBI taxonomy" value="2303981"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00125A85F6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A5A5RBB2"/>
+      <property type="length" value="173"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I4GXG3_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 9806"/>
+      <property type="NCBI taxonomy" value="1160282"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000261B879"/>
+      <property type="UniRef100 ID" value="UniRef100_I4GXG3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="I4GXG3"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5A5S9H9_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-2521"/>
+      <property type="NCBI taxonomy" value="2303983"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000261B879"/>
+      <property type="UniRef100 ID" value="UniRef100_I4GXG3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A5A5S9H9"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0LIV3_9CHRO">
+      <property type="source organism" value="Microcystis wesenbergii TW10"/>
+      <property type="NCBI taxonomy" value="2060474"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000E388C8B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0LIV3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A3E0LIV3"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H9GWP7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-3804"/>
+      <property type="NCBI taxonomy" value="2517783"/>
+      <property type="protein name" value="Transposase IS4 family protein"/>
+      <property type="UniParc ID" value="UPI001306BA10"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H9GWP7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A6H9GWP7"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552PIJ3_9CHRO">
+      <property type="source organism" value="Microcystis panniformis Mp_MB_F_20051200_S9"/>
+      <property type="NCBI taxonomy" value="2486223"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0011921ACC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552PIJ3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A552PIJ3"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A841V690_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa BLCC-F158"/>
+      <property type="NCBI taxonomy" value="2755316"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000D97AEED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841V690"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A841V690"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Z6V3E1_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Sj"/>
+      <property type="NCBI taxonomy" value="1979544"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000D97AEED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841V690"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A2Z6V3E1"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2P1UCC2_9CHRO">
+      <property type="source organism" value="Microcystis sp. MC19"/>
+      <property type="NCBI taxonomy" value="1967666"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000D13CF28"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UCC2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A2P1UCC2"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552L727_9CHRO">
+      <property type="source organism" value="Microcystis flos-aquae Mf_QC_C_20070823_S10D"/>
+      <property type="NCBI taxonomy" value="2486236"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001196C945"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UCC2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A552L727"/>
+      <property type="length" value="329"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5J4F6C3_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-4325"/>
+      <property type="NCBI taxonomy" value="2569534"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00126C0C86"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5J4F6C3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A5J4F6C3"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I4HJM9_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 9808"/>
+      <property type="NCBI taxonomy" value="1160284"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0002620C29"/>
+      <property type="UniRef100 ID" value="UniRef100_I4HJM9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="I4HJM9"/>
+      <property type="length" value="71"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5J5M018_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa EAWAG127a"/>
+      <property type="NCBI taxonomy" value="2529855"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001244B123"/>
+      <property type="UniRef100 ID" value="UniRef100_I4HJM9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A5J5M018"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H9GKA0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-3806"/>
+      <property type="NCBI taxonomy" value="2517784"/>
+      <property type="protein name" value="Transposase IS4 family protein"/>
+      <property type="UniParc ID" value="UPI0002620C29"/>
+      <property type="UniRef100 ID" value="UniRef100_I4HJM9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="UniProtKB accession" value="A0A6H9GKA0"/>
+      <property type="length" value="71"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7L461_9NOST">
+      <property type="source organism" value="Atlanticothrix silvestris CENA357"/>
+      <property type="NCBI taxonomy" value="1725252"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001A2743EB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7L461"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7L461"/>
+      <property type="UniProtKB accession" value="A0A8J7L461"/>
+      <property type="length" value="355"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0XKV2_9CYAN">
+      <property type="source organism" value="Okeania sp. SIO2D1"/>
+      <property type="NCBI taxonomy" value="2607792"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0013BE569E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P0XKV2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P0XKV2"/>
+      <property type="UniProtKB accession" value="A0A6P0XKV2"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2N6L3P0_9CYAN">
+      <property type="source organism" value="Fischerella thermalis CCMEE 5318"/>
+      <property type="NCBI taxonomy" value="2019666"/>
+      <property type="protein name" value="IS4 family transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000C80D6AC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2N6L3P0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2N6L3P0"/>
+      <property type="UniProtKB accession" value="A0A2N6L3P0"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q3M8C5_TRIV2">
+      <property type="source organism" value="Trichormus variabilis (strain ATCC 29413 / PCC 7937) (Anabaena variabilis)"/>
+      <property type="NCBI taxonomy" value="240292"/>
+      <property type="protein name" value="Transposase, IS4 family"/>
+      <property type="UniParc ID" value="UPI00005B3B4D"/>
+      <property type="UniRef100 ID" value="UniRef100_Q3M8C5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3M8C5"/>
+      <property type="UniProtKB accession" value="Q3M8C5"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5Q0GQD4_9NOST">
+      <property type="source organism" value="Anabaena sp. YBS01"/>
+      <property type="NCBI taxonomy" value="2490939"/>
+      <property type="protein name" value="IS4-like element ISAva3 family transposase"/>
+      <property type="UniParc ID" value="UPI00005B3B4D"/>
+      <property type="UniRef100 ID" value="UniRef100_Q3M8C5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3M8C5"/>
+      <property type="UniProtKB accession" value="A0A5Q0GQD4"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M8BKX1_9CYAN">
+      <property type="source organism" value="Thermoleptolyngbya sichuanensis PKUAC-SCTA183"/>
+      <property type="NCBI taxonomy" value="2737172"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI00155597D1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M8BKX1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BQI0"/>
+      <property type="UniProtKB accession" value="A0A6M8BKX1"/>
+      <property type="length" value="324"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M8BQI0_9CYAN">
+      <property type="source organism" value="Thermoleptolyngbya sichuanensis PKUAC-SCTA183"/>
+      <property type="NCBI taxonomy" value="2737172"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI001557DF11"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M8BQI0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BQI0"/>
+      <property type="UniProtKB accession" value="A0A6M8BQI0"/>
+      <property type="length" value="324"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4I854_9NOSO">
+      <property type="source organism" value="Nostoc sp. NIES-2111"/>
+      <property type="NCBI taxonomy" value="1973475"/>
+      <property type="protein name" value="Transposase, IS4"/>
+      <property type="UniParc ID" value="UPI000B5E90B6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4I854"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4I854"/>
+      <property type="UniProtKB accession" value="A0A1Z4I854"/>
+      <property type="length" value="308"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S6RFT9_9CYAN">
+      <property type="source organism" value="Anabaenopsis elenkinii CCIBt3563"/>
+      <property type="NCBI taxonomy" value="2779889"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI0018C17202"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S6RFT9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S6RFT9"/>
+      <property type="UniProtKB accession" value="A0A7S6RFT9"/>
+      <property type="length" value="341"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0K2LWD4_9NOST">
+      <property type="source organism" value="Anabaena sp. WA102"/>
+      <property type="NCBI taxonomy" value="1647413"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0006AC7B23"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LWD4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A0K2LWD4"/>
+      <property type="length" value="354"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7V032_9NOST">
+      <property type="source organism" value="Anabaena sp. LE011-02"/>
+      <property type="NCBI taxonomy" value="1710892"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00080193C0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LWD4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A1B7V032"/>
+      <property type="length" value="173"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7W400_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000801E26E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LWD4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A1B7W400"/>
+      <property type="length" value="153"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0K2M165_9NOST">
+      <property type="source organism" value="Anabaena sp. WA102"/>
+      <property type="NCBI taxonomy" value="1647413"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0006AC47DF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2M165"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A0K2M165"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7W672_9NOST">
+      <property type="source organism" value="Anabaena sp. MDT14b"/>
+      <property type="NCBI taxonomy" value="1710886"/>
+      <property type="protein name" value="DDE_Tnp_1 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0007FC2549"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2M165"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A1B7W672"/>
+      <property type="length" value="173"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0K2LXT5_9NOST">
+      <property type="source organism" value="Anabaena sp. WA102"/>
+      <property type="NCBI taxonomy" value="1647413"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0006ABF8E2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LXT5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A0K2LXT5"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4UYD6_9CYAN">
+      <property type="source organism" value="Dolichospermum compactum NIES-806"/>
+      <property type="NCBI taxonomy" value="1973481"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI0006ABF8E2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LXT5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A1Z4UYD6"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7W5F5_9NOST">
+      <property type="source organism" value="Anabaena sp. MDT14b"/>
+      <property type="NCBI taxonomy" value="1710886"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FC6F50"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LXT5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A1B7W5F5"/>
+      <property type="length" value="32"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7WAJ6_APHFL">
+      <property type="source organism" value="Aphanizomenon flos-aquae WA102"/>
+      <property type="NCBI taxonomy" value="1710896"/>
+      <property type="protein name" value="Transposase (Fragment)"/>
+      <property type="UniParc ID" value="UPI0007FBE791"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2LXT5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="UniProtKB accession" value="A0A1B7WAJ6"/>
+      <property type="length" value="285"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B7JZD9_RIPO1">
+      <property type="source organism" value="Rippkaea orientalis (strain PCC 8801) (Cyanothece sp. (strain PCC 8801))"/>
+      <property type="NCBI taxonomy" value="41431"/>
+      <property type="protein name" value="Transposase IS4 family protein"/>
+      <property type="UniParc ID" value="UPI00018847AC"/>
+      <property type="UniRef100 ID" value="UniRef100_B7JZD9"/>
+      <property type="UniRef90 ID" value="UniRef90_B7JZD9"/>
+      <property type="UniProtKB accession" value="B7JZD9"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B7K6I8_RIPO1">
+      <property type="source organism" value="Rippkaea orientalis (strain PCC 8801) (Cyanothece sp. (strain PCC 8801))"/>
+      <property type="NCBI taxonomy" value="41431"/>
+      <property type="protein name" value="Transposase IS4 family protein"/>
+      <property type="UniParc ID" value="UPI00018844EC"/>
+      <property type="UniRef100 ID" value="UniRef100_B7K6I8"/>
+      <property type="UniRef90 ID" value="UniRef90_B7JZD9"/>
+      <property type="UniProtKB accession" value="B7K6I8"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9TPY8_9CYAN">
+      <property type="source organism" value="Oscillatoria acuminata PCC 6304"/>
+      <property type="NCBI taxonomy" value="56110"/>
+      <property type="protein name" value="Transposase family protein"/>
+      <property type="UniParc ID" value="UPI00029F812A"/>
+      <property type="UniRef100 ID" value="UniRef100_K9TPY8"/>
+      <property type="UniRef90 ID" value="UniRef90_K9TMX1"/>
+      <property type="UniProtKB accession" value="K9TPY8"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9TMX1_9CYAN">
+      <property type="source organism" value="Oscillatoria acuminata PCC 6304"/>
+      <property type="NCBI taxonomy" value="56110"/>
+      <property type="protein name" value="Transposase family protein"/>
+      <property type="UniParc ID" value="UPI00029FDB3E"/>
+      <property type="UniRef100 ID" value="UniRef100_K9TMX1"/>
+      <property type="UniRef90 ID" value="UniRef90_K9TMX1"/>
+      <property type="UniProtKB accession" value="K9TMX1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9TFV8_9CYAN">
+      <property type="source organism" value="Oscillatoria acuminata PCC 6304"/>
+      <property type="NCBI taxonomy" value="56110"/>
+      <property type="protein name" value="Transposase family protein"/>
+      <property type="UniParc ID" value="UPI00029FE4E0"/>
+      <property type="UniRef100 ID" value="UniRef100_K9TFV8"/>
+      <property type="UniRef90 ID" value="UniRef90_K9TMX1"/>
+      <property type="UniProtKB accession" value="K9TFV8"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6VBH4_9CYAN">
+      <property type="source organism" value="Trichocoleus sp. FACHB-69"/>
+      <property type="NCBI taxonomy" value="2692874"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001684A505"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6VBH4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J6VBH4"/>
+      <property type="UniProtKB accession" value="A0A8J6VBH4"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6SGM0_9CYAN">
+      <property type="source organism" value="Trichocoleus sp. FACHB-40"/>
+      <property type="NCBI taxonomy" value="2692870"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI001683757D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6SGM0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J6VBH4"/>
+      <property type="UniProtKB accession" value="A0A8J6SGM0"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A252CWC8_9NOSO">
+      <property type="source organism" value="Nostoc sp. RF31YmG"/>
+      <property type="NCBI taxonomy" value="1932668"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniParc ID" value="UPI000B75EC9D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252CWC8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A252CWC8"/>
+      <property type="UniProtKB accession" value="A0A252CWC8"/>
+      <property type="length" value="352"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EEDA8CB">
+      <property type="source organism" value="Escherichia coli"/>
+      <property type="NCBI taxonomy" value="562"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_Q55566"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="length" value="91"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001882BAE4">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001882BAE4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001882B797">
+      <property type="source organism" value="Synechocystis sp. LEGE 06083"/>
+      <property type="NCBI taxonomy" value="915336"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001882B797"/>
+      <property type="UniRef90 ID" value="UniRef90_Q55566"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020213BC9">
+      <property type="source organism" value="Chroococcidiopsis sp. CCMEE 29"/>
+      <property type="NCBI taxonomy" value="155894"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020213BC9"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0020213BC9"/>
+      <property type="length" value="336"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CB8EDFD">
+      <property type="source organism" value="Nostoc sp. 'Peltigera membranacea cyanobiont' 232"/>
+      <property type="NCBI taxonomy" value="2014531"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CB8EDFD"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001CB8EDFD"/>
+      <property type="length" value="317"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00034C3B0E">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034C3B0E"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000348483B">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000348483B"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00034D9255">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034D9255"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00034726A1">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034726A1"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00034C612F">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034C612F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005C5F744">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034C612F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="95"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0012DE7BCF">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034C612F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="87"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000347617D">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000347617D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005C5144B">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000347617D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="225"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000348F7FF">
+      <property type="source organism" value="Oscillatoria sp. PCC 10802"/>
+      <property type="NCBI taxonomy" value="1173028"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000348F7FF"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C612F"/>
+      <property type="length" value="333"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0006508F3A">
+      <property type="source organism" value="Crocosphaera watsonii"/>
+      <property type="NCBI taxonomy" value="263511"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_T2JYA8"/>
+      <property type="UniRef90 ID" value="UniRef90_T2JYA8"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00059C5D95">
+      <property type="source organism" value="Rippkaea orientalis"/>
+      <property type="NCBI taxonomy" value="2546366"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00059C5D95"/>
+      <property type="UniRef90 ID" value="UniRef90_B7K1Q3"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168234C3">
+      <property type="source organism" value="Aphanizomenon flos-aquae"/>
+      <property type="NCBI taxonomy" value="1176"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="length" value="96"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001682D039">
+      <property type="source organism" value="Aphanizomenon sp. FACHB-1399"/>
+      <property type="NCBI taxonomy" value="2692773"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="length" value="88"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001689F482">
+      <property type="source organism" value="Aphanizomenon flos-aquae"/>
+      <property type="NCBI taxonomy" value="1176"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7WDS3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WCX1"/>
+      <property type="length" value="94"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00093504D3">
+      <property type="source organism" value="Spirulina major"/>
+      <property type="NCBI taxonomy" value="270636"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00093504D3"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00093504D3"/>
+      <property type="length" value="341"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0009FB5C8E">
+      <property type="source organism" value="Nostoc piscinale"/>
+      <property type="NCBI taxonomy" value="224012"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0009FB5C8E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0M4SI40"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0009FA68B0">
+      <property type="source organism" value="Nostoc piscinale"/>
+      <property type="NCBI taxonomy" value="224012"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0009FA68B0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0M4SI40"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000474E413">
+      <property type="source organism" value="Spirulina subsalsa"/>
+      <property type="NCBI taxonomy" value="54311"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000474E413"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000474E413"/>
+      <property type="length" value="339"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C7FA9FF">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C80B0AB">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="261"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C81015D">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="276"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C80F1D6">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="270"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C8049BF">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="274"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C7FCC96">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_G6FSE7"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="275"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00047491A5">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00047491A5"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C7FC922">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000C7FC922"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C80498C">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000C80498C"/>
+      <property type="UniRef90 ID" value="UniRef90_G6FYP1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001680F5FD">
+      <property type="source organism" value="Microcystis wesenbergii"/>
+      <property type="NCBI taxonomy" value="44823"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001680F5FD"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0A1VYG8"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018F0565E">
+      <property type="source organism" value="Microcoleus sp. FACHB-831"/>
+      <property type="NCBI taxonomy" value="2692827"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018F0565E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="354"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018EFD893">
+      <property type="source organism" value="Nostoc sp. FACHB-892"/>
+      <property type="NCBI taxonomy" value="2692843"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018EFD893"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="342"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020D23F91">
+      <property type="source organism" value="Desmonostoc muscorum"/>
+      <property type="NCBI taxonomy" value="1179"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020D23F91"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="342"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020D204AE">
+      <property type="source organism" value="Desmonostoc muscorum"/>
+      <property type="NCBI taxonomy" value="1179"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020D204AE"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="342"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C2C81D5">
+      <property type="source organism" value="Richelia sinica"/>
+      <property type="NCBI taxonomy" value="1357545"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C2C81D5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E5F2E3D">
+      <property type="source organism" value="Nostoc sp. XA010"/>
+      <property type="NCBI taxonomy" value="2780407"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E5F2E3D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00215DC5C9">
+      <property type="source organism" value="Nostoc sp. ATCC 53789"/>
+      <property type="NCBI taxonomy" value="76335"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00215DC5C9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018F03EF0">
+      <property type="source organism" value="Nostoc sp. FACHB-973"/>
+      <property type="NCBI taxonomy" value="2692844"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018F03EF0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="327"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CECAF35">
+      <property type="source organism" value="Dendronalium phyllosphericum"/>
+      <property type="NCBI taxonomy" value="2840445"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252E7H9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="334"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C898C47">
+      <property type="source organism" value="unclassified Nostoc"/>
+      <property type="NCBI taxonomy" value="2593658"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841VAA0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="342"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C891BB1">
+      <property type="source organism" value="Nostoc sp. UCD120"/>
+      <property type="NCBI taxonomy" value="2681312"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841VAA0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A367RY21"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000F8F4E9C">
+      <property type="source organism" value="Trichormus variabilis"/>
+      <property type="NCBI taxonomy" value="264691"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000F8F4E9C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000CAB6EE4">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="124"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000CC118AA">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="110"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011AF11B6">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="128"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000CB5A608">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="129"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011AEDB15">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="128"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0015EF0776">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="85"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000CC5246B">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="136"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011AF01A9">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="109"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011AF75D7">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_D4TDH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="117"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001880A173">
+      <property type="source organism" value="Sphaerospermopsis sp. LEGE 08334"/>
+      <property type="NCBI taxonomy" value="1828651"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001880A173"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168883E2">
+      <property type="source organism" value="Anabaena lutea"/>
+      <property type="NCBI taxonomy" value="212350"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168883E2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7WVE9"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168997F6">
+      <property type="source organism" value="Microcoleus sp. FACHB-831"/>
+      <property type="NCBI taxonomy" value="2692827"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168997F6"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00168997F6"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00177B4063">
+      <property type="source organism" value="Chroococcidiopsis sp. FACHB-1243"/>
+      <property type="NCBI taxonomy" value="2692781"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00177B4063"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00177B4063"/>
+      <property type="length" value="336"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D1E9968">
+      <property type="source organism" value="Cyanothece sp. BG0011"/>
+      <property type="NCBI taxonomy" value="2082950"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000D1E9968"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000D1DEB62"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D1DEB62">
+      <property type="source organism" value="Cyanothece sp. BG0011"/>
+      <property type="NCBI taxonomy" value="2082950"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000D1DEB62"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000D1DEB62"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000A2F3F98">
+      <property type="source organism" value="Cylindrospermum stagnale"/>
+      <property type="NCBI taxonomy" value="142864"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_K9X2R4"/>
+      <property type="UniRef90 ID" value="UniRef90_K9X2R4"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00036492B6">
+      <property type="source organism" value="Anabaena sp. PCC 7108"/>
+      <property type="NCBI taxonomy" value="163908"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00036492B6"/>
+      <property type="UniRef90 ID" value="UniRef90_K9X2R4"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B59E1CF">
+      <property type="source organism" value="Leptolyngbya ohadii"/>
+      <property type="NCBI taxonomy" value="1962290"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B59E1CF"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7EQG2"/>
+      <property type="length" value="277"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020A60FAB">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="256"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CB780D1">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="271"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0012308713">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="81"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001230A243">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="176"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D7CAA54">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="270"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0012305320">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UFQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="116"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168025A0">
+      <property type="source organism" value="Microcystis wesenbergii"/>
+      <property type="NCBI taxonomy" value="44823"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168025A0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001330A632">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P1UCC2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="274"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00124E78D0">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5J4F6C3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="324"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000934B9DE">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_I4HJM9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="87"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011EA7162">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_I4HJM9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J4F6C3"/>
+      <property type="length" value="94"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002ED3A7C">
+      <property type="source organism" value="Anaplasma marginale"/>
+      <property type="NCBI taxonomy" value="770"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002ED3A7C"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0002ED3A7C"/>
+      <property type="length" value="337"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001ABCC746">
+      <property type="source organism" value="aff. Roholtiella sp. LEGE 12411"/>
+      <property type="NCBI taxonomy" value="1828822"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001ABCC746"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001ABCC746"/>
+      <property type="length" value="354"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C2BAF5E">
+      <property type="source organism" value="Richelia sinica"/>
+      <property type="NCBI taxonomy" value="1357545"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C2BAF5E"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001ABCC746"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001683BFE4">
+      <property type="source organism" value="unclassified Coleofasciculus"/>
+      <property type="NCBI taxonomy" value="2692782"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001683BFE4"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001683BFE4"/>
+      <property type="length" value="322"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C8104AE">
+      <property type="source organism" value="Fischerella thermalis"/>
+      <property type="NCBI taxonomy" value="372787"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000C8104AE"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3M8C5"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021E16D32">
+      <property type="source organism" value="Trichormus variabilis"/>
+      <property type="NCBI taxonomy" value="264691"/>
+      <property type="protein name" value="IS4-like element ISAva3 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021E16D32"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3M8C5"/>
+      <property type="length" value="327"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021BB5D43">
+      <property type="source organism" value="Laspinema sp. A4"/>
+      <property type="NCBI taxonomy" value="2953686"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021BB5D43"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0021BB5D43"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0019657221">
+      <property type="source organism" value="Thermoleptolyngbya sp. PKUAC-SCTB121"/>
+      <property type="NCBI taxonomy" value="2811482"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0019657221"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BQI0"/>
+      <property type="length" value="324"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0019659C69">
+      <property type="source organism" value="Thermoleptolyngbya sp. PKUAC-SCTB121"/>
+      <property type="NCBI taxonomy" value="2811482"/>
+      <property type="protein name" value="transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0019659C69"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6M8BQI0"/>
+      <property type="length" value="324"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00190065FF">
+      <property type="source organism" value="Anabaena sp. WA102"/>
+      <property type="NCBI taxonomy" value="1647413"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00190065FF"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0K2LWD4"/>
+      <property type="length" value="335"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00059DED5C">
+      <property type="source organism" value="Rippkaea orientalis"/>
+      <property type="NCBI taxonomy" value="2546366"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00059DED5C"/>
+      <property type="UniRef90 ID" value="UniRef90_B7JZD9"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00059BC5D3">
+      <property type="source organism" value="Rippkaea orientalis"/>
+      <property type="NCBI taxonomy" value="2546366"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00059BC5D3"/>
+      <property type="UniRef90 ID" value="UniRef90_B7JZD9"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021BB5A2A">
+      <property type="source organism" value="Laspinema sp. C3"/>
+      <property type="NCBI taxonomy" value="2953688"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021BB5A2A"/>
+      <property type="UniRef90 ID" value="UniRef90_K9TMX1"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0009E86402">
+      <property type="source organism" value="Nostoc sp. NIES-3756"/>
+      <property type="NCBI taxonomy" value="1751286"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0009E86402"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A252CWC8"/>
+      <property type="length" value="332"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000A3C22E5">
+      <property type="source organism" value="Nostoc sp. RF31YmG"/>
+      <property type="NCBI taxonomy" value="1932668"/>
+      <property type="protein name" value="IS4 family transposase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000A3C22E5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A252CWC8"/>
+      <property type="length" value="340"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

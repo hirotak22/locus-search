@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_B0JUD6" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: ParA family protein</name>
+  <property type="member count" value="91"/>
+  <property type="common taxon" value="Bacteria"/>
+  <property type="common taxon ID" value="2"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="B0JUD6_MICAN">
+      <property type="source organism" value="Microcystis aeruginosa (strain NIES-843 / IAM M-2473)"/>
+      <property type="NCBI taxonomy" value="449447"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000163EE47"/>
+      <property type="UniRef100 ID" value="UniRef100_B0JUD6"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="B0JUD6"/>
+      <property type="length" value="914"/>
+    </dbReference>
+    <sequence length="914" checksum="0215C990815B29E8">MRRRPLLTWFDIKRKIARETANGNDLPDSIVKISCFSSALEIGIQSQNDQPKANSILKEWFGDWYQESEQIIQLDIDNASIPVEFILIDNSSYFSPSIRPFWQEVAYLKENTDSEQSDNFLPNAYQDKPEIIAFYSFKGGVGRTLHLAAYILALLARAKDINKPIKILVIDSDLEAPGLTYWQRYESQEATVSLSNFLEVYQYPKPSLEVALSWVTQEIKKTAKQQNKSTLYFLPAFIEEEELLDTPILPENLARNPSGAWEVGDAIHQLGQKLAVDYIFIDLRAGLSEISSPILFDSRIQRFLVTTVNEQSWRGVRMVLEKIGLLAPSDSKVKDDNYYDPSIIISFLTPEVRNLSAFENILEQLQSAYVQPKNESLYTTRLDIKETYFAQELLYVNNWDEAQNKLSSTSLMELARQWAEDELSNNSIASATPSDNSLDDVKKLRDTCNKYIYAEKGEGEDLLITEPLKNLARNFQDKLPNVISIGAKGAGKTFNYIQLSRLQSWENFLNKVDPQNQENSRENLGLIFPLLQSKNLAEDAKDILEQARQNVNNFLNNDYQFSFSDLRDRITQSLSNQDWNEVDWTNFWIKEISRVLGYNPENCQLHKLHEYLQQKNSKIIFLFDGLEDDFPNVANDKDNLQRKALKALIDHLPNKLSEIRQSNLGLIVFLRRDFLRYTITQNSQQFENLYRNYDLSWNLESFLKLSYWLCIQSSVINANPQDLFDCSIEDLKGKLERLWGKKLGADNAREAKSDNWIFAALTDFNGRLQARDIVRFLYHAANITVEKKEEIQFTKWSNTRLLPPQAIRRALKPCSEEKVDESKEEYPIFKIWVQERLHEYSDKKIPFSLEQFNLDATTVNILEQMGVIYEDKDKEDAVRYYMPEIFREGLGFSSQGARPRVLALKRKVLGKSNF</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552I4X9_MICVR">
+      <property type="source organism" value="Microcystis viridis Mv_BB_P_19951000_S68D"/>
+      <property type="NCBI taxonomy" value="2486270"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0011904D4C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552I4X9"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A552I4X9"/>
+      <property type="length" value="915"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5J4FBX7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-4325"/>
+      <property type="NCBI taxonomy" value="2569534"/>
+      <property type="protein name" value="DUF1330 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00126BFA56"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552I4X9"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A5J4FBX7"/>
+      <property type="length" value="50"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552DR54_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_SC_T_19800800_S464"/>
+      <property type="NCBI taxonomy" value="2486257"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0011954EE8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552DR54"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A552DR54"/>
+      <property type="length" value="914"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A551ZWE6_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_AC_P_19900807_S299"/>
+      <property type="NCBI taxonomy" value="2486264"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0011954EE8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552DR54"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A551ZWE6"/>
+      <property type="length" value="914"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552EVZ5_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_MB_F_20061100_S20D"/>
+      <property type="NCBI taxonomy" value="2486253"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI001190FF9C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552EVZ5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A552EVZ5"/>
+      <property type="length" value="914"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3G9K7F5_MICVR">
+      <property type="source organism" value="Microcystis viridis NIES-102"/>
+      <property type="NCBI taxonomy" value="213615"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000F6D75BC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3G9K7F5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A3G9K7F5"/>
+      <property type="length" value="914"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5A5RSP5_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-2520"/>
+      <property type="NCBI taxonomy" value="2303982"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI001230C184"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5A5RSP5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A5A5RSP5"/>
+      <property type="length" value="914"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A857D3E7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa FD4"/>
+      <property type="NCBI taxonomy" value="2686288"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI001303CCED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A857D3E7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A857D3E7"/>
+      <property type="length" value="914"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A139GNV7_MICA8">
+      <property type="source organism" value="Microcystis aeruginosa (strain NIES-88 / KW-MA1-3)"/>
+      <property type="NCBI taxonomy" value="449441"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000775FFD8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A139GNV7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A139GNV7"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D5TPD0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000775FFD8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A139GNV7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A8D5TPD0"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552AYZ4_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_OC_H_19870700_S124"/>
+      <property type="NCBI taxonomy" value="2486262"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0011976CBA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552AYZ4"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A552AYZ4"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A822LCK6_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 9432"/>
+      <property type="NCBI taxonomy" value="1160280"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000261A9EA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A822LCK6"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A822LCK6"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I4GEN8_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 7941"/>
+      <property type="NCBI taxonomy" value="213618"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000261AD21"/>
+      <property type="UniRef100 ID" value="UniRef100_I4GEN8"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="I4GEN8"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L7E438_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa TAIHU98"/>
+      <property type="NCBI taxonomy" value="1134457"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002A74C7F"/>
+      <property type="UniRef100 ID" value="UniRef100_L7E438"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="L7E438"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3N0WGI3_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa FACHB-524"/>
+      <property type="NCBI taxonomy" value="2486203"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002A74C7F"/>
+      <property type="UniRef100 ID" value="UniRef100_L7E438"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A3N0WGI3"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1E4QAH7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-98"/>
+      <property type="NCBI taxonomy" value="267869"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002A74C7F"/>
+      <property type="UniRef100 ID" value="UniRef100_L7E438"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A1E4QAH7"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0LVT9_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa DA14"/>
+      <property type="NCBI taxonomy" value="1987506"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000E36A7D9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0LVT9"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A3E0LVT9"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I4IQ91_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 9701"/>
+      <property type="NCBI taxonomy" value="721123"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002620ED6"/>
+      <property type="UniRef100 ID" value="UniRef100_I4IQ91"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="I4IQ91"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H9H598_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-3806"/>
+      <property type="NCBI taxonomy" value="2517784"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002620ED6"/>
+      <property type="UniRef100 ID" value="UniRef100_I4IQ91"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A6H9H598"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A402DG99_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-4285"/>
+      <property type="NCBI taxonomy" value="2497681"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000FF9682D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A402DG99"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A402DG99"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552M6Z9_9CHRO">
+      <property type="source organism" value="Microcystis wesenbergii Mw_MB_S_20031200_S109D"/>
+      <property type="NCBI taxonomy" value="2486241"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0011962CF4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552M6Z9"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A552M6Z9"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0LLU7_9CHRO">
+      <property type="source organism" value="Microcystis flos-aquae DF17"/>
+      <property type="NCBI taxonomy" value="2060470"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000E39CED5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0LLU7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A3E0LLU7"/>
+      <property type="length" value="911"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A551Z8R8_9CHRO">
+      <property type="source organism" value="Microcystis sp. M_QC_C_20170808_M3Col"/>
+      <property type="NCBI taxonomy" value="2486216"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI00118EAB13"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A551Z8R8"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="UniProtKB accession" value="A0A551Z8R8"/>
+      <property type="length" value="908"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A522XK42_9CYAN">
+      <property type="source organism" value="Phormidium sp. SL48-SHIP"/>
+      <property type="NCBI taxonomy" value="2518363"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0012057CBE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A522XK42"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A522XK42"/>
+      <property type="UniProtKB accession" value="A0A522XK42"/>
+      <property type="length" value="924"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A844IQV3_9CYAN">
+      <property type="source organism" value="Dolichospermum sp. UHCC 0260"/>
+      <property type="NCBI taxonomy" value="2590025"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI001445F493"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A844IQV3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H2C2B6"/>
+      <property type="UniProtKB accession" value="A0A844IQV3"/>
+      <property type="length" value="932"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H2C2B6_DOLFA">
+      <property type="source organism" value="Dolichospermum flos-aquae CCAP 1403/13F"/>
+      <property type="NCBI taxonomy" value="315271"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0014463103"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H2C2B6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H2C2B6"/>
+      <property type="UniProtKB accession" value="A0A6H2C2B6"/>
+      <property type="length" value="932"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U9WXL8_PLAAG">
+      <property type="source organism" value="Planktothrix agardhii No758"/>
+      <property type="NCBI taxonomy" value="1964479"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI00041538C9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1U9WXL8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="UniProtKB accession" value="A0A1U9WXL8"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P5ZEC0_PLAAG">
+      <property type="source organism" value="Planktothrix agardhii CCAP 1459/11A"/>
+      <property type="NCBI taxonomy" value="282420"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0010FC41A6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P5ZEC0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="UniProtKB accession" value="A0A4P5ZEC0"/>
+      <property type="length" value="924"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7Z9E2Y0_9CYAN">
+      <property type="source organism" value="Planktothrix serta PCC 8927"/>
+      <property type="NCBI taxonomy" value="671068"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000917B1AA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7Z9E2Y0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="UniProtKB accession" value="A0A7Z9E2Y0"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3C1RQ76_9CYAN">
+      <property type="source organism" value="Planktothrix sp. UBA8407"/>
+      <property type="NCBI taxonomy" value="2055758"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000E9592A7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3C1RQ76"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="UniProtKB accession" value="A0A3C1RQ76"/>
+      <property type="length" value="920"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A354WDZ9_9CYAN">
+      <property type="source organism" value="Planktothrix sp. UBA10369"/>
+      <property type="NCBI taxonomy" value="2055760"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000E9592A7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3C1RQ76"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="UniProtKB accession" value="A0A354WDZ9"/>
+      <property type="length" value="920"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A480A2X2_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis reniformis"/>
+      <property type="NCBI taxonomy" value="531300"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0010AFD777"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A480A2X2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A480A2X2"/>
+      <property type="UniProtKB accession" value="A0A480A2X2"/>
+      <property type="length" value="929"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4LKU2_9CYAN">
+      <property type="source organism" value="Calothrix parasitica NIES-267"/>
+      <property type="NCBI taxonomy" value="1973488"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000B612AE1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4LKU2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4LKU2"/>
+      <property type="UniProtKB accession" value="A0A1Z4LKU2"/>
+      <property type="length" value="918"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K7W875_9NOST">
+      <property type="source organism" value="Anabaena sp. 90"/>
+      <property type="NCBI taxonomy" value="46234"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI00029B65E1"/>
+      <property type="UniRef100 ID" value="UniRef100_K7W875"/>
+      <property type="UniRef90 ID" value="UniRef90_K7W875"/>
+      <property type="UniProtKB accession" value="K7W875"/>
+      <property type="length" value="927"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0K2M238_9NOST">
+      <property type="source organism" value="Anabaena sp. WA102"/>
+      <property type="NCBI taxonomy" value="1647413"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0006AC68F5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K2M238"/>
+      <property type="UniRef90 ID" value="UniRef90_K7W875"/>
+      <property type="UniProtKB accession" value="A0A0K2M238"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q4RCD2_9CYAN">
+      <property type="source organism" value="Calothrix sp. HK-06"/>
+      <property type="NCBI taxonomy" value="1137096"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0009365A84"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4RCD2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4RCD2"/>
+      <property type="UniProtKB accession" value="A0A1Q4RCD2"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S6REQ4_9CYAN">
+      <property type="source organism" value="Anabaenopsis elenkinii CCIBt3563"/>
+      <property type="NCBI taxonomy" value="2779889"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0018BF8DE2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S6REQ4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S6REQ4"/>
+      <property type="UniProtKB accession" value="A0A7S6REQ4"/>
+      <property type="length" value="952"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H9GCH4_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-3787"/>
+      <property type="NCBI taxonomy" value="2517782"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI00130999A8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H9GCH4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H9GCH4"/>
+      <property type="UniProtKB accession" value="A0A6H9GCH4"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A841UKZ9_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa BLCC-F108"/>
+      <property type="NCBI taxonomy" value="2755317"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000932D9BE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A841UKZ9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H9GCH4"/>
+      <property type="UniProtKB accession" value="A0A841UKZ9"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A252D2Y3_9NOSO">
+      <property type="source organism" value="Nostoc sp. T09"/>
+      <property type="NCBI taxonomy" value="1932621"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000A39241D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252D2Y3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A252D2Y3"/>
+      <property type="UniProtKB accession" value="A0A252D2Y3"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5P8W291_9NOSO">
+      <property type="source organism" value="Nostoc sphaeroides CCNUC1"/>
+      <property type="NCBI taxonomy" value="2653204"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI001269B396"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5P8W291"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5P8W291"/>
+      <property type="UniProtKB accession" value="A0A5P8W291"/>
+      <property type="length" value="926"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9WYD3_9NOST">
+      <property type="source organism" value="Cylindrospermum stagnale PCC 7417"/>
+      <property type="NCBI taxonomy" value="56107"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002A5F020"/>
+      <property type="UniRef100 ID" value="UniRef100_K9WYD3"/>
+      <property type="UniRef90 ID" value="UniRef90_K9WYD3"/>
+      <property type="UniProtKB accession" value="K9WYD3"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4JUS2_9CYAN">
+      <property type="source organism" value="Calothrix brevissima NIES-22"/>
+      <property type="NCBI taxonomy" value="1973478"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000B5E565B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4JUS2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4JUS2"/>
+      <property type="UniProtKB accession" value="A0A1Z4JUS2"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9UWU0_9CYAN">
+      <property type="source organism" value="Calothrix sp. PCC 6303"/>
+      <property type="NCBI taxonomy" value="1170562"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0002A02575"/>
+      <property type="UniRef100 ID" value="UniRef100_K9UWU0"/>
+      <property type="UniRef90 ID" value="UniRef90_K9UWU0"/>
+      <property type="UniProtKB accession" value="K9UWU0"/>
+      <property type="length" value="927"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A661SSP2_9DELT">
+      <property type="source organism" value="Deltaproteobacteria bacterium"/>
+      <property type="NCBI taxonomy" value="2026735"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000F2829F1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A661SSP2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A661SSP2"/>
+      <property type="UniProtKB accession" value="A0A661SSP2"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A139X5B7_9CYAN">
+      <property type="source organism" value="Scytonema hofmannii PCC 7110"/>
+      <property type="NCBI taxonomy" value="128403"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000347F18C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A139X5B7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A139X5B7"/>
+      <property type="UniProtKB accession" value="A0A139X5B7"/>
+      <property type="length" value="919"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A844MQF2_9CYAN">
+      <property type="source organism" value="Scytonema sp. UIC 10036"/>
+      <property type="NCBI taxonomy" value="2304196"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0012DA466E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A844MQF2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A139X5B7"/>
+      <property type="UniProtKB accession" value="A0A844MQF2"/>
+      <property type="length" value="919"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1W9MWG7_9DELT">
+      <property type="source organism" value="Desulfobacteraceae bacterium IS3"/>
+      <property type="NCBI taxonomy" value="1934248"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000A0A9D74"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1W9MWG7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1W9MWG7"/>
+      <property type="UniProtKB accession" value="A0A1W9MWG7"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A350Y231_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium UBA11370"/>
+      <property type="NCBI taxonomy" value="2055769"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000E8B7D00"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A350Y231"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A350Y231"/>
+      <property type="UniProtKB accession" value="A0A350Y231"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B4VW53_9CYAN">
+      <property type="source organism" value="Coleofasciculus chthonoplastes PCC 7420"/>
+      <property type="NCBI taxonomy" value="118168"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI00017E90CB"/>
+      <property type="UniRef100 ID" value="UniRef100_B4VW53"/>
+      <property type="UniRef90 ID" value="UniRef90_B4VW53"/>
+      <property type="UniProtKB accession" value="B4VW53"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A853MBN9_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CS-505"/>
+      <property type="NCBI taxonomy" value="533240"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0001C16A50"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A853MBN9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="UniProtKB accession" value="A0A853MBN9"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1S1ZZ56_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii MVCC14"/>
+      <property type="NCBI taxonomy" value="940191"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0008DD95EB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1S1ZZ56"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="UniProtKB accession" value="A0A1S1ZZ56"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1X4G9V7_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii CENA303"/>
+      <property type="NCBI taxonomy" value="1170769"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000A1D631F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1X4G9V7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="UniProtKB accession" value="A0A1X4G9V7"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8T9DTR5_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis raciborskii Cr2010"/>
+      <property type="NCBI taxonomy" value="2108055"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI000E1E43C0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8T9DTR5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="UniProtKB accession" value="A0A8T9DTR5"/>
+      <property type="length" value="924"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0R0M7B2_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis sp. CR12"/>
+      <property type="NCBI taxonomy" value="1747196"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI00070C0EAF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0R0M7B2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="UniProtKB accession" value="A0A0R0M7B2"/>
+      <property type="length" value="924"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7H0F3V9_9CYAN">
+      <property type="source organism" value="Cylindrospermopsis curvispora GIHE-G1"/>
+      <property type="NCBI taxonomy" value="2666332"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0016577008"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7H0F3V9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="UniProtKB accession" value="A0A7H0F3V9"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="P74273_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Sll1563 protein"/>
+      <property type="UniParc ID" value="UPI00000C0E46"/>
+      <property type="UniRef100 ID" value="UniRef100_P74273"/>
+      <property type="UniRef90 ID" value="UniRef90_P74273"/>
+      <property type="UniProtKB accession" value="P74273"/>
+      <property type="length" value="939"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5C0DPT3_9CYAN">
+      <property type="source organism" value="Dolichospermum sp. UHCC 0315A"/>
+      <property type="NCBI taxonomy" value="1914871"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0011E672EC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5C0DPT3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7UXW4"/>
+      <property type="UniProtKB accession" value="A0A5C0DPT3"/>
+      <property type="length" value="920"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B7UXW4_9NOST">
+      <property type="source organism" value="Anabaena sp. LE011-02"/>
+      <property type="NCBI taxonomy" value="1710892"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniParc ID" value="UPI0007FFBD30"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B7UXW4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7UXW4"/>
+      <property type="UniProtKB accession" value="A0A1B7UXW4"/>
+      <property type="length" value="917"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004688A1B">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004688A1B"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011EA7F50">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0011EA7F50"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD6"/>
+      <property type="length" value="912"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187E1849">
+      <property type="source organism" value="Cuspidothrix issatschenkoi"/>
+      <property type="NCBI taxonomy" value="230752"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00187E1849"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00187E1849"/>
+      <property type="length" value="920"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004245CE9">
+      <property type="source organism" value="Planktothrix"/>
+      <property type="NCBI taxonomy" value="54304"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004245CE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000425F5E0">
+      <property type="source organism" value="Planktothrix agardhii"/>
+      <property type="NCBI taxonomy" value="1160"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000425F5E0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B9FA73C">
+      <property type="source organism" value="Planktothrix agardhii"/>
+      <property type="NCBI taxonomy" value="1160"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B9FA73C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016856E2F">
+      <property type="source organism" value="Planktothrix sp. FACHB-1365"/>
+      <property type="NCBI taxonomy" value="2692855"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016856E2F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U9WXL8"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00164CE95F">
+      <property type="source organism" value="Sphaerospermopsis sp. LEGE 00249"/>
+      <property type="NCBI taxonomy" value="1380707"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00164CE95F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A480A2X2"/>
+      <property type="length" value="930"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00188024B6">
+      <property type="source organism" value="Sphaerospermopsis aphanizomenoides"/>
+      <property type="NCBI taxonomy" value="459663"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00188024B6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A480A2X2"/>
+      <property type="length" value="929"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0014464F1C">
+      <property type="source organism" value="Dolichospermum flos-aquae"/>
+      <property type="NCBI taxonomy" value="1166"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0014464F1C"/>
+      <property type="UniRef90 ID" value="UniRef90_K7W875"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001446B76F">
+      <property type="source organism" value="Dolichospermum sp. UHCC 0352"/>
+      <property type="NCBI taxonomy" value="2590011"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001446B76F"/>
+      <property type="UniRef90 ID" value="UniRef90_K7W875"/>
+      <property type="length" value="931"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016896251">
+      <property type="source organism" value="Phormidium sp. FACHB-1136"/>
+      <property type="NCBI taxonomy" value="2692848"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016896251"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0016896251"/>
+      <property type="length" value="929"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C8C7892">
+      <property type="source organism" value="Desmonostoc muscorum"/>
+      <property type="NCBI taxonomy" value="1179"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C8C7892"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001C8C7892"/>
+      <property type="length" value="922"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004279219">
+      <property type="source organism" value="Dolichospermum circinale"/>
+      <property type="NCBI taxonomy" value="109265"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004279219"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00168104CD"/>
+      <property type="length" value="930"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168104CD">
+      <property type="source organism" value="Dolichospermum sp. FACHB-1091"/>
+      <property type="NCBI taxonomy" value="2692798"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168104CD"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00168104CD"/>
+      <property type="length" value="930"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001680C3D2">
+      <property type="source organism" value="Microcystis wesenbergii"/>
+      <property type="NCBI taxonomy" value="44823"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001680C3D2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H9GCH4"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001685EC07">
+      <property type="source organism" value="Microcystis flos-aquae"/>
+      <property type="NCBI taxonomy" value="109615"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001685EC07"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H9GCH4"/>
+      <property type="length" value="913"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001447D2F6">
+      <property type="source organism" value="Anabaena sp. UHCC 0187"/>
+      <property type="NCBI taxonomy" value="2590018"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001447D2F6"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001447D2F6"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0008DC2378">
+      <property type="source organism" value="Trichormus sp. NMC-1"/>
+      <property type="NCBI taxonomy" value="1853259"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0008DC2378"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0008DC2378"/>
+      <property type="length" value="925"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018DE78CA">
+      <property type="source organism" value="Coleofasciculus chthonoplastes"/>
+      <property type="NCBI taxonomy" value="64178"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_B4VW53"/>
+      <property type="UniRef90 ID" value="UniRef90_B4VW53"/>
+      <property type="length" value="919"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0009A3579D">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0009A3579D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="length" value="928"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C9DCD9E">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000C9DCD9E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011449476">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0011449476"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0008DCB688">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0008DCB688"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F0F7870">
+      <property type="source organism" value="Cylindrospermopsis raciborskii"/>
+      <property type="NCBI taxonomy" value="77022"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F0F7870"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0R0M7B2"/>
+      <property type="length" value="921"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002A5AE28">
+      <property type="source organism" value="Synechocystis sp. PCC 6803"/>
+      <property type="NCBI taxonomy" value="1148"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_P74273"/>
+      <property type="UniRef90 ID" value="UniRef90_P74273"/>
+      <property type="length" value="926"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CB79604">
+      <property type="source organism" value="unclassified Synechocystis"/>
+      <property type="NCBI taxonomy" value="2640012"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CB79604"/>
+      <property type="UniRef90 ID" value="UniRef90_P74273"/>
+      <property type="length" value="920"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001880F8AF">
+      <property type="source organism" value="Dolichospermum sp. LEGE 00246"/>
+      <property type="NCBI taxonomy" value="1828605"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001880F8AF"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7UXW4"/>
+      <property type="length" value="917"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00211D47FC">
+      <property type="source organism" value="Dolichospermum heterosporum"/>
+      <property type="NCBI taxonomy" value="747522"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00211D47FC"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7UXW4"/>
+      <property type="length" value="917"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00047FDFB2">
+      <property type="source organism" value="Aphanizomenon flos-aquae"/>
+      <property type="NCBI taxonomy" value="1176"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00047FDFB2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1B7UXW4"/>
+      <property type="length" value="917"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016868867">
+      <property type="source organism" value="Nostoc punctiforme"/>
+      <property type="NCBI taxonomy" value="272131"/>
+      <property type="protein name" value="ParA family protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016868867"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0016868867"/>
+      <property type="length" value="924"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

@@ -1,0 +1,686 @@
+{
+    "from": "BAA18339",
+    "to": {
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "primaryAccession": "Q55087",
+        "secondaryAccessions": [
+            "P74245"
+        ],
+        "uniProtkbId": "CHLP_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "1997-11-01",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1996-11-01",
+            "entryVersion": 140,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 3.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "proteinDescription": {
+            "recommendedName": {
+                "fullName": {
+                    "value": "Geranylgeranyl diphosphate reductase"
+                },
+                "ecNumbers": [
+                    {
+                        "value": "1.3.1.83"
+                    }
+                ]
+            },
+            "alternativeNames": [
+                {
+                    "fullName": {
+                        "value": "Geranylgeranyl reductase"
+                    }
+                }
+            ]
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "value": "chlP"
+                },
+                "orderedLocusNames": [
+                    {
+                        "value": "sll1091"
+                    }
+                ]
+            }
+        ],
+        "comments": [
+            {
+                "texts": [
+                    {
+                        "value": "Catalyzes the stepwise hydrogenation of geranylgeraniol to phytol during chlorophyll A (ChlA) biosynthesis"
+                    }
+                ],
+                "commentType": "FUNCTION"
+            },
+            {
+                "commentType": "CATALYTIC ACTIVITY",
+                "reaction": {
+                    "name": "3 NADP(+) + phytyl diphosphate = geranylgeranyl diphosphate + 3 H(+) + 3 NADPH",
+                    "reactionCrossReferences": [
+                        {
+                            "database": "Rhea",
+                            "id": "RHEA:26229"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:15378"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57533"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57783"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:58349"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:75434"
+                        }
+                    ],
+                    "ecNumber": "1.3.1.83"
+                }
+            },
+            {
+                "texts": [
+                    {
+                        "value": "Porphyrin-containing compound metabolism; chlorophyll biosynthesis"
+                    }
+                ],
+                "commentType": "PATHWAY"
+            },
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000305"
+                            }
+                        ],
+                        "value": "Belongs to the geranylgeranyl reductase family. ChlP subfamily"
+                    }
+                ],
+                "commentType": "SIMILARITY"
+            },
+            {
+                "commentType": "SEQUENCE CAUTION",
+                "sequenceCautionType": "Erroneous initiation",
+                "sequence": "BAA18339.1",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000305"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            {
+                "type": "Chain",
+                "location": {
+                    "start": {
+                        "value": 1,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 407,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Geranylgeranyl diphosphate reductase",
+                "featureId": "PRO_0000219664"
+            }
+        ],
+        "keywords": [
+            {
+                "id": "KW-0149",
+                "category": "Biological process",
+                "name": "Chlorophyll biosynthesis"
+            },
+            {
+                "id": "KW-0521",
+                "category": "Ligand",
+                "name": "NADP"
+            },
+            {
+                "id": "KW-0560",
+                "category": "Molecular function",
+                "name": "Oxidoreductase"
+            },
+            {
+                "id": "KW-0602",
+                "category": "Biological process",
+                "name": "Photosynthesis"
+            },
+            {
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8766814",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Addlesee H.A.",
+                        "Gibson L.C.D.",
+                        "Jensen P.E.",
+                        "Hunter C.N."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8766814"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1016/0014-5793(96)00549-2"
+                        }
+                    ],
+                    "title": "Cloning, sequencing and functional assignment of the chlorophyll biosynthesis gene, chlP, of Synechocystis sp. PCC 6803.",
+                    "publicationDate": "1996",
+                    "journal": "FEBS Lett.",
+                    "firstPage": "126",
+                    "lastPage": "130",
+                    "volume": "389"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+                ]
+            },
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "X97972",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "CAA66615.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18339.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "ALT_INIT"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S69286",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S69286"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "Q55087",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "Q55087",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653425",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "Q55087",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18339",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18339"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18339"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1091",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG0644",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "Q55087",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "GMCRREV",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PhylomeDB",
+                "id": "Q55087",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "BRENDA",
+                "id": "1.3.1.111",
+                "properties": [
+                    {
+                        "key": "OrganismId",
+                        "value": "382"
+                    }
+                ]
+            },
+            {
+                "database": "BRENDA",
+                "id": "1.3.1.83",
+                "properties": [
+                    {
+                        "key": "OrganismId",
+                        "value": "382"
+                    }
+                ]
+            },
+            {
+                "database": "UniPathway",
+                "id": "UPA00668",
+                "properties": [
+                    {
+                        "key": "RectionId",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0071949",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:FAD binding"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0102067",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:geranylgeranyl diphosphate reductase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-EC"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0045550",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:geranylgeranyl reductase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0015995",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:chlorophyll biosynthetic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-UniPathway"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0015979",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:photosynthesis"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-KW"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "3.50.50.60",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR010253",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "BchP_ChlP_pln/prok"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR002938",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD-bd"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR036188",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD/NAD-bd_sf"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR011777",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Geranylgeranyl_Rdtase_fam"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR011774",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Geranylgeranyl_Rdtase_pln/cyn"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF01494",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD_binding_3"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF51905",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD/NAD(P)-binding domain"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "TIGRFAMs",
+                "id": "TIGR02023",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "BchP-ChlP"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "TIGRFAMs",
+                "id": "TIGR02028",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ChlP"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "TIGRFAMs",
+                "id": "TIGR02032",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "GG-red-SF"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MVLRVAVVGGGPAGSSAAEILVKAGIETYLFERKLDNAKPCGGAIPLCMVDEFDLPPEIIDRRVRKMKMISPSNIEVNIGQTLKDDEYIGMCRREVLDGFLRERAEKLGTKVINGTVYKLDIPSKDSDPYTLHYADHSVGGTTGEMKILKVDVVIGADGANSRIAKAIDAGDYNYAIAFQERIRLPEDKMAYYDELAEMYVGDDVSPDFYAWVFPKYDHVAVGTGTMKVNKARIKDLQAGIRTRAAKKLEGGEIIKVEAHPIPEHPRPRRVVGRVALVGDAAGTVTKSSGEGIYFAAKSARMCAETIVATSNNGQRVPTEADLKQYIKQWDKRYGATYLVLDILQRVFYRTDATREAFVEMCSDIDVQKLTFDSYLYKTVVPANPLVQMKITAKTIGSLLRGNALAP",
+            "length": 407,
+            "molWeight": 44883,
+            "crc64": "1D46FA7AE1C43CC5",
+            "md5": "52B426362DC6DEC278D02E6A44F18A9D"
+        },
+        "extraAttributes": {
+            "countByCommentType": {
+                "FUNCTION": 1,
+                "CATALYTIC ACTIVITY": 1,
+                "PATHWAY": 1,
+                "SIMILARITY": 1,
+                "SEQUENCE CAUTION": 1
+            },
+            "countByFeatureType": {
+                "Chain": 1
+            },
+            "uniParcId": "UPI0000127898"
+        }
+    }
+}

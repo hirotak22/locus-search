@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_P74258" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Glucosylglycerol-phosphate synthase</name>
+  <property type="member count" value="149"/>
+  <property type="common taxon" value="Bacteria"/>
+  <property type="common taxon ID" value="2"/>
+  <property type="GO Molecular Function" value="GO:0003824"/>
+  <property type="GO Biological Process" value="GO:0005991"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="GGPS_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000012B402"/>
+      <property type="UniRef100 ID" value="UniRef100_P74258"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="UniProtKB accession" value="P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+    <sequence length="499" checksum="7D4C279DB5EBAF8F">MNSSLVILYHREPYDEVRENGKTVYREKKSPNGILPTLKSFFADAEQSTWVAWKQVSPKQKDDFQADMSIEGLGDRCTVRRVPLTAEQVKNFYHITSKEAFWPILHSFPWQFTYDSSDWDNFQHINRLFAEAACADADDNALFWVHDYNLWLAPLYIRQLKPNAKIAFFHHTPFPSVDIFNILPWREAIVESLLACDLCGFHIPRYVENFVAVARSLKPVEITRRVVVDQAFTPYGTALAEPELTTQLRYGDRLINLDAFPVGTNPANIRAIVAKESVQQKVAEIKQDLGGKRLIVSAGRVDYVKGTKEMLMCYERLLERRPELQGEISLVVPVAKAAEGMRIYRNAQNEIERLAGKINGRFAKLSWTPVMLFTSPLAYEELIALFCAADIAWITPLRDGLNLVAKEYVVAKNGEEGVLILSEFAGCAVELPDAVLTNPYASSRMDESIDQALAMDKDEQKKRMGRMYAAIKRYDVQQWANHLLREAYADVVLGEPPQM</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="C1KFX9_9SYNC">
+      <property type="source organism" value="Synechocystis sp. 6"/>
+      <property type="NCBI taxonomy" value="634161"/>
+      <property type="protein name" value="Glucosyl glycerol phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000012B402"/>
+      <property type="UniRef100 ID" value="UniRef100_P74258"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="UniProtKB accession" value="C1KFX9"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P1VF27_9SYNC">
+      <property type="source organism" value="Synechocystis sp. CACIAM 05"/>
+      <property type="NCBI taxonomy" value="1933929"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00138E62A9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P1VF27"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="UniProtKB accession" value="A0A6P1VF27"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A068MVS2_SYNY4">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))"/>
+      <property type="NCBI taxonomy" value="1147"/>
+      <property type="protein name" value="Alpha,alpha-trehalose-phosphate synthase [UDP-forming]"/>
+      <property type="UniParc ID" value="UPI0003F66D17"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A068MVS2"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="UniProtKB accession" value="A0A068MVS2"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8EJ15_9CYAN">
+      <property type="source organism" value="Cyanobium sp. NS01"/>
+      <property type="NCBI taxonomy" value="261284"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016449C55"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8EJ15"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8EJ15"/>
+      <property type="UniProtKB accession" value="A0A7G8EJ15"/>
+      <property type="length" value="503"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A651F6I5_9RHOB">
+      <property type="source organism" value="Rhodobacteraceae bacterium"/>
+      <property type="NCBI taxonomy" value="1904441"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase (Fragment)"/>
+      <property type="UniParc ID" value="UPI001384B123"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A651F6I5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A651F6I5"/>
+      <property type="UniProtKB accession" value="A0A651F6I5"/>
+      <property type="length" value="425"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E0KDW6_9SYNE">
+      <property type="source organism" value="Synechococcus sp. NAT40"/>
+      <property type="NCBI taxonomy" value="2024884"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C903A83"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E0KDW6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E0KDW6"/>
+      <property type="UniProtKB accession" value="A0A2E0KDW6"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E2G833_9SYNE">
+      <property type="source organism" value="Synechococcus sp. SAT82"/>
+      <property type="NCBI taxonomy" value="2024887"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C517E8C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E2G833"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E2G833"/>
+      <property type="UniProtKB accession" value="A0A2E2G833"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6N2EKZ9_9CYAN">
+      <property type="source organism" value="Cyanobium sp. PLM2.Bin73"/>
+      <property type="NCBI taxonomy" value="2480217"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0014149605"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6N2EKZ9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6N2EKZ9"/>
+      <property type="UniProtKB accession" value="A0A6N2EKZ9"/>
+      <property type="length" value="514"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3C1UJK0_9BACT">
+      <property type="source organism" value="Verrucomicrobiales bacterium"/>
+      <property type="NCBI taxonomy" value="2026801"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000EC1C1B4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3C1UJK0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3C1UJK0"/>
+      <property type="UniProtKB accession" value="A0A3C1UJK0"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9JAB2_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium TMED177"/>
+      <property type="NCBI taxonomy" value="1986677"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B63F7E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9JAB2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3C1UJK0"/>
+      <property type="UniProtKB accession" value="A0A1Z9JAB2"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B5IK45_9CYAN">
+      <property type="source organism" value="Cyanobium sp. PCC 7001"/>
+      <property type="NCBI taxonomy" value="180281"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0001805989"/>
+      <property type="UniRef100 ID" value="UniRef100_B5IK45"/>
+      <property type="UniRef90 ID" value="UniRef90_B5IK45"/>
+      <property type="UniProtKB accession" value="B5IK45"/>
+      <property type="length" value="509"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A182AQL8_9CYAN">
+      <property type="source organism" value="Cyanobium sp. NIES-981"/>
+      <property type="NCBI taxonomy" value="1851505"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0007DDC0A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A182AQL8"/>
+      <property type="UniRef90 ID" value="UniRef90_B5IK45"/>
+      <property type="UniProtKB accession" value="A0A182AQL8"/>
+      <property type="length" value="509"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7T1MDU0_9SYNE">
+      <property type="source organism" value="Synechococcus sp. CBW1002"/>
+      <property type="NCBI taxonomy" value="1353134"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0018CEA688"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7T1MDU0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7T1MDU0"/>
+      <property type="UniProtKB accession" value="A0A7T1MDU0"/>
+      <property type="length" value="521"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7T1I6C0_9SYNE">
+      <property type="source organism" value="Synechococcus sp. CBW1006"/>
+      <property type="NCBI taxonomy" value="1353138"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0018CEA688"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7T1MDU0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7T1MDU0"/>
+      <property type="UniProtKB accession" value="A0A7T1I6C0"/>
+      <property type="length" value="521"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9PY68_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium TMED229"/>
+      <property type="NCBI taxonomy" value="1986679"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B766A76"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9PY68"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z9PY68"/>
+      <property type="UniProtKB accession" value="A0A1Z9PY68"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E1IM80_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MED850"/>
+      <property type="NCBI taxonomy" value="2024883"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B766A76"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9PY68"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z9PY68"/>
+      <property type="UniProtKB accession" value="A0A2E1IM80"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8U0ADA4_9SYNE">
+      <property type="source organism" value="Synechococcus sp. A10-1-5-1"/>
+      <property type="NCBI taxonomy" value="2936507"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0020019CC7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8U0ADA4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KR44"/>
+      <property type="UniProtKB accession" value="A0A8U0ADA4"/>
+      <property type="length" value="489"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G7KR44_9SYNE">
+      <property type="source organism" value="Synechococcus sp. LTW-R"/>
+      <property type="NCBI taxonomy" value="2751170"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016263EF7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G7KR44"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KR44"/>
+      <property type="UniProtKB accession" value="A0A7G7KR44"/>
+      <property type="length" value="489"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A316K5M3_9SYNE">
+      <property type="source organism" value="Synechococcus sp. XM-24"/>
+      <property type="NCBI taxonomy" value="1979185"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000D7B5217"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A316K5M3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KR44"/>
+      <property type="UniProtKB accession" value="A0A316K5M3"/>
+      <property type="length" value="487"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E0AKQ2_9CYAN">
+      <property type="source organism" value="Cyanobium sp. NAT70"/>
+      <property type="NCBI taxonomy" value="2024872"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C3BE292"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E0AKQ2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E0AKQ2"/>
+      <property type="UniProtKB accession" value="A0A2E0AKQ2"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P2APE9_9CYAN">
+      <property type="source organism" value="Spirulina sp. DLM2.Bin59"/>
+      <property type="NCBI taxonomy" value="2480215"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase (Fragment)"/>
+      <property type="UniParc ID" value="UPI00130D15B4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P2APE9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P2APE9"/>
+      <property type="UniProtKB accession" value="A0A6P2APE9"/>
+      <property type="length" value="467"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3D5I0C0_9CYAN">
+      <property type="source organism" value="Synechococcales bacterium UBA12195"/>
+      <property type="NCBI taxonomy" value="2055798"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0001525E3A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3D5I0C0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3D5I0C0"/>
+      <property type="UniProtKB accession" value="A0A3D5I0C0"/>
+      <property type="length" value="488"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A5GTR7_SYNR3">
+      <property type="source organism" value="Synechococcus sp. (strain RCC307)"/>
+      <property type="NCBI taxonomy" value="316278"/>
+      <property type="protein name" value="Glycosyltransferase of family GT20 probable trehalose-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0001525E3A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3D5I0C0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3D5I0C0"/>
+      <property type="UniProtKB accession" value="A5GTR7"/>
+      <property type="length" value="488"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3D0PCY0_9CYAN">
+      <property type="source organism" value="Synechococcales bacterium UBA8647"/>
+      <property type="NCBI taxonomy" value="2055797"/>
+      <property type="protein name" value="Trehalose-6-phosphate synthase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000EEF4043"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3D5I0C0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3D5I0C0"/>
+      <property type="UniProtKB accession" value="A0A3D0PCY0"/>
+      <property type="length" value="94"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3D0PE29_9CYAN">
+      <property type="source organism" value="Synechococcales bacterium UBA8647"/>
+      <property type="NCBI taxonomy" value="2055797"/>
+      <property type="protein name" value="Trehalose-6-phosphate synthase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000EDC10E0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3D5I0C0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3D5I0C0"/>
+      <property type="UniProtKB accession" value="A0A3D0PE29"/>
+      <property type="length" value="377"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9JC58_9SYNE">
+      <property type="source organism" value="Synechococcus sp. TMED169"/>
+      <property type="NCBI taxonomy" value="1986593"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B72649C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9JC58"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3D5I0C0"/>
+      <property type="UniProtKB accession" value="A0A1Z9JC58"/>
+      <property type="length" value="488"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8FLF7_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RS9907"/>
+      <property type="NCBI taxonomy" value="221350"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000E0F0F68"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8FLF7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8FLF7"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8GUE8_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RS9902"/>
+      <property type="NCBI taxonomy" value="221345"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001644CE92"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8GUE8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8GUE8"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E7LXJ4_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RS344"/>
+      <property type="NCBI taxonomy" value="2024886"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C39BC97"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E7LXJ4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A2E7LXJ4"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I0C6S6_SYNSP">
+      <property type="source organism" value="Synechococcus sp"/>
+      <property type="NCBI taxonomy" value="1131"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001800DA6C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I0C6S6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8HZH0_9SYNE">
+      <property type="source organism" value="Synechococcus sp. M16.1"/>
+      <property type="NCBI taxonomy" value="1442553"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00164595DE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8HZH0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8HZH0"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q3AJS1_SYNSC">
+      <property type="source organism" value="Synechococcus sp. (strain CC9605)"/>
+      <property type="NCBI taxonomy" value="110662"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00005D5AB1"/>
+      <property type="UniRef100 ID" value="UniRef100_Q3AJS1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="Q3AJS1"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8HB02_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PROS-U-1"/>
+      <property type="NCBI taxonomy" value="1400866"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016477C4C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8HB02"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8HB02"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8E5C0_9SYNE">
+      <property type="source organism" value="Synechococcus sp. A15-44"/>
+      <property type="NCBI taxonomy" value="1050646"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016472A5A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8E5C0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8E5C0"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3D3TW73_9SYNE">
+      <property type="source organism" value="Synechococcus sp. UBA8071"/>
+      <property type="NCBI taxonomy" value="2055764"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000AE9B24F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3D3TW73"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A3D3TW73"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E7LXM9_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RS344"/>
+      <property type="NCBI taxonomy" value="2024886"/>
+      <property type="protein name" value="Trehalose-6-phosphate synthase (Fragment)"/>
+      <property type="UniParc ID" value="UPI000C44B722"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3D3TW73"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A2E7LXM9"/>
+      <property type="length" value="109"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8H2H1_9SYNE">
+      <property type="source organism" value="Synechococcus sp. A15-62"/>
+      <property type="NCBI taxonomy" value="1050657"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00185FF52E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8H2H1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8H2H1"/>
+      <property type="length" value="424"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8DWX3_9SYNE">
+      <property type="source organism" value="Synechococcus sp. TAK9802"/>
+      <property type="NCBI taxonomy" value="1442558"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001860C099"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8DWX3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A7G8DWX3"/>
+      <property type="length" value="424"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="W0GYI8_9SYNE">
+      <property type="source organism" value="Synechococcus sp. WH 8109"/>
+      <property type="NCBI taxonomy" value="166314"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0003DFE649"/>
+      <property type="UniRef100 ID" value="UniRef100_W0GYI8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="W0GYI8"/>
+      <property type="length" value="424"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A076HL81_9SYNE">
+      <property type="source organism" value="Synechococcus sp. KORDI-52"/>
+      <property type="NCBI taxonomy" value="585425"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0004E059DB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A076HL81"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="UniProtKB accession" value="A0A076HL81"/>
+      <property type="length" value="424"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8GKU6_9SYNE">
+      <property type="source organism" value="Synechococcus sp. A15-127"/>
+      <property type="NCBI taxonomy" value="1050624"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00164959AE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8GKU6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8GKU6"/>
+      <property type="UniProtKB accession" value="A0A7G8GKU6"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G7KFR2_9SYNE">
+      <property type="source organism" value="Synechococcus sp. HK01-R"/>
+      <property type="NCBI taxonomy" value="2751171"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001628B0B3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G7KFR2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KFR2"/>
+      <property type="UniProtKB accession" value="A0A7G7KFR2"/>
+      <property type="length" value="493"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4R0QVQ5_9SYNE">
+      <property type="source organism" value="Synechococcus sp. BS56D"/>
+      <property type="NCBI taxonomy" value="2055944"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00103A3999"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4R0QVQ5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KFR2"/>
+      <property type="UniProtKB accession" value="A0A4R0QVQ5"/>
+      <property type="length" value="493"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D7U3U1_9CYAN">
+      <property type="source organism" value="Cyanobium sp. MED195"/>
+      <property type="NCBI taxonomy" value="2024870"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C48588A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D7U3U1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D7U3U1"/>
+      <property type="UniProtKB accession" value="A0A2D7U3U1"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4RQL0_9CHRO">
+      <property type="source organism" value="Chondrocystis sp. NIES-4102"/>
+      <property type="NCBI taxonomy" value="2005460"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B5FBE2D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4RQL0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RQL0"/>
+      <property type="UniProtKB accession" value="A0A1Z4RQL0"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q1ESK4_9CYAN">
+      <property type="source organism" value="Prochlorococcus sp. RS01"/>
+      <property type="NCBI taxonomy" value="1924286"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00097CC7EA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q1ESK4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q1ESK4"/>
+      <property type="UniProtKB accession" value="A0A1Q1ESK4"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9LE61_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium TMED188"/>
+      <property type="NCBI taxonomy" value="1986678"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B6DD5FA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9LE61"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z9LE61"/>
+      <property type="UniProtKB accession" value="A0A1Z9LE61"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D7JFB8_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MED650"/>
+      <property type="NCBI taxonomy" value="2024882"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B6DD5FA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9LE61"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z9LE61"/>
+      <property type="UniProtKB accession" value="A0A2D7JFB8"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q3AXY4_SYNS9">
+      <property type="source organism" value="Synechococcus sp. (strain CC9902)"/>
+      <property type="NCBI taxonomy" value="316279"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00005D40C0"/>
+      <property type="UniRef100 ID" value="UniRef100_Q3AXY4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3AXY4"/>
+      <property type="UniProtKB accession" value="Q3AXY4"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E4LNK0_9CYAN">
+      <property type="source organism" value="Cyanobium sp. SAT1300"/>
+      <property type="NCBI taxonomy" value="2024874"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C357645"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E4LNK0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3AXY4"/>
+      <property type="UniProtKB accession" value="A0A2E4LNK0"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A560LLC9_9SYNE">
+      <property type="source organism" value="Synechococcus sp. Ace-Pa"/>
+      <property type="NCBI taxonomy" value="2572902"/>
+      <property type="protein name" value="Glucosyl-glycerol phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0008FF7876"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A560LLC9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A560LLC9"/>
+      <property type="UniProtKB accession" value="A0A560LLC9"/>
+      <property type="length" value="506"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1J0P8R0_9SYNE">
+      <property type="source organism" value="Synechococcus sp. SynAce01"/>
+      <property type="NCBI taxonomy" value="1916956"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0008FF7876"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A560LLC9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A560LLC9"/>
+      <property type="UniProtKB accession" value="A0A1J0P8R0"/>
+      <property type="length" value="506"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4Y3FTW3_9CYAN">
+      <property type="source organism" value="cyanobiont of Ornithocercus magnificus"/>
+      <property type="NCBI taxonomy" value="2496102"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00116A4AEE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4Y3FTW3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4Y3FTW3"/>
+      <property type="UniProtKB accession" value="A0A4Y3FTW3"/>
+      <property type="length" value="503"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q0IAB5_SYNS3">
+      <property type="source organism" value="Synechococcus sp. (strain CC9311)"/>
+      <property type="NCBI taxonomy" value="64471"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0000DDAE65"/>
+      <property type="UniRef100 ID" value="UniRef100_Q0IAB5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="Q0IAB5"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E0EAQ8_9ACTN">
+      <property type="source organism" value="Propionibacteriaceae bacterium"/>
+      <property type="NCBI taxonomy" value="2021380"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C39F5BE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E0EAQ8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A2E0EAQ8"/>
+      <property type="length" value="500"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D5R3X5_9GAMM">
+      <property type="source organism" value="Porticoccaceae bacterium"/>
+      <property type="NCBI taxonomy" value="2026782"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C8ACDF2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D5R3X5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A2D5R3X5"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8F4I9_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MVIR-18-1"/>
+      <property type="NCBI taxonomy" value="1386941"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001648ED53"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8F4I9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A7G8F4I9"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4V8DDW7_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MED-G68"/>
+      <property type="NCBI taxonomy" value="2267259"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B6B424C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4V8DDW7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A4V8DDW7"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3D3XH05_9BACT">
+      <property type="source organism" value="Verrucomicrobiales bacterium"/>
+      <property type="NCBI taxonomy" value="2026801"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B6B424C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4V8DDW7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A3D3XH05"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9BXP8_9BACT">
+      <property type="source organism" value="bacterium TMED88"/>
+      <property type="NCBI taxonomy" value="1986661"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B6AC7F8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9BXP8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A1Z9BXP8"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8G3K1_9SYNE">
+      <property type="source organism" value="Synechococcus sp. ROS8604"/>
+      <property type="NCBI taxonomy" value="1442557"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016452580"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8G3K1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A7G8G3K1"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8JMD6_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PROS-9-1"/>
+      <property type="NCBI taxonomy" value="1968775"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016454AE1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8JMD6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A7G8JMD6"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G4FKC3_9SYNE">
+      <property type="source organism" value="Synechococcus sp. WH 8016"/>
+      <property type="NCBI taxonomy" value="166318"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00022DA12D"/>
+      <property type="UniRef100 ID" value="UniRef100_G4FKC3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="G4FKC3"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8J6B6_9SYNE">
+      <property type="source organism" value="Synechococcus sp. SYN20"/>
+      <property type="NCBI taxonomy" value="1050714"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016493EB4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8J6B6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A7G8J6B6"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0H4BC98_SYNPY">
+      <property type="source organism" value="Synechococcus sp. (strain WH8020)"/>
+      <property type="NCBI taxonomy" value="32052"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000652730C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0H4BC98"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="UniProtKB accession" value="A0A0H4BC98"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D4YX42_9SYNE">
+      <property type="source organism" value="Synechococcus sp. CPC35"/>
+      <property type="NCBI taxonomy" value="2024880"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C97CB23"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D4YX42"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4YX42"/>
+      <property type="UniProtKB accession" value="A0A2D4YX42"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D6Y4I5_9SYNE">
+      <property type="source organism" value="Synechococcus sp. ARS1019"/>
+      <property type="NCBI taxonomy" value="2024878"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C891EF0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D6Y4I5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D6Y4I5"/>
+      <property type="UniProtKB accession" value="A0A2D6Y4I5"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A3YUD5_9SYNE">
+      <property type="source organism" value="Synechococcus sp. WH 5701"/>
+      <property type="NCBI taxonomy" value="69042"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0000699A7F"/>
+      <property type="UniRef100 ID" value="UniRef100_A3YUD5"/>
+      <property type="UniRef90 ID" value="UniRef90_A3YUD5"/>
+      <property type="UniProtKB accession" value="A3YUD5"/>
+      <property type="length" value="492"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A076H1B6_9SYNE">
+      <property type="source organism" value="Synechococcus sp. KORDI-100"/>
+      <property type="NCBI taxonomy" value="1280380"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0004E06CC8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A076H1B6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A076H1B6"/>
+      <property type="UniProtKB accession" value="A0A076H1B6"/>
+      <property type="length" value="424"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8DCJ3_9SYNE">
+      <property type="source organism" value="Synechococcus sp. BIOS-E4-1"/>
+      <property type="NCBI taxonomy" value="1400864"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001860255B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8DCJ3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="UniProtKB accession" value="A0A7G8DCJ3"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A164C2N2_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MIT S9508"/>
+      <property type="NCBI taxonomy" value="1801629"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0007BB9EAC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A164C2N2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="UniProtKB accession" value="A0A164C2N2"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D6FCD0_9CYAN">
+      <property type="source organism" value="Cyanobium sp. ARS6"/>
+      <property type="NCBI taxonomy" value="2024869"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C470D99"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D6FCD0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="UniProtKB accession" value="A0A2D6FCD0"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8DN01_9SYNE">
+      <property type="source organism" value="Synechococcus sp. BIOS-U3-1"/>
+      <property type="NCBI taxonomy" value="1400865"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001644B183"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8DN01"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="UniProtKB accession" value="A0A7G8DN01"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8IWI7_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MIT S9220"/>
+      <property type="NCBI taxonomy" value="166309"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI00164C4F56"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8IWI7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="UniProtKB accession" value="A0A7G8IWI7"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A164AWT0_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MIT S9504"/>
+      <property type="NCBI taxonomy" value="1801628"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0007BB0587"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A164AWT0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="UniProtKB accession" value="A0A164AWT0"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E1INA2_9CYAN">
+      <property type="source organism" value="Cyanobium sp. MED843"/>
+      <property type="NCBI taxonomy" value="2024871"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B62B881"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E1INA2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E1INA2"/>
+      <property type="UniProtKB accession" value="A0A2E1INA2"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9JH75_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium TMED177"/>
+      <property type="NCBI taxonomy" value="1986677"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B62B881"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E1INA2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E1INA2"/>
+      <property type="UniProtKB accession" value="A0A1Z9JH75"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5J6PZ03_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RSCCF101"/>
+      <property type="NCBI taxonomy" value="2511069"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001247B494"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5J6PZ03"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5J6PZ03"/>
+      <property type="UniProtKB accession" value="A0A5J6PZ03"/>
+      <property type="length" value="510"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z9W361_9SYNE">
+      <property type="source organism" value="Synechococcus sp. TMED90"/>
+      <property type="NCBI taxonomy" value="1986600"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000B73111F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z9W361"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A355QA65"/>
+      <property type="UniProtKB accession" value="A0A1Z9W361"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A355QA65_9DELT">
+      <property type="source organism" value="Deltaproteobacteria bacterium"/>
+      <property type="NCBI taxonomy" value="2026735"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000E980921"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A355QA65"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A355QA65"/>
+      <property type="UniProtKB accession" value="A0A355QA65"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8FUI8_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PROS-7-1"/>
+      <property type="NCBI taxonomy" value="1442556"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI001646F074"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8FUI8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A355QA65"/>
+      <property type="UniProtKB accession" value="A0A7G8FUI8"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8HIX1_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MEDNS5"/>
+      <property type="NCBI taxonomy" value="1442554"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016440160"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8HIX1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A355QA65"/>
+      <property type="UniProtKB accession" value="A0A7G8HIX1"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8EW36_9SYNE">
+      <property type="source organism" value="Synechococcus sp. NOUM97013"/>
+      <property type="NCBI taxonomy" value="1442555"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0016460505"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8EW36"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8INV2"/>
+      <property type="UniProtKB accession" value="A0A7G8EW36"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8INV2_9SYNE">
+      <property type="source organism" value="Synechococcus sp. A18-25c"/>
+      <property type="NCBI taxonomy" value="1866938"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C41F6C5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8INV2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8INV2"/>
+      <property type="UniProtKB accession" value="A0A7G8INV2"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D8U038_9SYNE">
+      <property type="source organism" value="Synechococcus sp. EAC657"/>
+      <property type="NCBI taxonomy" value="2024881"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C41F6C5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8INV2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8INV2"/>
+      <property type="UniProtKB accession" value="A0A2D8U038"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P6LC14_9SYNE">
+      <property type="source organism" value="Synechococcus sp. WH 8101"/>
+      <property type="NCBI taxonomy" value="59932"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0010234016"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P6LC14"/>
+      <property type="UniRef90 ID" value="UniRef90_A3Z6V9"/>
+      <property type="UniProtKB accession" value="A0A4P6LC14"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A3Z6V9_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RS9917"/>
+      <property type="NCBI taxonomy" value="221360"/>
+      <property type="protein name" value="Glucosyl-glycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000068F847"/>
+      <property type="UniRef100 ID" value="UniRef100_A3Z6V9"/>
+      <property type="UniRef90 ID" value="UniRef90_A3Z6V9"/>
+      <property type="UniProtKB accession" value="A3Z6V9"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q05T12_9SYNE">
+      <property type="source organism" value="Synechococcus sp. RS9916"/>
+      <property type="NCBI taxonomy" value="221359"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0000E54094"/>
+      <property type="UniRef100 ID" value="UniRef100_Q05T12"/>
+      <property type="UniRef90 ID" value="UniRef90_Q05T12"/>
+      <property type="UniProtKB accession" value="Q05T12"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A5GL46_SYNPW">
+      <property type="source organism" value="Synechococcus sp. (strain WH7803)"/>
+      <property type="NCBI taxonomy" value="32051"/>
+      <property type="protein name" value="Glycosyltransferase of family GT20 probable trehalose-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0001525287"/>
+      <property type="UniRef100 ID" value="UniRef100_A5GL46"/>
+      <property type="UniRef90 ID" value="UniRef90_A5GL46"/>
+      <property type="UniProtKB accession" value="A5GL46"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G8EE59_9SYNE">
+      <property type="source organism" value="Synechococcus sp. BMK-MC-1"/>
+      <property type="NCBI taxonomy" value="1442551"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI0018622472"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8EE59"/>
+      <property type="UniRef90 ID" value="UniRef90_A5GL46"/>
+      <property type="UniProtKB accession" value="A0A7G8EE59"/>
+      <property type="length" value="422"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P7ZRZ5_9SYNE">
+      <property type="source organism" value="Synechococcus sp. CB0101"/>
+      <property type="NCBI taxonomy" value="232348"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000200154D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P7ZRZ5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4P7ZRZ5"/>
+      <property type="UniProtKB accession" value="A0A4P7ZRZ5"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E0VXI6_9BACT">
+      <property type="source organism" value="Saprospirales bacterium"/>
+      <property type="NCBI taxonomy" value="2026790"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C985DF1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E0VXI6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q7U6Q7"/>
+      <property type="UniProtKB accession" value="A0A2E0VXI6"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A520LN09_9SYNE">
+      <property type="source organism" value="Synechococcus sp. MED-G133"/>
+      <property type="NCBI taxonomy" value="2518986"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C985DF1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E0VXI6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q7U6Q7"/>
+      <property type="UniProtKB accession" value="A0A520LN09"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2E8TGY0_9CYAN">
+      <property type="source organism" value="Cyanobium sp. RS427"/>
+      <property type="NCBI taxonomy" value="2024873"/>
+      <property type="protein name" value="Glucosylglycerol-phosphate synthase"/>
+      <property type="UniParc ID" value="UPI000C4088D1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2E8TGY0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q7U6Q7"/>
+      <property type="UniProtKB accession" value="A0A2E8TGY0"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q7U6Q7_PARMW">
+      <property type="source organism" value="Parasynechococcus marenigrum (strain WH8102)"/>
+      <property type="NCBI taxonomy" value="84588"/>
+      <property type="protein name" value="Putative glucosyl-glycerol-phosphate synthase [UI:98406036]"/>
+      <property type="UniParc ID" value="UPI00001B9DEA"/>
+      <property type="UniRef100 ID" value="UniRef100_Q7U6Q7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q7U6Q7"/>
+      <property type="UniProtKB accession" value="Q7U6Q7"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB058FE">
+      <property type="source organism" value="Synechocystis sp. PCC 7338"/>
+      <property type="NCBI taxonomy" value="2732530"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB058FE"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016830525">
+      <property type="source organism" value="Synechocystis sp. FACHB-383"/>
+      <property type="NCBI taxonomy" value="2692864"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016830525"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001880FA71">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001880FA71"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187E70D3">
+      <property type="source organism" value="Synechocystis"/>
+      <property type="NCBI taxonomy" value="1142"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00187E70D3"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00048BD97B">
+      <property type="source organism" value="Synechocystis sp. PCC 6714"/>
+      <property type="NCBI taxonomy" value="1147"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00048BD97B"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CBD84C3">
+      <property type="source organism" value="Synechocystis sp. PCC 7339"/>
+      <property type="NCBI taxonomy" value="2782213"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CBD84C3"/>
+      <property type="UniRef90 ID" value="UniRef90_P74258"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D157262">
+      <property type="source organism" value="Cyanobium sp. LEGE 06143"/>
+      <property type="NCBI taxonomy" value="945727"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D157262"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8EJ15"/>
+      <property type="length" value="517"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D136794">
+      <property type="source organism" value="Cyanobium sp. LEGE 06113"/>
+      <property type="NCBI taxonomy" value="1297573"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D136794"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8EJ15"/>
+      <property type="length" value="516"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0F0CC5">
+      <property type="source organism" value="Synechococcus sp. UW105"/>
+      <property type="NCBI taxonomy" value="337067"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0F0CC5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E0KDW6"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0E28F3">
+      <property type="source organism" value="Synechococcus sp. UW140"/>
+      <property type="NCBI taxonomy" value="368503"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0E28F3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2E0KDW6"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020CEE9E9">
+      <property type="source organism" value="Cyanobium sp. CH-040"/>
+      <property type="NCBI taxonomy" value="2823708"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020CEE9E9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6N2EKZ9"/>
+      <property type="length" value="516"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005715944">
+      <property type="source organism" value="Synechococcus sp. WH 7805"/>
+      <property type="NCBI taxonomy" value="59931"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0005715944"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3C1UJK0"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002002504">
+      <property type="source organism" value="Synechococcus sp. CB0205"/>
+      <property type="NCBI taxonomy" value="232363"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002002504"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KR44"/>
+      <property type="length" value="487"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FF79CD3">
+      <property type="source organism" value="Synechococcus sp. NB0720_010"/>
+      <property type="NCBI taxonomy" value="2907159"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FF79CD3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KR44"/>
+      <property type="length" value="487"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0FEA2B">
+      <property type="source organism" value="Synechococcus sp. UW86"/>
+      <property type="NCBI taxonomy" value="368491"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0FEA2B"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0F8C83">
+      <property type="source organism" value="Synechococcus sp. N32"/>
+      <property type="NCBI taxonomy" value="2575514"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0F8C83"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0EAA7F">
+      <property type="source organism" value="Synechococcus sp. N19"/>
+      <property type="NCBI taxonomy" value="2575512"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0EAA7F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00202652D8">
+      <property type="source organism" value="Synechococcus sp. MU1648"/>
+      <property type="NCBI taxonomy" value="2508351"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00202652D8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0E9CA1">
+      <property type="source organism" value="Synechococcus sp. UW69"/>
+      <property type="NCBI taxonomy" value="368493"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0E9CA1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020260D0D">
+      <property type="source organism" value="Synechococcus sp. MU1651"/>
+      <property type="NCBI taxonomy" value="2508353"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020260D0D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CF8503F">
+      <property type="source organism" value="Synechococcus sp. MU1611"/>
+      <property type="NCBI taxonomy" value="2508345"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CF8503F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CF92211">
+      <property type="source organism" value="Synechococcus sp. MU1625"/>
+      <property type="NCBI taxonomy" value="2508347"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CF92211"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CF833B9">
+      <property type="source organism" value="Synechococcus sp. MU1643"/>
+      <property type="NCBI taxonomy" value="2508349"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CF833B9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CF87FA5">
+      <property type="source organism" value="Synechococcus sp. MU1642"/>
+      <property type="NCBI taxonomy" value="2508348"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CF87FA5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00140BC49B">
+      <property type="source organism" value="unclassified Synechococcus"/>
+      <property type="NCBI taxonomy" value="2626047"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00140BC49B"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0E6799">
+      <property type="source organism" value="Synechococcus sp. UW106"/>
+      <property type="NCBI taxonomy" value="368495"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0E6799"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CF8819F">
+      <property type="source organism" value="Synechococcus sp. MU1650"/>
+      <property type="NCBI taxonomy" value="2508352"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CF8819F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001646C2AC">
+      <property type="source organism" value="Synechococcus sp. A15-62"/>
+      <property type="NCBI taxonomy" value="1050657"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8H2H1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001645C0BB">
+      <property type="source organism" value="Synechococcus sp. TAK9802"/>
+      <property type="NCBI taxonomy" value="1442558"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8DWX3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0001B8D767">
+      <property type="source organism" value="Synechococcus sp. WH 8109"/>
+      <property type="NCBI taxonomy" value="166314"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_W0GYI8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00056F92CA">
+      <property type="source organism" value="Synechococcus sp. KORDI-52"/>
+      <property type="NCBI taxonomy" value="585425"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A076HL81"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I0C6S6"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BDD6A6F">
+      <property type="source organism" value="Synechococcus sp. LA31"/>
+      <property type="NCBI taxonomy" value="2741953"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BDD6A6F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001BDD6A6F"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005BE773C">
+      <property type="source organism" value="Synechococcus sp. KORDI-49"/>
+      <property type="NCBI taxonomy" value="585423"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0005BE773C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G8GKU6"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0010386B04">
+      <property type="source organism" value="Synechococcus sp. BS55D"/>
+      <property type="NCBI taxonomy" value="2055943"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0010386B04"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7G7KFR2"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003473688">
+      <property type="source organism" value="Pleurocapsa sp. PCC 7319"/>
+      <property type="NCBI taxonomy" value="118161"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003473688"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RQL0"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00094C8B68">
+      <property type="source organism" value="Prochlorococcus marinus"/>
+      <property type="NCBI taxonomy" value="1219"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00094C8B68"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q1ESK4"/>
+      <property type="length" value="495"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002E4F19B">
+      <property type="source organism" value="Synechococcus sp. BL107"/>
+      <property type="NCBI taxonomy" value="313625"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002E4F19B"/>
+      <property type="UniRef90 ID" value="UniRef90_Q3AXY4"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020B3BC49">
+      <property type="source organism" value="Synechococcus sp. CCY 9618"/>
+      <property type="NCBI taxonomy" value="2815602"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020B3BC49"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0020B3BC49"/>
+      <property type="length" value="483"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0E6BF7">
+      <property type="source organism" value="Synechococcus sp. UW179B"/>
+      <property type="NCBI taxonomy" value="2575516"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0E6BF7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q0IAB5"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020CE51E1">
+      <property type="source organism" value="Cyanobium sp. ATX 6A2"/>
+      <property type="NCBI taxonomy" value="2823700"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020CE51E1"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0020CE51E1"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C895EBF">
+      <property type="source organism" value="unclassified Synechococcus"/>
+      <property type="NCBI taxonomy" value="2626047"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C895EBF"/>
+      <property type="UniRef90 ID" value="UniRef90_A3YUD5"/>
+      <property type="length" value="511"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020CCCA51">
+      <property type="source organism" value="Synechococcus sp. EJ6-Ellesmere"/>
+      <property type="NCBI taxonomy" value="2823734"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020CCCA51"/>
+      <property type="UniRef90 ID" value="UniRef90_A3YUD5"/>
+      <property type="length" value="492"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000571984C">
+      <property type="source organism" value="Synechococcus sp. KORDI-100"/>
+      <property type="NCBI taxonomy" value="1280380"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A076H1B6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A076H1B6"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00048F60F5">
+      <property type="source organism" value="Synechococcus sp. CC9616"/>
+      <property type="NCBI taxonomy" value="110663"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00048F60F5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A076H1B6"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00082EE270">
+      <property type="source organism" value="Synechococcus sp. MIT S9508"/>
+      <property type="NCBI taxonomy" value="1801629"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A164C2N2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0FCCA3">
+      <property type="source organism" value="Synechococcus sp. UW179A"/>
+      <property type="NCBI taxonomy" value="2575510"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0FCCA3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007BAE697">
+      <property type="source organism" value="Synechococcus sp. MIT S9509"/>
+      <property type="NCBI taxonomy" value="1801630"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007BAE697"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001644C468">
+      <property type="source organism" value="Synechococcus sp. BIOS-E4-1"/>
+      <property type="NCBI taxonomy" value="1400864"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001644C468"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E0FA340">
+      <property type="source organism" value="Synechococcus sp. GEYO"/>
+      <property type="NCBI taxonomy" value="2575511"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E0FA340"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A164C2N2"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001DB13291">
+      <property type="source organism" value="Waterburya agarophytonicola"/>
+      <property type="NCBI taxonomy" value="2886916"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001DB13291"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001DB13291"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00164751C5">
+      <property type="source organism" value="Synechococcus sp. BMK-MC-1"/>
+      <property type="NCBI taxonomy" value="1442551"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7G8EE59"/>
+      <property type="UniRef90 ID" value="UniRef90_A5GL46"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D157D36">
+      <property type="source organism" value="Cyanobium sp. LEGE 06143"/>
+      <property type="NCBI taxonomy" value="945727"/>
+      <property type="protein name" value="trehalose-6-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D157D36"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001D157D36"/>
+      <property type="length" value="444"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C393D75">
+      <property type="source organism" value="Synechococcus sp. HK05"/>
+      <property type="NCBI taxonomy" value="2725975"/>
+      <property type="protein name" value="glucosylglycerol-phosphate synthase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C393D75"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4P7ZRZ5"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

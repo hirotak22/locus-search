@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_P74257" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Glycerol-3-phosphate dehydrogenase</name>
+  <property type="member count" value="125"/>
+  <property type="common taxon" value="Cyanobacteria/Melainabacteria group"/>
+  <property type="common taxon ID" value="1798711"/>
+  <property type="GO Molecular Function" value="GO:0004368"/>
+  <property type="GO Cellular Component" value="GO:0009331"/>
+  <property type="GO Biological Process" value="GO:0006072"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="GLPD_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000012B768"/>
+      <property type="UniRef100 ID" value="UniRef100_P74257"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="UniProtKB accession" value="P74257"/>
+      <property type="length" value="553"/>
+    </dbReference>
+    <sequence length="553" checksum="7AB17D9B9C03762D">MRNFPEIQNTAYDLIVIGGGINGVGTARDGALRGLKTLLIEKDDFASGTSSWSTRLIHGGLRYLEYFEFNLVRESLREREVLLHTAPHLVQPLQLTIPVYDWSSRAYWEIQAGMILYDILSFDKTLPSHRMLSPQQFQQLFRAAEKKGLKGGAQYFDGQVEYAERLDLEVTLSAQKAGAAMLNYVAVKGLEKGENNLITAIHCQDQLSGEKFTVNSAQAIVINTTGPWVDEVCGLAHRGGEPVAIVQERKIGGTKGSHIVVDPFPGAPASALYVEAFVDKRPYFIIPWLGKYLIGTTDHRYDGSLDRVKASDDEIDYLIAETNRVMPAAQLTRQDVRFTYSGVRPLPYTDGKKAGSITRNHILYDHSQDGVNNLISLIGGKLTTYRQVGEEMVDKVYGKLRRSAPPCPTLTQPLPGAEAYPLSLETAMDKYGNHLERHSIQHLFCLYGARAGDILALVHGAPELGERIIPSLPDIKAQVVFAVQAEMAHTLVDICRRRTAIAMVTNDYGFSALAGICQTLTDHCGWTQEQCDKQIQKYHEYMEQNCIPDYCLH</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P1VIF5_9SYNC">
+      <property type="source organism" value="Synechocystis sp. CACIAM 05"/>
+      <property type="NCBI taxonomy" value="1933929"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00138E7730"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P1VIF5"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="UniProtKB accession" value="A0A6P1VIF5"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6W8J3_9CYAN">
+      <property type="source organism" value="Nodosilinea sp. FACHB-13"/>
+      <property type="NCBI taxonomy" value="2692831"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI001684822D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6W8J3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7J8U8"/>
+      <property type="UniProtKB accession" value="A0A8J6W8J3"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6RJH9_9CYAN">
+      <property type="source organism" value="Nodosilinea sp. FACHB-131"/>
+      <property type="NCBI taxonomy" value="2692832"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI001686BE53"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6RJH9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7J8U8"/>
+      <property type="UniProtKB accession" value="A0A8J6RJH9"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W6ZYQ1_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp"/>
+      <property type="NCBI taxonomy" value="47254"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000DB68E27"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W6ZYQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7J8U8"/>
+      <property type="UniProtKB accession" value="A0A2W6ZYQ1"/>
+      <property type="length" value="555"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7J8U8_9CYAN">
+      <property type="source organism" value="Phormidium tenue NIES-30"/>
+      <property type="NCBI taxonomy" value="549789"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000936CE8D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1U7J8U8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7J8U8"/>
+      <property type="UniProtKB accession" value="A0A1U7J8U8"/>
+      <property type="length" value="555"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6WHE6_9CYAN">
+      <property type="source organism" value="Nodosilinea sp. FACHB-141"/>
+      <property type="NCBI taxonomy" value="2692833"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI001685BC22"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6WHE6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7J8U8"/>
+      <property type="UniProtKB accession" value="A0A8J6WHE6"/>
+      <property type="length" value="555"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7T5JGL7_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. BL0902"/>
+      <property type="NCBI taxonomy" value="1115757"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0018E905E8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7T5JGL7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7T5JGL7"/>
+      <property type="UniProtKB accession" value="A0A7T5JGL7"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7DQZ0_9CYAN">
+      <property type="source organism" value="Nodosilinea sp. LEGE 07298"/>
+      <property type="NCBI taxonomy" value="2777970"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI00188071A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7DQZ0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2P8VUW1"/>
+      <property type="UniProtKB accession" value="A0A8J7DQZ0"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2P8VUW1_9CYAN">
+      <property type="source organism" value="filamentous cyanobacterium CCT1"/>
+      <property type="NCBI taxonomy" value="2107702"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000D127C0A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P8VUW1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2P8VUW1"/>
+      <property type="UniProtKB accession" value="A0A2P8VUW1"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7JRX7_9CYAN">
+      <property type="source organism" value="Nodosilinea sp. LEGE 06152"/>
+      <property type="NCBI taxonomy" value="2777966"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI0018810A6B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7JRX7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2P8VUW1"/>
+      <property type="UniProtKB accession" value="A0A8J7JRX7"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7IUH7_9CYAN">
+      <property type="source organism" value="Lusitaniella coriacea LEGE 07157"/>
+      <property type="NCBI taxonomy" value="945747"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI001882340B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7IUH7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7IUH7"/>
+      <property type="UniProtKB accession" value="A0A8J7IUH7"/>
+      <property type="length" value="559"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P2AZ57_9CYAN">
+      <property type="source organism" value="Spirulina sp. DLM2.Bin59"/>
+      <property type="NCBI taxonomy" value="2480215"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00130C09C3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P2AZ57"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P2AZ57"/>
+      <property type="UniProtKB accession" value="A0A6P2AZ57"/>
+      <property type="length" value="552"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q4R359_9CYAN">
+      <property type="source organism" value="Limnothrix rosea IAM M-220"/>
+      <property type="NCBI taxonomy" value="454133"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000962AF0E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4R359"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4R359"/>
+      <property type="UniProtKB accession" value="A0A1Q4R359"/>
+      <property type="length" value="570"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q2U0V8_9SYNE">
+      <property type="source organism" value="Synechococcus sp. NIES-970"/>
+      <property type="NCBI taxonomy" value="1827144"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00097FB81F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q2U0V8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q2U0V8"/>
+      <property type="UniProtKB accession" value="A0A1Q2U0V8"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9SG16_9CYAN">
+      <property type="source organism" value="Pseudanabaena sp. PCC 7367"/>
+      <property type="NCBI taxonomy" value="82654"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00029F9BA3"/>
+      <property type="UniRef100 ID" value="UniRef100_K9SG16"/>
+      <property type="UniRef90 ID" value="UniRef90_K9SG16"/>
+      <property type="UniProtKB accession" value="K9SG16"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="U5DLV9_9CHRO">
+      <property type="source organism" value="Rubidibacter lacunae KORDI 51-2"/>
+      <property type="NCBI taxonomy" value="582515"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0003B1DE5D"/>
+      <property type="UniRef100 ID" value="UniRef100_U5DLV9"/>
+      <property type="UniRef90 ID" value="UniRef90_U5DLV9"/>
+      <property type="UniProtKB accession" value="U5DLV9"/>
+      <property type="length" value="569"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9EZL3_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. PCC 7375"/>
+      <property type="NCBI taxonomy" value="102129"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00029E1675"/>
+      <property type="UniRef100 ID" value="UniRef100_K9EZL3"/>
+      <property type="UniRef90 ID" value="UniRef90_K9EZL3"/>
+      <property type="UniProtKB accession" value="K9EZL3"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M0SG28_9CYAN">
+      <property type="source organism" value="Adonisia turfae CCMR0082"/>
+      <property type="NCBI taxonomy" value="2304604"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI0013D066ED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M0SG28"/>
+      <property type="UniRef90 ID" value="UniRef90_K9EZL3"/>
+      <property type="UniProtKB accession" value="A0A6M0SG28"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6M0RUK4_9CYAN">
+      <property type="source organism" value="Adonisia turfae CCMR0081"/>
+      <property type="NCBI taxonomy" value="2292702"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI0013D066ED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6M0SG28"/>
+      <property type="UniRef90 ID" value="UniRef90_K9EZL3"/>
+      <property type="UniProtKB accession" value="A0A6M0RUK4"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5Q4E4J0_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. DLM2.Bin27"/>
+      <property type="NCBI taxonomy" value="2480213"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0012D1B139"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5Q4E4J0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5Q4E4J0"/>
+      <property type="UniProtKB accession" value="A0A5Q4E4J0"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A3IND3_9CHRO">
+      <property type="source organism" value="Crocosphaera chwakensis CCY0110"/>
+      <property type="NCBI taxonomy" value="391612"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0000F3912B"/>
+      <property type="UniRef100 ID" value="UniRef100_A3IND3"/>
+      <property type="UniRef90 ID" value="UniRef90_B1WSH2"/>
+      <property type="UniProtKB accession" value="A3IND3"/>
+      <property type="length" value="570"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B1WSH2_CROS5">
+      <property type="source organism" value="Crocosphaera subtropica (strain ATCC 51142 / BH68) (Cyanothece sp. (strainATCC 51142))"/>
+      <property type="NCBI taxonomy" value="43989"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0001720EDC"/>
+      <property type="UniRef100 ID" value="UniRef100_B1WSH2"/>
+      <property type="UniRef90 ID" value="UniRef90_B1WSH2"/>
+      <property type="UniProtKB accession" value="B1WSH2"/>
+      <property type="length" value="570"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B0C2E9_ACAM1">
+      <property type="source organism" value="Acaryochloris marina (strain MBIC 11017)"/>
+      <property type="NCBI taxonomy" value="329726"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00015DD921"/>
+      <property type="UniRef100 ID" value="UniRef100_B0C2E9"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C2E9"/>
+      <property type="UniProtKB accession" value="B0C2E9"/>
+      <property type="length" value="560"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I5PFR4_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. SIO3F4"/>
+      <property type="NCBI taxonomy" value="2607780"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI0013BBB668"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I5PFR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6I5PFR4"/>
+      <property type="UniProtKB accession" value="A0A6I5PFR4"/>
+      <property type="length" value="563"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H1WAA9_9CYAN">
+      <property type="source organism" value="Limnospira indica PCC 8005"/>
+      <property type="NCBI taxonomy" value="376219"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0001E2A0D0"/>
+      <property type="UniRef100 ID" value="UniRef100_H1WAA9"/>
+      <property type="UniRef90 ID" value="UniRef90_H1WAA9"/>
+      <property type="UniProtKB accession" value="H1WAA9"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5Q4HD53_9CYAN">
+      <property type="source organism" value="Arthrospira sp. PLM2.Bin9"/>
+      <property type="NCBI taxonomy" value="2599626"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0012CD06C5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5Q4HD53"/>
+      <property type="UniRef90 ID" value="UniRef90_H1WAA9"/>
+      <property type="UniProtKB accession" value="A0A5Q4HD53"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B5W0Q5_LIMMA">
+      <property type="source organism" value="Limnospira maxima CS-328"/>
+      <property type="NCBI taxonomy" value="513049"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00018212B9"/>
+      <property type="UniRef100 ID" value="UniRef100_B5W0Q5"/>
+      <property type="UniRef90 ID" value="UniRef90_H1WAA9"/>
+      <property type="UniProtKB accession" value="B5W0Q5"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7G7W0F7_9CYAN">
+      <property type="source organism" value="Limnospira indica BM01"/>
+      <property type="NCBI taxonomy" value="2760438"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00018212B9"/>
+      <property type="UniRef100 ID" value="UniRef100_B5W0Q5"/>
+      <property type="UniRef90 ID" value="UniRef90_H1WAA9"/>
+      <property type="UniProtKB accession" value="A0A7G7W0F7"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A140K252_9CYAN">
+      <property type="source organism" value="Stanieria sp. NIES-3757"/>
+      <property type="NCBI taxonomy" value="1807358"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00078D7ECD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A140K252"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A140K252"/>
+      <property type="UniProtKB accession" value="A0A140K252"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9XV58_STAC7">
+      <property type="source organism" value="Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437)"/>
+      <property type="NCBI taxonomy" value="111780"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0002A5FD1E"/>
+      <property type="UniRef100 ID" value="UniRef100_K9XV58"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A140K252"/>
+      <property type="UniProtKB accession" value="K9XV58"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0P8BZR3_9CYAN">
+      <property type="source organism" value="Phormidesmis priestleyi Ana"/>
+      <property type="NCBI taxonomy" value="1666911"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0006DAF1D2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0P8BZR3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0P8BZR3"/>
+      <property type="UniProtKB accession" value="A0A0P8BZR3"/>
+      <property type="length" value="616"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6N2DJP9_9CYAN">
+      <property type="source organism" value="Phormidium sp. GEM2.Bin31"/>
+      <property type="NCBI taxonomy" value="2480216"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0014156981"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6N2DJP9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0N8KPN5"/>
+      <property type="UniProtKB accession" value="A0A6N2DJP9"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0N8KPN5_9CYAN">
+      <property type="source organism" value="Phormidium sp. OSCR"/>
+      <property type="NCBI taxonomy" value="1666905"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0006DB14E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0N8KPN5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0N8KPN5"/>
+      <property type="UniProtKB accession" value="A0A0N8KPN5"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8K1IRG5_9CYAN">
+      <property type="source organism" value="Phormidium sp. PBR-2020"/>
+      <property type="NCBI taxonomy" value="2839084"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI001E7639CB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8K1IRG5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0N8KPN5"/>
+      <property type="UniProtKB accession" value="A0A8K1IRG5"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A522XBX2_9CYAN">
+      <property type="source organism" value="Phormidium sp. SL48-SHIP"/>
+      <property type="NCBI taxonomy" value="2518363"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI00122BC6F8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A522XBX2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0N8KPN5"/>
+      <property type="UniProtKB accession" value="A0A522XBX2"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B1U1V4_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 7117"/>
+      <property type="NCBI taxonomy" value="195498"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000810A716"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B1U1V4"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="UniProtKB accession" value="A0A1B1U1V4"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B1XNB0_SYNP2">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) (Agmenellumquadruplicatum)"/>
+      <property type="NCBI taxonomy" value="32049"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00016DCDAC"/>
+      <property type="UniRef100 ID" value="UniRef100_B1XNB0"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="UniProtKB accession" value="B1XNB0"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P8WXT1_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 11901"/>
+      <property type="NCBI taxonomy" value="2579791"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0010FBF4A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P8WXT1"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="UniProtKB accession" value="A0A4P8WXT1"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B1TSW6_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 7003"/>
+      <property type="NCBI taxonomy" value="374981"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0008109548"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B1TSW6"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="UniProtKB accession" value="A0A1B1TSW6"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A651EQT5_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. DLM2.Bin15"/>
+      <property type="NCBI taxonomy" value="2480212"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00137EF101"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A651EQT5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A651EQT5"/>
+      <property type="UniProtKB accession" value="A0A651EQT5"/>
+      <property type="length" value="570"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0C1YB63_9CYAN">
+      <property type="source organism" value="Lyngbya confervoides BDU141951"/>
+      <property type="NCBI taxonomy" value="1574623"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0005858C01"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0C1YB63"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0C1YB63"/>
+      <property type="UniProtKB accession" value="A0A0C1YB63"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4Q7EFN5_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. LK"/>
+      <property type="NCBI taxonomy" value="2294035"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0005858C01"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0C1YB63"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0C1YB63"/>
+      <property type="UniProtKB accession" value="A0A4Q7EFN5"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9YCN7_HALP7">
+      <property type="source organism" value="Halothece sp. (strain PCC 7418) (Synechococcus sp. (strain PCC 7418))"/>
+      <property type="NCBI taxonomy" value="65093"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0002A07309"/>
+      <property type="UniRef100 ID" value="UniRef100_K9YCN7"/>
+      <property type="UniRef90 ID" value="UniRef90_K9YCN7"/>
+      <property type="UniProtKB accession" value="K9YCN7"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3S0YJN2_CHLFR">
+      <property type="source organism" value="Chlorogloeopsis fritschii PCC 6912"/>
+      <property type="NCBI taxonomy" value="211165"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0002F9B3AB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3S0YJN2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3S0YJN2"/>
+      <property type="UniProtKB accession" value="A0A3S0YJN2"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9SAA4_9CYAN">
+      <property type="source organism" value="Geitlerinema sp. PCC 7407"/>
+      <property type="NCBI taxonomy" value="1173025"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00029FB05B"/>
+      <property type="UniRef100 ID" value="UniRef100_K9SAA4"/>
+      <property type="UniRef90 ID" value="UniRef90_K9SAA4"/>
+      <property type="UniProtKB accession" value="K9SAA4"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T2RC92_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium SW_9_44_58"/>
+      <property type="NCBI taxonomy" value="1919144"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000D4CFF2A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T2RC92"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T2RC92"/>
+      <property type="UniProtKB accession" value="A0A2T2RC92"/>
+      <property type="length" value="565"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M1KU09_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium J083"/>
+      <property type="NCBI taxonomy" value="2420336"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000F1ECCC6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3M1KU09"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3M1KU09"/>
+      <property type="UniProtKB accession" value="A0A3M1KU09"/>
+      <property type="length" value="555"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B4WIW4_SYNS7">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 29403 / PCC 7335)"/>
+      <property type="NCBI taxonomy" value="91464"/>
+      <property type="protein name" value="FAD dependent oxidoreductase domain protein"/>
+      <property type="UniParc ID" value="UPI00017EC726"/>
+      <property type="UniRef100 ID" value="UniRef100_B4WIW4"/>
+      <property type="UniRef90 ID" value="UniRef90_B4WIW4"/>
+      <property type="UniProtKB accession" value="B4WIW4"/>
+      <property type="length" value="586"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H2NQY3_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. LCM1.Bin17"/>
+      <property type="NCBI taxonomy" value="2480211"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00140016F8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H2NQY3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H2NQY3"/>
+      <property type="UniProtKB accession" value="A0A6H2NQY3"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A846FBI7_9CYAN">
+      <property type="source organism" value="Cyanothece sp. SIO1E1"/>
+      <property type="NCBI taxonomy" value="2607788"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0013BFF9E8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A846FBI7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A846FBI7"/>
+      <property type="UniProtKB accession" value="A0A846FBI7"/>
+      <property type="length" value="583"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9PXE4_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. PCC 7376"/>
+      <property type="NCBI taxonomy" value="111781"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00029F08D4"/>
+      <property type="UniRef100 ID" value="UniRef100_K9PXE4"/>
+      <property type="UniRef90 ID" value="UniRef90_K9PXE4"/>
+      <property type="UniProtKB accession" value="K9PXE4"/>
+      <property type="length" value="573"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Y0RS88_9CYAN">
+      <property type="source organism" value="Nostocales cyanobacterium HT-58-2"/>
+      <property type="NCBI taxonomy" value="1940762"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000B3CF545"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Y0RS88"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Y0RS88"/>
+      <property type="UniProtKB accession" value="A0A1Y0RS88"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L8M4Y9_9CYAN">
+      <property type="source organism" value="Xenococcus sp. PCC 7305"/>
+      <property type="NCBI taxonomy" value="102125"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0002ABD9CE"/>
+      <property type="UniRef100 ID" value="UniRef100_L8M4Y9"/>
+      <property type="UniRef90 ID" value="UniRef90_L8M4Y9"/>
+      <property type="UniProtKB accession" value="L8M4Y9"/>
+      <property type="length" value="544"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I5N9L0_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. SIO4C1"/>
+      <property type="NCBI taxonomy" value="2607770"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0013B85B9A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I5N9L0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6I5N9L0"/>
+      <property type="UniProtKB accession" value="A0A6I5N9L0"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="U9VSF5_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. Heron Island J"/>
+      <property type="NCBI taxonomy" value="1385935"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0003B9CDD4"/>
+      <property type="UniRef100 ID" value="UniRef100_U9VSF5"/>
+      <property type="UniRef90 ID" value="UniRef90_U9VSF5"/>
+      <property type="UniProtKB accession" value="U9VSF5"/>
+      <property type="length" value="559"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A068MZS8_SYNY4">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))"/>
+      <property type="NCBI taxonomy" value="1147"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000410B285"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A068MZS8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A068MZS8"/>
+      <property type="UniProtKB accession" value="A0A068MZS8"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5B8NNE8_9CHRO">
+      <property type="source organism" value="Euhalothece natronophila Z-M001"/>
+      <property type="NCBI taxonomy" value="522448"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0011B83427"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5B8NNE8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5B8NNE8"/>
+      <property type="UniProtKB accession" value="A0A5B8NNE8"/>
+      <property type="length" value="563"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z3HM35_9CYAN">
+      <property type="source organism" value="Halomicronema hongdechloris C2206"/>
+      <property type="NCBI taxonomy" value="1641165"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0009B97E2A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z3HM35"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z3HM35"/>
+      <property type="UniProtKB accession" value="A0A1Z3HM35"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T1CWG7_9CYAN">
+      <property type="source organism" value="Pleurocapsa sp. CCALA 161"/>
+      <property type="NCBI taxonomy" value="2107688"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000D0578B3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T1CWG7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1CWG7"/>
+      <property type="UniProtKB accession" value="A0A2T1CWG7"/>
+      <property type="length" value="569"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Z5T5U6_9CYAN">
+      <property type="source organism" value="cyanobacterium endosymbiont of Rhopalodia gibberula"/>
+      <property type="NCBI taxonomy" value="1763363"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000DC71685"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2Z5T5U6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2Z5T5U6"/>
+      <property type="UniProtKB accession" value="A0A2Z5T5U6"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W4VQC6_9CYAN">
+      <property type="source organism" value="Shackletoniella antarctica"/>
+      <property type="NCBI taxonomy" value="268115"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000DB1D1BA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W4VQC6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W4VQC6"/>
+      <property type="UniProtKB accession" value="A0A2W4VQC6"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T2RPF0_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium QH_9_48_43"/>
+      <property type="NCBI taxonomy" value="1919126"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000D4AB0D4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T2RPF0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T2RPF0"/>
+      <property type="UniProtKB accession" value="A0A2T2RPF0"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Z4RUL4_9CHRO">
+      <property type="source organism" value="Chondrocystis sp. NIES-4102"/>
+      <property type="NCBI taxonomy" value="2005460"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000B6014E3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Z4RUL4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Z4RUL4"/>
+      <property type="UniProtKB accession" value="A0A1Z4RUL4"/>
+      <property type="length" value="560"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A563VTL2_9CYAN">
+      <property type="source organism" value="Hyella patelloides LEGE 07179"/>
+      <property type="NCBI taxonomy" value="945734"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0011694EAB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A563VTL2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A563VTL2"/>
+      <property type="UniProtKB accession" value="A0A563VTL2"/>
+      <property type="length" value="560"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9YWH5_DACSA">
+      <property type="source organism" value="Dactylococcopsis salina PCC 8305"/>
+      <property type="NCBI taxonomy" value="13035"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0002A08057"/>
+      <property type="UniRef100 ID" value="UniRef100_K9YWH5"/>
+      <property type="UniRef90 ID" value="UniRef90_K9YWH5"/>
+      <property type="UniProtKB accession" value="K9YWH5"/>
+      <property type="length" value="560"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K3B8T9_9CHRO">
+      <property type="source organism" value="Euhalothece sp. KZN 001"/>
+      <property type="NCBI taxonomy" value="1884791"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000CCDC563"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K3B8T9"/>
+      <property type="UniRef90 ID" value="UniRef90_K9YWH5"/>
+      <property type="UniProtKB accession" value="A0A2K3B8T9"/>
+      <property type="length" value="560"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B4VNC4_9CYAN">
+      <property type="source organism" value="Coleofasciculus chthonoplastes PCC 7420"/>
+      <property type="NCBI taxonomy" value="118168"/>
+      <property type="protein name" value="FAD dependent oxidoreductase domain protein"/>
+      <property type="UniParc ID" value="UPI00017E9024"/>
+      <property type="UniRef100 ID" value="UniRef100_B4VNC4"/>
+      <property type="UniRef90 ID" value="UniRef90_B4VNC4"/>
+      <property type="UniProtKB accession" value="B4VNC4"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W1JNK8_9CYAN">
+      <property type="source organism" value="Acaryochloris thomasi RCC1774"/>
+      <property type="NCBI taxonomy" value="1764569"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000DA6787E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W1JNK8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W1JNK8"/>
+      <property type="UniProtKB accession" value="A0A2W1JNK8"/>
+      <property type="length" value="552"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7JXS8_9CYAN">
+      <property type="source organism" value="Oculatella sp. LEGE 06141"/>
+      <property type="NCBI taxonomy" value="1828648"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0018826719"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7JXS8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7JXS8"/>
+      <property type="UniProtKB accession" value="A0A8J7JXS8"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J7AZW9_9CYAN">
+      <property type="source organism" value="Romeria aff. gracilis LEGE 07310"/>
+      <property type="NCBI taxonomy" value="915328"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniParc ID" value="UPI001882BC1A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7AZW9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8J7AZW9"/>
+      <property type="UniProtKB accession" value="A0A8J7AZW9"/>
+      <property type="length" value="567"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T2W2M7_9CYAN">
+      <property type="source organism" value="filamentous cyanobacterium CCP3"/>
+      <property type="NCBI taxonomy" value="2107704"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI000D129480"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T2W2M7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T2W2M7"/>
+      <property type="UniProtKB accession" value="A0A2T2W2M7"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8K2A0R0_9CYAN">
+      <property type="source organism" value="Petrachloros mirabilis ULC683"/>
+      <property type="NCBI taxonomy" value="2781853"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI00137AC0E5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8K2A0R0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8K2A0R0"/>
+      <property type="UniProtKB accession" value="A0A8K2A0R0"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A845X8L0_9CYAN">
+      <property type="source organism" value="Spirulina sp. SIO3F2"/>
+      <property type="NCBI taxonomy" value="2607816"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0013C9D70F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A845X8L0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A845X8L0"/>
+      <property type="UniProtKB accession" value="A0A845X8L0"/>
+      <property type="length" value="558"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I5NJA4_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. SIOISBB"/>
+      <property type="NCBI taxonomy" value="2607771"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0013C6A7E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I5NJA4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6I5NJA4"/>
+      <property type="UniProtKB accession" value="A0A6I5NJA4"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A077JE78_9CYAN">
+      <property type="source organism" value="cyanobacterium endosymbiont of Epithemia turgida isolate EtSB Lake Yunoko"/>
+      <property type="NCBI taxonomy" value="1228987"/>
+      <property type="protein name" value="Glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniParc ID" value="UPI0004D121C0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A077JE78"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A077JE78"/>
+      <property type="UniProtKB accession" value="A0A077JE78"/>
+      <property type="length" value="559"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187FD9C0">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00187FD9C0"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BAE7B1B">
+      <property type="source organism" value="unclassified Synechocystis"/>
+      <property type="NCBI taxonomy" value="2640012"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BAE7B1B"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018800EC2">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018800EC2"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187F0969">
+      <property type="source organism" value="Synechocystis sp. LEGE 06083"/>
+      <property type="NCBI taxonomy" value="915336"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018800EC2"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="length" value="408"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00168287AD">
+      <property type="source organism" value="Synechocystis sp. FACHB-383"/>
+      <property type="NCBI taxonomy" value="2692864"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00168287AD"/>
+      <property type="UniRef90 ID" value="UniRef90_P74257"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F556784">
+      <property type="source organism" value="Nodosilinea sp. FACHB-141"/>
+      <property type="NCBI taxonomy" value="2692833"/>
+      <property type="protein name" value="FAD-dependent oxidoreductase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6WHE6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7J8U8"/>
+      <property type="length" value="602"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001688C6F3">
+      <property type="source organism" value="Phormidium sp. FACHB-1136"/>
+      <property type="NCBI taxonomy" value="2692848"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001688C6F3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7T5JGL7"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D153D8A">
+      <property type="source organism" value="Nodosilinea sp. LEGE 06152"/>
+      <property type="NCBI taxonomy" value="2777966"/>
+      <property type="protein name" value="FAD-dependent oxidoreductase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J7JRX7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2P8VUW1"/>
+      <property type="length" value="579"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003FEAECC">
+      <property type="source organism" value="Synechococcus sp. NKBG15041c"/>
+      <property type="NCBI taxonomy" value="1407650"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003FEAECC"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q2U0V8"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000565AE3D">
+      <property type="source organism" value="Leptolyngbya sp. KIOST-1"/>
+      <property type="NCBI taxonomy" value="1229172"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000565AE3D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000565AE3D"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D1FAE23">
+      <property type="source organism" value="Cyanothece sp. BG0011"/>
+      <property type="NCBI taxonomy" value="2082950"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000D1FAE23"/>
+      <property type="UniRef90 ID" value="UniRef90_B1WSH2"/>
+      <property type="length" value="570"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003121E3F">
+      <property type="source organism" value="Acaryochloris marina"/>
+      <property type="NCBI taxonomy" value="155978"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_B0C2E9"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C2E9"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BAFE6DB">
+      <property type="source organism" value="Acaryochloris marina"/>
+      <property type="NCBI taxonomy" value="155978"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BAFE6DB"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C2E9"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002484A85">
+      <property type="source organism" value="Acaryochloris sp. CCMEE 5410"/>
+      <property type="NCBI taxonomy" value="310037"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002484A85"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C2E9"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C00B2EC">
+      <property type="source organism" value="Leptothoe kymatousa"/>
+      <property type="NCBI taxonomy" value="2651727"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C00B2EC"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001C00B2EC"/>
+      <property type="length" value="563"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D337416">
+      <property type="source organism" value="Waterburya agarophytonicola"/>
+      <property type="NCBI taxonomy" value="2886916"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D337416"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001D337416"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C028656">
+      <property type="source organism" value="Leptothoe spongobia"/>
+      <property type="NCBI taxonomy" value="2651728"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C028656"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6I5PFR4"/>
+      <property type="length" value="558"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000560C78D">
+      <property type="source organism" value="Myxosarcina sp. GI1"/>
+      <property type="NCBI taxonomy" value="1541065"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000560C78D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000560C78D"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CA63A2F">
+      <property type="source organism" value="Leptothermofonsia sichuanensis"/>
+      <property type="NCBI taxonomy" value="2917832"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CA63A2F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001CA63A2F"/>
+      <property type="length" value="558"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002EF882B">
+      <property type="source organism" value="Spirulina subsalsa"/>
+      <property type="NCBI taxonomy" value="54311"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002EF882B"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0002EF882B"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FE36311">
+      <property type="source organism" value="Sodalinema gerasimenkoae"/>
+      <property type="NCBI taxonomy" value="2862348"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FE36311"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0N8KPN5"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002090A253">
+      <property type="source organism" value="Phormidium yuhuli"/>
+      <property type="NCBI taxonomy" value="2974039"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002090A253"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0N8KPN5"/>
+      <property type="length" value="561"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000810479E">
+      <property type="source organism" value="Synechococcus sp. PCC 8807"/>
+      <property type="NCBI taxonomy" value="195248"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000810479E"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007457F8E">
+      <property type="source organism" value="Synechococcus sp. PCC 73109"/>
+      <property type="NCBI taxonomy" value="374982"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007457F8E"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004AABFFF">
+      <property type="source organism" value="Synechococcus sp. NKBG042902"/>
+      <property type="NCBI taxonomy" value="490193"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004AABFFF"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C06E565">
+      <property type="source organism" value="Synechococcus sp. BDU 130192"/>
+      <property type="NCBI taxonomy" value="2042059"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000C06E565"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XNB0"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001880E098">
+      <property type="source organism" value="unclassified Coleofasciculus"/>
+      <property type="NCBI taxonomy" value="2692782"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001880E098"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001880E098"/>
+      <property type="length" value="563"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00034C3D98">
+      <property type="source organism" value="Pleurocapsa sp. PCC 7319"/>
+      <property type="NCBI taxonomy" value="118161"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00034C3D98"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00034C3D98"/>
+      <property type="length" value="553"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0019516D32">
+      <property type="source organism" value="Leptolyngbya sp. CCY15150"/>
+      <property type="NCBI taxonomy" value="2767772"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0019516D32"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A651EQT5"/>
+      <property type="length" value="570"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00194E12A6">
+      <property type="source organism" value="Halomicronema sp. CCY15110"/>
+      <property type="NCBI taxonomy" value="2767773"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00194E12A6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0C1YB63"/>
+      <property type="length" value="564"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018823811">
+      <property type="source organism" value="Leptolyngbya ectocarpi"/>
+      <property type="NCBI taxonomy" value="1202"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018823811"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018823811"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000EFB5945">
+      <property type="source organism" value="Leptolyngbya sp. BC1307"/>
+      <property type="NCBI taxonomy" value="2029589"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000EFB5945"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000EFB5945"/>
+      <property type="length" value="579"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001682DBA9">
+      <property type="source organism" value="Cyanobacteria"/>
+      <property type="NCBI taxonomy" value="1117"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001682DBA9"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001682DBA9"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FCC4A94">
+      <property type="source organism" value="Thermostichus vulcanus"/>
+      <property type="NCBI taxonomy" value="32053"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FCC4A94"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001F43A00A"/>
+      <property type="length" value="535"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F43A00A">
+      <property type="source organism" value="Synechococcus sp. Nb3U1"/>
+      <property type="NCBI taxonomy" value="1914529"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F43A00A"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001F43A00A"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00047D3141">
+      <property type="source organism" value="Fischerella sp. PCC 9605"/>
+      <property type="NCBI taxonomy" value="1173024"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00047D3141"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00047D3141"/>
+      <property type="length" value="556"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0009336FF7">
+      <property type="source organism" value="Spirulina major"/>
+      <property type="NCBI taxonomy" value="270636"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0009336FF7"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0009336FF7"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018818957">
+      <property type="source organism" value="cf. Phormidesmis sp. LEGE 11477"/>
+      <property type="NCBI taxonomy" value="1828680"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018818957"/>
+      <property type="UniRef90 ID" value="UniRef90_B4WIW4"/>
+      <property type="length" value="586"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00067FD401">
+      <property type="source organism" value="Synechococcus sp. PCC 7335"/>
+      <property type="NCBI taxonomy" value="91464"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00067FD401"/>
+      <property type="UniRef90 ID" value="UniRef90_B4WIW4"/>
+      <property type="length" value="578"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00146DB074">
+      <property type="source organism" value="Nodosilinea sp. P-1105"/>
+      <property type="NCBI taxonomy" value="2546229"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00146DB074"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6H2NQY3"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0008F9C62D">
+      <property type="source organism" value="Geitlerinema sp. PCC 9228"/>
+      <property type="NCBI taxonomy" value="111611"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0008F9C62D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0008F9C62D"/>
+      <property type="length" value="569"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FE00DB1">
+      <property type="source organism" value="Baaleninema simplex"/>
+      <property type="NCBI taxonomy" value="2862350"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FE00DB1"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001FE00DB1"/>
+      <property type="length" value="567"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001408B9F5">
+      <property type="source organism" value="Lyngbya confervoides"/>
+      <property type="NCBI taxonomy" value="207921"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001408B9F5"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001408B9F5"/>
+      <property type="length" value="578"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E51DDAD">
+      <property type="source organism" value="Pleurocapsa sp. CCALA 161"/>
+      <property type="NCBI taxonomy" value="2107688"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E51DDAD"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2T1CWG7"/>
+      <property type="length" value="575"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002E333B3">
+      <property type="source organism" value="Nodosilinea nodulosa"/>
+      <property type="NCBI taxonomy" value="416001"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002E333B3"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0002E333B3"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002ACFF5A">
+      <property type="source organism" value="Leptolyngbya sp. PCC 6406"/>
+      <property type="NCBI taxonomy" value="1173264"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002ACFF5A"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0002ACFF5A"/>
+      <property type="length" value="569"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003481ACE">
+      <property type="source organism" value="Synechococcus sp. PCC 7336"/>
+      <property type="NCBI taxonomy" value="195250"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase/oxidase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003481ACE"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0003481ACE"/>
+      <property type="length" value="567"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0016864D21">
+      <property type="source organism" value="Cyanobacteria"/>
+      <property type="NCBI taxonomy" value="1117"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0016864D21"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8K2A0R0"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005C64BD5">
+      <property type="source organism" value="cyanobacterium endosymbiont of Epithemia turgida"/>
+      <property type="NCBI taxonomy" value="718217"/>
+      <property type="protein name" value="glycerol-3-phosphate dehydrogenase"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A077JE78"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A077JE78"/>
+      <property type="length" value="557"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

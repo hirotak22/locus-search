@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_Q61937" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Nucleophosmin</name>
+  <property type="member count" value="206"/>
+  <property type="common taxon" value="cellular organisms"/>
+  <property type="common taxon ID" value="131567"/>
+  <property type="GO Molecular Function" value="GO:0005488"/>
+  <property type="GO Cellular Component" value="GO:0110165"/>
+  <property type="GO Biological Process" value="GO:0050794"/>
+  <property type="GO Biological Process" value="GO:0016043"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="NPM_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0000003F61"/>
+      <property type="UniRef100 ID" value="UniRef100_Q61937"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+    <sequence length="292" checksum="E68750C549ED25E6">MEDSMDMDMSPLRPQNYLFGCELKADKDYHFKVDNDENEHQLSLRTVSLGAGAKDELHIVEAEAMNYEGSPIKVTLATLKMSVQPTVSLGGFEITPPVVLRLKCGSGPVHISGQHLVAVEEDAESEDEDEEDVKLLGMSGKRSAPGGGNKVPQKKVKLDEDDEDDDEDDEDDEDDDDDDFDEEETEEKVPVKKSVRDTPAKNAQKSNQNGKDLKPSTPRSKGQESFKKQEKTPKTPKGPSSVEDIKAKMQASIEKGGSLPKVEAKFINYVKNCFRMTDQEAIQDLWQWRKSL</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="NPM_RAT">
+      <property type="source organism" value="Rattus norvegicus (Rat)"/>
+      <property type="NCBI taxonomy" value="10116"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00001303EE"/>
+      <property type="UniRef100 ID" value="UniRef100_P13084"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="P13084"/>
+      <property type="UniProtKB accession" value="Q63698"/>
+      <property type="UniProtKB accession" value="Q64269"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q5SQB7_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0000003F61"/>
+      <property type="UniRef100 ID" value="UniRef100_Q61937"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="Q5SQB7"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6HVT5_MUSSI">
+      <property type="source organism" value="Mus spicilegus (Steppe mouse)"/>
+      <property type="NCBI taxonomy" value="10103"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0000003F61"/>
+      <property type="UniRef100 ID" value="UniRef100_Q61937"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C6HVT5"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P5QKL1_MUSCR">
+      <property type="source organism" value="Mus caroli (Ryukyu mouse) (Ricefield mouse)"/>
+      <property type="NCBI taxonomy" value="10089"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0000003F61"/>
+      <property type="UniRef100 ID" value="UniRef100_Q61937"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6P5QKL1"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q8BSZ3_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Nucleoplasmin domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI00000EAC26"/>
+      <property type="UniRef100 ID" value="UniRef100_Q61937"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="Q8BSZ3"/>
+      <property type="length" value="226"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B8WZC5_BALMU">
+      <property type="source organism" value="Balaenoptera musculus (Blue whale)"/>
+      <property type="NCBI taxonomy" value="9771"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0018750182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B8WZC5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8B8WZC5"/>
+      <property type="length" value="302"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A384BFY0_BALAS">
+      <property type="source organism" value="Balaenoptera acutorostrata scammoni (North Pacific minke whale)(Balaenoptera davidsoni)"/>
+      <property type="NCBI taxonomy" value="310752"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00101A8B93"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A384BFY0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A384BFY0"/>
+      <property type="length" value="302"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5QX74_CEBIM">
+      <property type="source organism" value="Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinusimitator)"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000C73A496"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5QX74"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2K5QX74"/>
+      <property type="length" value="300"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H0XRN3_OTOGA">
+      <property type="source organism" value="Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)"/>
+      <property type="NCBI taxonomy" value="30611"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002381F34"/>
+      <property type="UniRef100 ID" value="UniRef100_H0XRN3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="H0XRN3"/>
+      <property type="length" value="297"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F7FL37_CALJA">
+      <property type="source organism" value="Callithrix jacchus (White-tufted-ear marmoset)"/>
+      <property type="NCBI taxonomy" value="9483"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0001CA5417"/>
+      <property type="UniRef100 ID" value="UniRef100_F7FL37"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="F7FL37"/>
+      <property type="length" value="296"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C5Z6E2_MARMA">
+      <property type="source organism" value="Marmota marmota marmota (Alpine marmot)"/>
+      <property type="NCBI taxonomy" value="9994"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00108D1261"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C5Z6E2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C5Z6E2"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9A3T1_PROSS">
+      <property type="source organism" value="Prolemur simus (Greater bamboo lemur) (Hapalemur simus)"/>
+      <property type="NCBI taxonomy" value="1328070"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00108F7DB1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C9A3T1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C9A3T1"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H0X9G5_OTOGA">
+      <property type="source organism" value="Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)"/>
+      <property type="NCBI taxonomy" value="30611"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002381F35"/>
+      <property type="UniRef100 ID" value="UniRef100_H0X9G5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="H0X9G5"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3GDU9_SAPAP">
+      <property type="source organism" value="Sapajus apella (Brown-capped capuchin) (Cebus apella)"/>
+      <property type="NCBI taxonomy" value="9515"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00080A3CDD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J3GDU9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6J3GDU9"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9BIW2_PHOSS">
+      <property type="source organism" value="Phocoena sinus (Vaquita)"/>
+      <property type="NCBI taxonomy" value="42100"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0013C4BA80"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C9BIW2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C9BIW2"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L5L282_PTEAL">
+      <property type="source organism" value="Pteropus alecto (Black flying fox)"/>
+      <property type="NCBI taxonomy" value="9402"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002A90550"/>
+      <property type="UniRef100 ID" value="UniRef100_L5L282"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="L5L282"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P3QRM2_PTEVA">
+      <property type="source organism" value="Pteropus vampyrus (Large flying fox)"/>
+      <property type="NCBI taxonomy" value="132908"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002A90550"/>
+      <property type="UniRef100 ID" value="UniRef100_L5L282"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6P3QRM2"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L5LTV4_MYODS">
+      <property type="source organism" value="Myotis davidii (David's myotis)"/>
+      <property type="NCBI taxonomy" value="225400"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002A95E93"/>
+      <property type="UniRef100 ID" value="UniRef100_L5LTV4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="L5LTV4"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7F8QAK7_LEPWE">
+      <property type="source organism" value="Leptonychotes weddellii (Weddell seal) (Otaria weddellii)"/>
+      <property type="NCBI taxonomy" value="9713"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00123E5801"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7F8QAK7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A7F8QAK7"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="M3X673_FELCA">
+      <property type="source organism" value="Felis catus (Cat) (Felis silvestris catus)"/>
+      <property type="NCBI taxonomy" value="9685"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="M3X673"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9ZM37_ACIJB">
+      <property type="source organism" value="Acinonyx jubatus (Cheetah)"/>
+      <property type="NCBI taxonomy" value="32536"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6I9ZM37"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9D648_PANLE">
+      <property type="source organism" value="Panthera leo (Lion)"/>
+      <property type="NCBI taxonomy" value="9689"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C9D648"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A667G066_LYNCA">
+      <property type="source organism" value="Lynx canadensis (Canada lynx)"/>
+      <property type="NCBI taxonomy" value="61383"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A667G066"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P4W5E5_PANPR">
+      <property type="source organism" value="Panthera pardus (Leopard) (Felis pardus)"/>
+      <property type="NCBI taxonomy" value="9691"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6P4W5E5"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A485MDA0_LYNPA">
+      <property type="source organism" value="Lynx pardinus (Iberian lynx) (Felis pardina)"/>
+      <property type="NCBI taxonomy" value="191816"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A485MDA0"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9L3D1_PANTA">
+      <property type="source organism" value="Panthera tigris altaica (Siberian tiger)"/>
+      <property type="NCBI taxonomy" value="74533"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298F48F"/>
+      <property type="UniRef100 ID" value="UniRef100_M3X673"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C9L3D1"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6B1C9_MONMO">
+      <property type="source organism" value="Monodon monoceros (Narwhal) (Ceratodon monodon)"/>
+      <property type="NCBI taxonomy" value="40151"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002BCE036"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6B1C9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C6B1C9"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9FWX8_PHYMC">
+      <property type="source organism" value="Physeter macrocephalus (Sperm whale) (Physeter catodon)"/>
+      <property type="NCBI taxonomy" value="9755"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002BCE036"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6B1C9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2Y9FWX8"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3R3T4_TURTR">
+      <property type="source organism" value="Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)"/>
+      <property type="NCBI taxonomy" value="9739"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002BCE036"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6B1C9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6J3R3T4"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A341C498_NEOAA">
+      <property type="source organism" value="Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise)(Neophocaena phocaenoides subsp. asiaeorientalis)"/>
+      <property type="NCBI taxonomy" value="1706337"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002BCE036"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6B1C9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A341C498"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9Q5X0_DELLE">
+      <property type="source organism" value="Delphinapterus leucas (Beluga whale)"/>
+      <property type="NCBI taxonomy" value="9749"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002BCE036"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6B1C9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2Y9Q5X0"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A673U5P4_SURSU">
+      <property type="source organism" value="Suricata suricatta (Meerkat)"/>
+      <property type="NCBI taxonomy" value="37032"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0011555A94"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A673U5P4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A673U5P4"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9IHT2_DESRO">
+      <property type="source organism" value="Desmodus rotundus (Vampire bat)"/>
+      <property type="NCBI taxonomy" value="9430"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002A53EC1"/>
+      <property type="UniRef100 ID" value="UniRef100_K9IHT2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="K9IHT2"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452C911_BALAS">
+      <property type="source organism" value="Balaenoptera acutorostrata scammoni (North Pacific minke whale)(Balaenoptera davidsoni)"/>
+      <property type="NCBI taxonomy" value="310752"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00101A73C3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452C911"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A452C911"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="S7Q503_MYOBR">
+      <property type="source organism" value="Myotis brandtii (Brandt's bat)"/>
+      <property type="NCBI taxonomy" value="109478"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00035B4FFA"/>
+      <property type="UniRef100 ID" value="UniRef100_S7Q503"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="S7Q503"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8U0T8N5_MUSPF">
+      <property type="source organism" value="Mustela putorius furo (European domestic ferret) (Mustela furo)"/>
+      <property type="NCBI taxonomy" value="9669"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000653417D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8U0T8N5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8U0T8N5"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G1LB84_AILME">
+      <property type="source organism" value="Ailuropoda melanoleuca (Giant panda)"/>
+      <property type="NCBI taxonomy" value="9646"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002C54959"/>
+      <property type="UniRef100 ID" value="UniRef100_G1LB84"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="G1LB84"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9IL07_ENHLU">
+      <property type="source organism" value="Enhydra lutris kenyoni"/>
+      <property type="NCBI taxonomy" value="391180"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002C54959"/>
+      <property type="UniRef100 ID" value="UniRef100_G1LB84"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2Y9IL07"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U3VC01_ODORO">
+      <property type="source organism" value="Odobenus rosmarus divergens (Pacific walrus)"/>
+      <property type="NCBI taxonomy" value="9708"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002C54959"/>
+      <property type="UniRef100 ID" value="UniRef100_G1LB84"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2U3VC01"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P9FIZ3_ZALCA">
+      <property type="source organism" value="Zalophus californianus (California sealion)"/>
+      <property type="NCBI taxonomy" value="9704"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002C54959"/>
+      <property type="UniRef100 ID" value="UniRef100_G1LB84"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6P9FIZ3"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7NX74_CALUR">
+      <property type="source organism" value="Callorhinus ursinus (Northern fur seal)"/>
+      <property type="NCBI taxonomy" value="34884"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002C54959"/>
+      <property type="UniRef100 ID" value="UniRef100_G1LB84"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A3Q7NX74"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P9F674_ZALCA">
+      <property type="source organism" value="Zalophus californianus (California sealion)"/>
+      <property type="NCBI taxonomy" value="9704"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0015F1BEE9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P9F674"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6P9F674"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I3MEU8_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00005A07E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I3MEU8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8I3MEU8"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0PRY9_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00005A07E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I3MEU8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C0PRY9"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7TNW6_VULVU">
+      <property type="source organism" value="Vulpes vulpes (Red fox)"/>
+      <property type="NCBI taxonomy" value="9627"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00005A07E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I3MEU8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A3Q7TNW6"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3RNM9_TURTR">
+      <property type="source organism" value="Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)"/>
+      <property type="NCBI taxonomy" value="9739"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001457C14C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J3RNM9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6J3RNM9"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6UT13_SAIBB">
+      <property type="source organism" value="Saimiri boliviensis boliviensis (Bolivian squirrel monkey)"/>
+      <property type="NCBI taxonomy" value="39432"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00027FA3C0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6UT13"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2K6UT13"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C7AS75_NEOVI">
+      <property type="source organism" value="Neovison vison (American mink) (Mustela vison)"/>
+      <property type="NCBI taxonomy" value="452646"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0010855FDF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C7AS75"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C7AS75"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I3NQX9_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0015F1494F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I3NQX9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8I3NQX9"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0TJ52_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00004A5C9C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0TJ52"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C0TJ52"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J7XIP7_MYOMY">
+      <property type="source organism" value="Myotis myotis (Greater mouse-eared bat)"/>
+      <property type="NCBI taxonomy" value="51298"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00174B2CD8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J7XIP7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A7J7XIP7"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U3XVN1_LEPWE">
+      <property type="source organism" value="Leptonychotes weddellii (Weddell seal) (Otaria weddellii)"/>
+      <property type="NCBI taxonomy" value="9713"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0003EE1AAD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2U3XVN1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2U3XVN1"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B8WZF2_BALMU">
+      <property type="source organism" value="Balaenoptera musculus (Blue whale)"/>
+      <property type="NCBI taxonomy" value="9771"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001876A7A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B8WZF2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8B8WZF2"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7WNS8_URSAR">
+      <property type="source organism" value="Ursus arctos horribilis"/>
+      <property type="NCBI taxonomy" value="116960"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000E6DAFED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q7WNS8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A3Q7WNS8"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6D627_MACNE">
+      <property type="source organism" value="Macaca nemestrina (Pig-tailed macaque)"/>
+      <property type="NCBI taxonomy" value="9545"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0005F4545F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6D627"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2K6D627"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A384C6X7_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000FC6FA14"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A384C6X7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A384C6X7"/>
+      <property type="UniProtKB accession" value="A0A452VKP3"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9ICZ3_9PRIM">
+      <property type="source organism" value="Piliocolobus tephrosceles (Ugandan red Colobus)"/>
+      <property type="NCBI taxonomy" value="591936"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000C2A5360"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C9ICZ3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C9ICZ3"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5RZT9_CEBIM">
+      <property type="source organism" value="Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinusimitator)"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00080A0006"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5RZT9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2K5RZT9"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3GE28_SAPAP">
+      <property type="source organism" value="Sapajus apella (Brown-capped capuchin) (Cebus apella)"/>
+      <property type="NCBI taxonomy" value="9515"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00080A0006"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5RZT9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6J3GE28"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B6YTB0_CAMFR">
+      <property type="source organism" value="Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus)"/>
+      <property type="NCBI taxonomy" value="419612"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0003C8743D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B6YTB0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8B6YTB0"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5N4CL60_CAMDR">
+      <property type="source organism" value="Camelus dromedarius (Dromedary) (Arabian camel)"/>
+      <property type="NCBI taxonomy" value="9838"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0003C8743D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B6YTB0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A5N4CL60"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6RDB5_NANGA">
+      <property type="source organism" value="Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalaxgalili)"/>
+      <property type="NCBI taxonomy" value="1026970"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0004ED3463"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6RDB5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C6RDB5"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A250YEY2_CASCN">
+      <property type="source organism" value="Castor canadensis (American beaver)"/>
+      <property type="NCBI taxonomy" value="51338"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0009824038"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A250YEY2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A250YEY2"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9I0L5_VICPA">
+      <property type="source organism" value="Vicugna pacos (Alpaca) (Lama pacos)"/>
+      <property type="NCBI taxonomy" value="30538"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0003C85271"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I9I0L5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6I9I0L5"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A811YEV8_NYCPR">
+      <property type="source organism" value="Nyctereutes procyonoides (Raccoon dog) (Canis procyonoides)"/>
+      <property type="NCBI taxonomy" value="34880"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001A4F1299"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A811YEV8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A811YEV8"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F7DC82_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001236DE4C"/>
+      <property type="UniRef100 ID" value="UniRef100_F7DC82"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="F7DC82"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2LDB4_CRIGR">
+      <property type="source organism" value="Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000F33A652"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2LDB4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C2LDB4"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7QPR4_MESAU">
+      <property type="source organism" value="Mesocricetus auratus (Golden hamster)"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0003599850"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1U7QPR4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A1U7QPR4"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q5U438_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0000455F6B"/>
+      <property type="UniRef100 ID" value="UniRef100_Q5U438"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="Q5U438"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q3U536_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00005ACD2A"/>
+      <property type="UniRef100 ID" value="UniRef100_Q3U536"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="Q3U536"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8L2Q2H9_RAT">
+      <property type="source organism" value="Rattus norvegicus (Rat)"/>
+      <property type="NCBI taxonomy" value="10116"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001E23FFED"/>
+      <property type="UniRef100 ID" value="UniRef100_P13084"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8L2Q2H9"/>
+      <property type="length" value="351"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A851V229_9PASS">
+      <property type="source organism" value="Elachura formosa (spotted wren-babbler)"/>
+      <property type="NCBI taxonomy" value="1463973"/>
+      <property type="protein name" value="NPM protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI001A0D1673"/>
+      <property type="UniRef100 ID" value="UniRef100_P13084"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A851V229"/>
+      <property type="length" value="148"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9L821_PERMB">
+      <property type="source organism" value="Peromyscus maniculatus bairdii (Prairie deer mouse)"/>
+      <property type="NCBI taxonomy" value="230844"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00042AAB4C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I9L821"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6I9L821"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C5Z8Y2_MARMA">
+      <property type="source organism" value="Marmota marmota marmota (Alpine marmot)"/>
+      <property type="NCBI taxonomy" value="9994"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0010867B4D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C5Z8Y2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C5Z8Y2"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2IHY9_UROPR">
+      <property type="source organism" value="Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii)"/>
+      <property type="NCBI taxonomy" value="9999"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0010867B4D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C5Z8Y2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8D2IHY9"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452EBV7_CAPHI">
+      <property type="source organism" value="Capra hircus (Goat)"/>
+      <property type="NCBI taxonomy" value="9925"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0008467619"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452EBV7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A452EBV7"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3SAT3_TURTR">
+      <property type="source organism" value="Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)"/>
+      <property type="NCBI taxonomy" value="9739"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001457ADFB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J3SAT3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6J3SAT3"/>
+      <property type="length" value="290"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A833YZV7_9CHIR">
+      <property type="source organism" value="Phyllostomus discolor (pale spear-nosed bat)"/>
+      <property type="NCBI taxonomy" value="89673"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00183DA325"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A833YZV7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A833YZV7"/>
+      <property type="length" value="289"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9CMP9_PHOSS">
+      <property type="source organism" value="Phocoena sinus (Vaquita)"/>
+      <property type="NCBI taxonomy" value="42100"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0018BBE81E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C9CMP9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C9CMP9"/>
+      <property type="length" value="289"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H9FUY7_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002575838"/>
+      <property type="UniRef100 ID" value="UniRef100_H9FUY7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="H9FUY7"/>
+      <property type="length" value="287"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H9FUY6_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002575837"/>
+      <property type="UniRef100 ID" value="UniRef100_H9FUY6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="H9FUY6"/>
+      <property type="length" value="287"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8X7E6_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000CC71610"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2J8X7E6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2J8X7E6"/>
+      <property type="length" value="287"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="E5RGW4_HUMAN">
+      <property type="source organism" value="Homo sapiens (Human)"/>
+      <property type="NCBI taxonomy" value="9606"/>
+      <property type="protein name" value="Nucleophosmin (Fragment)"/>
+      <property type="UniParc ID" value="UPI0001E8F1BC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2J8X7E6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="E5RGW4"/>
+      <property type="length" value="59"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6H123_MUSSI">
+      <property type="source organism" value="Mus spicilegus (Steppe mouse)"/>
+      <property type="NCBI taxonomy" value="10103"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0010895413"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6H123"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A8C6H123"/>
+      <property type="length" value="287"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5PQJ2_CEBIM">
+      <property type="source organism" value="Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinusimitator)"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000C7277C8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5PQJ2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2K5PQJ2"/>
+      <property type="length" value="285"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A485N4Q0_LYNPA">
+      <property type="source organism" value="Lynx pardinus (Iberian lynx) (Felis pardina)"/>
+      <property type="NCBI taxonomy" value="191816"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0010B6073E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A485N4Q0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A485N4Q0"/>
+      <property type="length" value="284"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5RI56_CEBIM">
+      <property type="source organism" value="Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinusimitator)"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000C72E03D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5RI56"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A2K5RI56"/>
+      <property type="length" value="284"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6G1AX96_CROCR">
+      <property type="source organism" value="Crocuta crocuta (Spotted hyena)"/>
+      <property type="NCBI taxonomy" value="9678"/>
+      <property type="protein name" value="Nucleophosmin (Fragment)"/>
+      <property type="UniParc ID" value="UPI001411AA05"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6G1AX96"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="UniProtKB accession" value="A0A6G1AX96"/>
+      <property type="length" value="283"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A671EY49_RHIFE">
+      <property type="source organism" value="Rhinolophus ferrumequinum (Greater horseshoe bat)"/>
+      <property type="NCBI taxonomy" value="59479"/>
+      <property type="protein name" value="Nucleoplasmin domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00133897D2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A671EY49"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A671EY49"/>
+      <property type="UniProtKB accession" value="A0A671EY49"/>
+      <property type="length" value="255"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="U3C281_CALJA">
+      <property type="source organism" value="Callithrix jacchus (White-tufted-ear marmoset)"/>
+      <property type="NCBI taxonomy" value="9483"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0003B25617"/>
+      <property type="UniRef100 ID" value="UniRef100_U3C281"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="U3C281"/>
+      <property type="length" value="284"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J7XBP7_PIPKU">
+      <property type="source organism" value="Pipistrellus kuhlii (Kuhl's pipistrelle)"/>
+      <property type="NCBI taxonomy" value="59472"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0017AB1E75"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J7XBP7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="A0A7J7XBP7"/>
+      <property type="length" value="338"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J7XBL6_PIPKU">
+      <property type="source organism" value="Pipistrellus kuhlii (Kuhl's pipistrelle)"/>
+      <property type="NCBI taxonomy" value="59472"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00174EE074"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J7XBP7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="A0A7J7XBL6"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J7XBN5_PIPKU">
+      <property type="source organism" value="Pipistrellus kuhlii (Kuhl's pipistrelle)"/>
+      <property type="NCBI taxonomy" value="59472"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0017A673F9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J7XBP7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="A0A7J7XBN5"/>
+      <property type="length" value="227"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C5YAS8_MICMU">
+      <property type="source organism" value="Microcebus murinus (Gray mouse lemur) (Lemur murinus)"/>
+      <property type="NCBI taxonomy" value="30608"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0006428A9E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C5YAS8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="A0A8C5YAS8"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G1P5C3_MYOLU">
+      <property type="source organism" value="Myotis lucifugus (Little brown bat)"/>
+      <property type="NCBI taxonomy" value="59463"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000216D285"/>
+      <property type="UniRef100 ID" value="UniRef100_G1P5C3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="G1P5C3"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5F572_AOTNA">
+      <property type="source organism" value="Aotus nancymaae (Ma's night monkey)"/>
+      <property type="NCBI taxonomy" value="37293"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000C734DFF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5F572"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="UniProtKB accession" value="A0A2K5F572"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0TL79_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0013358B4C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0TL79"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="UniProtKB accession" value="A0A8C0TL79"/>
+      <property type="length" value="320"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I3PA33_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000FC923A3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I3PA33"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="UniProtKB accession" value="A0A8I3PA33"/>
+      <property type="length" value="274"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0LH70_CANLU">
+      <property type="source organism" value="Canis lupus dingo (dingo)"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000FC923A3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I3PA33"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="UniProtKB accession" value="A0A8C0LH70"/>
+      <property type="length" value="274"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0NDT2_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0013477068"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0NDT2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="UniProtKB accession" value="A0A8C0NDT2"/>
+      <property type="length" value="259"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8P0N9R8_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001E6A2BC6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8P0N9R8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="UniProtKB accession" value="A0A8P0N9R8"/>
+      <property type="length" value="258"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B7NZF9_RABIT">
+      <property type="source organism" value="Oryctolagus cuniculus (Rabbit)"/>
+      <property type="NCBI taxonomy" value="9986"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI00018EDB48"/>
+      <property type="UniRef100 ID" value="UniRef100_B7NZF9"/>
+      <property type="UniRef90 ID" value="UniRef90_B7NZF9"/>
+      <property type="UniProtKB accession" value="B7NZF9"/>
+      <property type="UniProtKB accession" value="G1TXI1"/>
+      <property type="length" value="313"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2I3N8W9_PAPAN">
+      <property type="source organism" value="Papio anubis (Olive baboon)"/>
+      <property type="NCBI taxonomy" value="9555"/>
+      <property type="protein name" value="Nucleoplasmin domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001E240745"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I3N8W9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I3N8W9"/>
+      <property type="UniProtKB accession" value="A0A2I3N8W9"/>
+      <property type="length" value="312"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8M1MPU0_NEOSC">
+      <property type="source organism" value="Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi)"/>
+      <property type="NCBI taxonomy" value="29088"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001D11219B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8M1MPU0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A8M1MPU0"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="M3YN53_MUSPF">
+      <property type="source organism" value="Mustela putorius furo (European domestic ferret) (Mustela furo)"/>
+      <property type="NCBI taxonomy" value="9669"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI0002934118"/>
+      <property type="UniRef100 ID" value="UniRef100_M3YN53"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="M3YN53"/>
+      <property type="length" value="317"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9HX77_NEOSC">
+      <property type="source organism" value="Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi)"/>
+      <property type="NCBI taxonomy" value="29088"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000B513E22"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2Y9HX77"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A2Y9HX77"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C7AME3_NEOVI">
+      <property type="source organism" value="Neovison vison (American mink) (Mustela vison)"/>
+      <property type="NCBI taxonomy" value="452646"/>
+      <property type="protein name" value="Nucleoplasmin domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001088D293"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C7AME3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A8C7AME3"/>
+      <property type="length" value="273"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A673UE97_SURSU">
+      <property type="source organism" value="Suricata suricatta (Meerkat)"/>
+      <property type="NCBI taxonomy" value="37032"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI001338E2A8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A673UE97"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A673UE97"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="D2HKP0_AILME">
+      <property type="source organism" value="Ailuropoda melanoleuca (Giant panda)"/>
+      <property type="NCBI taxonomy" value="9646"/>
+      <property type="protein name" value="Nucleophosmin (Fragment)"/>
+      <property type="UniParc ID" value="UPI0001C0F1E8"/>
+      <property type="UniRef100 ID" value="UniRef100_D2HKP0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="D2HKP0"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2I2V1F6_FELCA">
+      <property type="source organism" value="Felis catus (Cat) (Felis silvestris catus)"/>
+      <property type="NCBI taxonomy" value="9685"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A2I2V1F6"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8XH66_PANLE">
+      <property type="source organism" value="Panthera leo (Lion)"/>
+      <property type="NCBI taxonomy" value="9689"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A8C8XH66"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9IPU4_ENHLU">
+      <property type="source organism" value="Enhydra lutris kenyoni"/>
+      <property type="NCBI taxonomy" value="391180"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A2Y9IPU4"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7N5JB04_AILME">
+      <property type="source organism" value="Ailuropoda melanoleuca (Giant panda)"/>
+      <property type="NCBI taxonomy" value="9646"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A7N5JB04"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A667FN27_LYNCA">
+      <property type="source organism" value="Lynx canadensis (Canada lynx)"/>
+      <property type="NCBI taxonomy" value="61383"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A667FN27"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U3VBZ8_ODORO">
+      <property type="source organism" value="Odobenus rosmarus divergens (Pacific walrus)"/>
+      <property type="NCBI taxonomy" value="9708"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A2U3VBZ8"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9KM56_PANTA">
+      <property type="source organism" value="Panthera tigris altaica (Siberian tiger)"/>
+      <property type="NCBI taxonomy" value="74533"/>
+      <property type="protein name" value="Nucleophosmin"/>
+      <property type="UniParc ID" value="UPI000298CB58"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2V1F6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A8C9KM56"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9HQF5_NEOSC">
+      <property type="source organism" value="Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi)"/>
+      <property type="NCBI taxonomy" value="29088"/>
+      <property type="protein name" value="nucleophosmin isoform X3"/>
+      <property type="UniParc ID" value="UPI000B511BE4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2Y9HQF5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="UniProtKB accession" value="A0A2Y9HQF5"/>
+      <property type="length" value="259"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002112EFBB">
+      <property type="source organism" value="Vibrio parahaemolyticus"/>
+      <property type="NCBI taxonomy" value="670"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_Q61937"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="89"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00202242EB">
+      <property type="source organism" value="Myodes glareolus"/>
+      <property type="NCBI taxonomy" value="447135"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00202242EB"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="306"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020C2CF0E">
+      <property type="source organism" value="Canis lupus dingo"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020C2CF0E"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="300"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00193CC027">
+      <property type="source organism" value="Saimiri boliviensis boliviensis"/>
+      <property type="NCBI taxonomy" value="39432"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00193CC027"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="296"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00159DBA3E">
+      <property type="source organism" value="Callithrix jacchus"/>
+      <property type="NCBI taxonomy" value="9483"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00159DBA3E"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="296"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00159EB79D">
+      <property type="source organism" value="Callithrix jacchus"/>
+      <property type="NCBI taxonomy" value="9483"/>
+      <property type="protein name" value="nucleophosmin isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_F7FL37"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="232"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018B0F41C">
+      <property type="source organism" value="Chlorocebus sabaeus"/>
+      <property type="NCBI taxonomy" value="60711"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018B0F41C"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00063F21E6">
+      <property type="source organism" value="Propithecus coquereli"/>
+      <property type="NCBI taxonomy" value="379532"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00063F21E6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CC2D11F">
+      <property type="source organism" value="Cervus elaphus"/>
+      <property type="NCBI taxonomy" value="9860"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CC2D11F"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0008139BC5">
+      <property type="source organism" value="Manis javanica"/>
+      <property type="NCBI taxonomy" value="9974"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0008139BC5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002153904E">
+      <property type="source organism" value="Microtus fortis"/>
+      <property type="NCBI taxonomy" value="100897"/>
+      <property type="protein name" value="nucleophosmin-like isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002153904E"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187963C4">
+      <property type="source organism" value="Sturnira hondurensis"/>
+      <property type="NCBI taxonomy" value="192404"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00187963C4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000950D31C">
+      <property type="source organism" value="Orcinus orca"/>
+      <property type="NCBI taxonomy" value="9733"/>
+      <property type="protein name" value="nucleophosmin isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6B1C9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000812D377">
+      <property type="source organism" value="Manis javanica"/>
+      <property type="NCBI taxonomy" value="9974"/>
+      <property type="protein name" value="nucleophosmin isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000812D377"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C6F93FD">
+      <property type="source organism" value="Panthera tigris"/>
+      <property type="NCBI taxonomy" value="9694"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C6F93FD"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00192116EB">
+      <property type="source organism" value="Hyaena hyaena"/>
+      <property type="NCBI taxonomy" value="95912"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00192116EB"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E6995E3">
+      <property type="source organism" value="Meles meles"/>
+      <property type="NCBI taxonomy" value="9662"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E6995E3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000DC1B0D7">
+      <property type="source organism" value="Theropithecus gelada"/>
+      <property type="NCBI taxonomy" value="9565"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000DC1B0D7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD2CFB6">
+      <property type="source organism" value="Lutra lutra"/>
+      <property type="NCBI taxonomy" value="9657"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD2CFB6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D181924">
+      <property type="source organism" value="Desmodus rotundus"/>
+      <property type="NCBI taxonomy" value="9430"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000D181924"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021BC6115">
+      <property type="source organism" value="Macaca thibetana thibetana"/>
+      <property type="NCBI taxonomy" value="257877"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021BC6115"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013C4725D">
+      <property type="source organism" value="Lynx canadensis"/>
+      <property type="NCBI taxonomy" value="61383"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013C4725D"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B3490B3">
+      <property type="source organism" value="Ochotona curzoniae"/>
+      <property type="NCBI taxonomy" value="130825"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B3490B3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013C4E097">
+      <property type="source organism" value="Phocoena sinus"/>
+      <property type="NCBI taxonomy" value="42100"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013C4E097"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00144261F0">
+      <property type="source organism" value="Orcinus orca"/>
+      <property type="NCBI taxonomy" value="9733"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00144261F0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003C467C6">
+      <property type="source organism" value="Myotis lucifugus"/>
+      <property type="NCBI taxonomy" value="59463"/>
+      <property type="protein name" value="nucleophosmin isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003C467C6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001899AC5A">
+      <property type="source organism" value="Cebus imitator"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="nucleophosmin isoform X5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5RZT9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007A70016">
+      <property type="source organism" value="Miniopterus natalensis"/>
+      <property type="NCBI taxonomy" value="291302"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007A70016"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00189EBBF4">
+      <property type="source organism" value="Choloepus didactylus"/>
+      <property type="NCBI taxonomy" value="27675"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00189EBBF4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00211019A4">
+      <property type="source organism" value="Suncus etruscus"/>
+      <property type="NCBI taxonomy" value="109475"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00211019A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00193DCAEC">
+      <property type="source organism" value="Saimiri boliviensis boliviensis"/>
+      <property type="NCBI taxonomy" value="39432"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00193DCAEC"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="293"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002019900D">
+      <property type="source organism" value="Perognathus longimembris pacificus"/>
+      <property type="NCBI taxonomy" value="214514"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002019900D"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C0A620D">
+      <property type="source organism" value="Arvicola amphibius"/>
+      <property type="NCBI taxonomy" value="1047088"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C0A620D"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001AEF6A4C">
+      <property type="source organism" value="Mesocricetus auratus"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001AEF6A4C"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00167F582B">
+      <property type="source organism" value="Onychomys torridus"/>
+      <property type="NCBI taxonomy" value="38674"/>
+      <property type="protein name" value="nucleophosmin-like isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00167F582B"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C537C2B">
+      <property type="source organism" value="Dipodomys spectabilis"/>
+      <property type="NCBI taxonomy" value="105255"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C537C2B"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0012615556">
+      <property type="source organism" value="Mastomys coucha"/>
+      <property type="NCBI taxonomy" value="35658"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0012615556"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013F20168">
+      <property type="source organism" value="Hylobates moloch"/>
+      <property type="NCBI taxonomy" value="81572"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013F20168"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00190F16A5">
+      <property type="source organism" value="Klebsiella pneumoniae"/>
+      <property type="NCBI taxonomy" value="573"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_P13084"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="122"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021E2620C">
+      <property type="source organism" value="Acomys russatus"/>
+      <property type="NCBI taxonomy" value="60746"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021E2620C"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00067C1FEE">
+      <property type="source organism" value="Microtus ochrogaster"/>
+      <property type="NCBI taxonomy" value="79684"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00067C1FEE"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018E2C93F">
+      <property type="source organism" value="Arvicola amphibius"/>
+      <property type="NCBI taxonomy" value="1047088"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018E2C93F"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00109F3EB4">
+      <property type="source organism" value="Grammomys surdaster"/>
+      <property type="NCBI taxonomy" value="491861"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00109F3EB4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002152FD9A">
+      <property type="source organism" value="Microtus fortis"/>
+      <property type="NCBI taxonomy" value="100897"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002152FD9A"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB153EA">
+      <property type="source organism" value="Microtus oregoni"/>
+      <property type="NCBI taxonomy" value="111838"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB153EA"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002152D9D6">
+      <property type="source organism" value="Microtus fortis"/>
+      <property type="NCBI taxonomy" value="100897"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002152D9D6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001AEF7E2E">
+      <property type="source organism" value="Mesocricetus auratus"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001AEF7E2E"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B4F7452">
+      <property type="source organism" value="Meriones unguiculatus"/>
+      <property type="NCBI taxonomy" value="10047"/>
+      <property type="protein name" value="nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B4F7452"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00156C234A">
+      <property type="source organism" value="Mirounga leonina"/>
+      <property type="NCBI taxonomy" value="9715"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00156C234A"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB1E9A3">
+      <property type="source organism" value="Microtus oregoni"/>
+      <property type="NCBI taxonomy" value="111838"/>
+      <property type="protein name" value="nucleophosmin isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB1E9A3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00156BF6CC">
+      <property type="source organism" value="Mirounga leonina"/>
+      <property type="NCBI taxonomy" value="9715"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00156BF6CC"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00148EC129">
+      <property type="source organism" value="Marmota flaviventris"/>
+      <property type="NCBI taxonomy" value="93162"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00148EC129"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B5129AD">
+      <property type="source organism" value="Aotus nancymaae"/>
+      <property type="NCBI taxonomy" value="37293"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B5129AD"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B512FCE">
+      <property type="source organism" value="Aotus nancymaae"/>
+      <property type="NCBI taxonomy" value="37293"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B512FCE"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="291"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD39684">
+      <property type="source organism" value="Lutra lutra"/>
+      <property type="NCBI taxonomy" value="9657"/>
+      <property type="protein name" value="nucleophosmin-like isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD39684"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="290"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB102FA">
+      <property type="source organism" value="Microtus oregoni"/>
+      <property type="NCBI taxonomy" value="111838"/>
+      <property type="protein name" value="nucleophosmin-like isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB102FA"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="289"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018856E6D">
+      <property type="source organism" value="Peromyscus leucopus"/>
+      <property type="NCBI taxonomy" value="10041"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018856E6D"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="289"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018975802">
+      <property type="source organism" value="Cebus imitator"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018975802"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="289"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00189B4EDC">
+      <property type="source organism" value="Cebus imitator"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00189B4EDC"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="288"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00189BE2B8">
+      <property type="source organism" value="Cebus imitator"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00189BE2B8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="288"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C9E9E83">
+      <property type="source organism" value="Cervus canadensis"/>
+      <property type="NCBI taxonomy" value="1574408"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C9E9E83"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="288"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B34B2A5">
+      <property type="source organism" value="Ochotona curzoniae"/>
+      <property type="NCBI taxonomy" value="130825"/>
+      <property type="protein name" value="nucleophosmin-like isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B34B2A5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="287"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EB056BE">
+      <property type="source organism" value="Marmota monax"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EB056BE"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="287"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00148EB50F">
+      <property type="source organism" value="Marmota flaviventris"/>
+      <property type="NCBI taxonomy" value="93162"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00148EB50F"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="286"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001395DBA3">
+      <property type="source organism" value="Phoca vitulina"/>
+      <property type="NCBI taxonomy" value="9720"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001395DBA3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="285"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00165935CC">
+      <property type="source organism" value="Halichoerus grypus"/>
+      <property type="NCBI taxonomy" value="9711"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00165935CC"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="285"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021BC38FE">
+      <property type="source organism" value="Macaca thibetana thibetana"/>
+      <property type="NCBI taxonomy" value="257877"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021BC38FE"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="282"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E1B64FC">
+      <property type="source organism" value="Bubalus bubalis"/>
+      <property type="NCBI taxonomy" value="89462"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E1B64FC"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="282"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E69E52F">
+      <property type="source organism" value="Meles meles"/>
+      <property type="NCBI taxonomy" value="9662"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E69E52F"/>
+      <property type="UniRef90 ID" value="UniRef90_Q61937"/>
+      <property type="length" value="281"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00140FFB94">
+      <property type="source organism" value="Rhinolophus ferrumequinum"/>
+      <property type="NCBI taxonomy" value="59479"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A671EY49"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A671EY49"/>
+      <property type="length" value="348"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000CCC2D02">
+      <property type="source organism" value="Myotis lucifugus"/>
+      <property type="NCBI taxonomy" value="59463"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000CCC2D02"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="length" value="301"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003F0872B">
+      <property type="source organism" value="Elephantulus edwardii"/>
+      <property type="NCBI taxonomy" value="28737"/>
+      <property type="protein name" value="nucleophosmin isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003F0872B"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5YAS8"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00004A43CD">
+      <property type="source organism" value="Canis lupus dingo"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="nucleophosmin isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00004A43CD"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="length" value="292"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020C4B6C3">
+      <property type="source organism" value="Canis lupus dingo"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="nucleophosmin isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020C4B6C3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="length" value="298"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020C2449D">
+      <property type="source organism" value="Canis lupus dingo"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020C2449D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="length" value="297"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013F32CEB">
+      <property type="source organism" value="Lontra canadensis"/>
+      <property type="NCBI taxonomy" value="76717"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013F32CEB"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD1F17E">
+      <property type="source organism" value="Lutra lutra"/>
+      <property type="NCBI taxonomy" value="9657"/>
+      <property type="protein name" value="nucleophosmin-like isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD1F17E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="length" value="294"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005FBFB73">
+      <property type="source organism" value="Capra hircus"/>
+      <property type="NCBI taxonomy" value="9925"/>
+      <property type="protein name" value="nucleophosmin isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0005FBFB73"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8I3PA33"/>
+      <property type="length" value="262"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00063F1169">
+      <property type="source organism" value="Propithecus coquereli"/>
+      <property type="NCBI taxonomy" value="379532"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00063F1169"/>
+      <property type="UniRef90 ID" value="UniRef90_B7NZF9"/>
+      <property type="length" value="313"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00165A022B">
+      <property type="source organism" value="Halichoerus grypus"/>
+      <property type="NCBI taxonomy" value="9711"/>
+      <property type="protein name" value="nucleophosmin isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00165A022B"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="295"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD3BEAF">
+      <property type="source organism" value="Lutra lutra"/>
+      <property type="NCBI taxonomy" value="9657"/>
+      <property type="protein name" value="nucleophosmin-like isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD3BEAF"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="280"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00032B07CC">
+      <property type="source organism" value="Ochotona princeps"/>
+      <property type="NCBI taxonomy" value="9978"/>
+      <property type="protein name" value="nucleophosmin isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00032B07CC"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B34BD47">
+      <property type="source organism" value="Ochotona curzoniae"/>
+      <property type="NCBI taxonomy" value="130825"/>
+      <property type="protein name" value="nucleophosmin-like isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B34BD47"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B34F28C">
+      <property type="source organism" value="Ochotona curzoniae"/>
+      <property type="NCBI taxonomy" value="130825"/>
+      <property type="protein name" value="nucleophosmin isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B34F28C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="266"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B347EB9">
+      <property type="source organism" value="Ochotona curzoniae"/>
+      <property type="NCBI taxonomy" value="130825"/>
+      <property type="protein name" value="nucleophosmin-like isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B347EB9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="259"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CF0C54F">
+      <property type="source organism" value="Neogale vison"/>
+      <property type="NCBI taxonomy" value="452646"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CF0C54F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2V1F6"/>
+      <property type="length" value="259"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013F355EA">
+      <property type="source organism" value="Rattus rattus"/>
+      <property type="NCBI taxonomy" value="10117"/>
+      <property type="protein name" value="nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013F355EA"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0013F355EA"/>
+      <property type="length" value="312"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001114F92D">
+      <property type="source organism" value="Mus pahari"/>
+      <property type="NCBI taxonomy" value="10093"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: nucleophosmin-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001114F92D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001114F92D"/>
+      <property type="length" value="387"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

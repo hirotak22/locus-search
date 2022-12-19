@@ -1,0 +1,2063 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_Q5R9F5" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Sodium-coupled neutral amino acid transporter 7</name>
+  <property type="member count" value="180"/>
+  <property type="common taxon" value="Euteleostomi"/>
+  <property type="common taxon ID" value="117571"/>
+  <property type="GO Molecular Function" value="GO:0015186"/>
+  <property type="GO Molecular Function" value="GO:0015182"/>
+  <property type="GO Cellular Component" value="GO:0016020"/>
+  <property type="GO Biological Process" value="GO:0006865"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="S38A7_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="Sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0000469E3D"/>
+      <property type="UniRef100 ID" value="UniRef100_Q5R9F5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="Q5R9F5"/>
+      <property type="length" value="462"/>
+    </dbReference>
+    <sequence length="462" checksum="58E3F1D2C76E9006">MAQVSINNDYSEWGLSTDAGERARLLQSPCVDTAPKSEWEASPGGPDRGTTSTLGAIFIVVNACLGAGLLNFPAAFSTAGGVAAGIALQMGMLVFIISGLVILAYCSQASNERTYQEVVWAVCGKLTGVLCEVAIAVYTFGTCIAFLIIIGDQQDKIIAVMAKEPEGASGPWYTDRKFTISLTAFLFILPLSIPREIGFQKYASFLSVVGTWYVTAIVIIKYIWPDKEMTPGNILTRPASWMAVFNAMPTICFGFQCHVSSVPVFNSMQQPEVKTWGGVVTAAMVIALAVYMGTGICGFLTFGAAVDPDVLLSYPSEDMAVAVARAFIILSVLTSYPILHFCGRAVVEGLWLRYQGVSVEEDVGRERRRRVLQTLVWFLLTLLLALFIPDIGKVISVIGGLAACFIFVFPGLCLIQAKLSEMEEVKPASWWVLVSYGVLLVTLGAFIFGQTTANAIFVDLLA</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8VZV8_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="SLC38A7 isoform 5"/>
+      <property type="UniParc ID" value="UPI000CB5ACC0"/>
+      <property type="UniRef100 ID" value="UniRef100_Q5R9F5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2J8VZV8"/>
+      <property type="length" value="373"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5E4A4N6_MARMO">
+      <property type="source organism" value="Marmota monax (Woodchuck)"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00125C3A83"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5E4A4N6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A5E4A4N6"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2HIY8_UROPR">
+      <property type="source organism" value="Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii)"/>
+      <property type="NCBI taxonomy" value="9999"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000E5613D0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D2HIY8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8D2HIY8"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0P6JDS9_HETGA">
+      <property type="source organism" value="Heterocephalus glaber (Naked mole rat)"/>
+      <property type="NCBI taxonomy" value="10181"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI00034FDC9B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0P6JDS9"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A0P6JDS9"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9JP58_CHRAS">
+      <property type="source organism" value="Chrysochloris asiatica (Cape golden mole)"/>
+      <property type="NCBI taxonomy" value="185453"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0003F11236"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I9JP58"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A6I9JP58"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7UJY3_VULVU">
+      <property type="source organism" value="Vulpes vulpes (Red fox)"/>
+      <property type="NCBI taxonomy" value="9627"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000DF69142"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q7UJY3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A3Q7UJY3"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8T7Y7_PERMB">
+      <property type="source organism" value="Peromyscus maniculatus bairdii (Prairie deer mouse)"/>
+      <property type="NCBI taxonomy" value="230844"/>
+      <property type="protein name" value="Solute carrier family 38, member 7"/>
+      <property type="UniParc ID" value="UPI001087C998"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C8T7Y7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C8T7Y7"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2JNB7_SCIVU">
+      <property type="source organism" value="Sciurus vulgaris (Eurasian red squirrel)"/>
+      <property type="NCBI taxonomy" value="55149"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0018BCCAA9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D2JNB7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8D2JNB7"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J6AND5_GALPY">
+      <property type="source organism" value="Galemys pyrenaicus (Iberian desman) (Pyrenean desman)"/>
+      <property type="NCBI taxonomy" value="202257"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI001C6B37A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J6AND5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8J6AND5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6RHC1_NANGA">
+      <property type="source organism" value="Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalaxgalili)"/>
+      <property type="NCBI taxonomy" value="1026970"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0004ED27B0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6RHC1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C6RHC1"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0LTC3_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00004BD274"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0LTC3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C0LTC3"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I3MHL1_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00004BD274"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0LTC3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8I3MHL1"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0R2F9_CANLU">
+      <property type="source organism" value="Canis lupus dingo (dingo)"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00004BD274"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0LTC3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C0R2F9"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A811YQ87_NYCPR">
+      <property type="source organism" value="Nyctereutes procyonoides (Raccoon dog) (Canis procyonoides)"/>
+      <property type="NCBI taxonomy" value="34880"/>
+      <property type="protein name" value="(raccoon dog) hypothetical protein"/>
+      <property type="UniParc ID" value="UPI00004BD274"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0LTC3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A811YQ87"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2V8Z0_CHILA">
+      <property type="source organism" value="Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera)"/>
+      <property type="NCBI taxonomy" value="34839"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00038EC4C3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2V8Z0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C2V8Z0"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G5AW58_HETGA">
+      <property type="source organism" value="Heterocephalus glaber (Naked mole rat)"/>
+      <property type="NCBI taxonomy" value="10181"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000236EB45"/>
+      <property type="UniRef100 ID" value="UniRef100_G5AW58"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G5AW58"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A834V5R5_MARMO">
+      <property type="source organism" value="Marmota monax (Woodchuck)"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0019E593E0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A834V5R5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A834V5R5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5E4A4Z8_MARMO">
+      <property type="source organism" value="Marmota monax (Woodchuck)"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001258B6D6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5E4A4Z8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A5E4A4Z8"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G3I2Y0_CRIGR">
+      <property type="source organism" value="Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000228E2E9"/>
+      <property type="UniRef100 ID" value="UniRef100_G3I2Y0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G3I2Y0"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G1SKK6_RABIT">
+      <property type="source organism" value="Oryctolagus cuniculus (Rabbit)"/>
+      <property type="NCBI taxonomy" value="9986"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0001CE0771"/>
+      <property type="UniRef100 ID" value="UniRef100_G1SKK6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G1SKK6"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="M3Y0G2_MUSPF">
+      <property type="source organism" value="Mustela putorius furo (European domestic ferret) (Mustela furo)"/>
+      <property type="NCBI taxonomy" value="9669"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000293282A"/>
+      <property type="UniRef100 ID" value="UniRef100_M3Y0G2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="M3Y0G2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G9KPN0_MUSPF">
+      <property type="source organism" value="Mustela putorius furo (European domestic ferret) (Mustela furo)"/>
+      <property type="NCBI taxonomy" value="9669"/>
+      <property type="protein name" value="Solute carrier family 38, member 7 (Fragment)"/>
+      <property type="UniParc ID" value="UPI0002440074"/>
+      <property type="UniRef100 ID" value="UniRef100_M3Y0G2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G9KPN0"/>
+      <property type="length" value="68"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I3M6C4_ICTTR">
+      <property type="source organism" value="Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilustridecemlineatus)"/>
+      <property type="NCBI taxonomy" value="43179"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00025DBFF1"/>
+      <property type="UniRef100 ID" value="UniRef100_I3M6C4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="I3M6C4"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C5Z9A6_MARMA">
+      <property type="source organism" value="Marmota marmota marmota (Alpine marmot)"/>
+      <property type="NCBI taxonomy" value="9994"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00076229AA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C5Z9A6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C5Z9A6"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7QQF7_MESAU">
+      <property type="source organism" value="Mesocricetus auratus (Golden hamster)"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniParc ID" value="UPI00035939F6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1U7QQF7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A1U7QQF7"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G2HEC1_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="Amino acid transporter"/>
+      <property type="UniParc ID" value="UPI00021DE2A4"/>
+      <property type="UniRef100 ID" value="UniRef100_G2HEC1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G2HEC1"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6D2X4T0_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="SLC38A7 isoform 1"/>
+      <property type="UniParc ID" value="UPI000036A817"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2X4T0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A6D2X4T0"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H2QB88_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000036A817"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2X4T0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="H2QB88"/>
+      <property type="UniProtKB accession" value="A0A2J8MVH7"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2R9BUM0_PANPA">
+      <property type="source organism" value="Pan paniscus (Pygmy chimpanzee) (Bonobo)"/>
+      <property type="NCBI taxonomy" value="9597"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000036A817"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2X4T0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2R9BUM0"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8MVG9_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="SLC38A7 isoform 7 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000CB20C05"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2X4T0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2J8MVG9"/>
+      <property type="length" value="141"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8MVI0_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="SLC38A7 isoform 4 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000CBB1537"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2X4T0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2J8MVI0"/>
+      <property type="length" value="94"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6UBM4_SAIBB">
+      <property type="source organism" value="Saimiri boliviensis boliviensis (Bolivian squirrel monkey)"/>
+      <property type="NCBI taxonomy" value="39432"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00027FBCC7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6UBM4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K6UBM4"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5Q603_CEBIM">
+      <property type="source organism" value="Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinusimitator)"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000809E15C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5Q603"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K5Q603"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3ICB6_SAPAP">
+      <property type="source organism" value="Sapajus apella (Brown-capped capuchin) (Cebus apella)"/>
+      <property type="NCBI taxonomy" value="9515"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000809E15C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5Q603"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A6J3ICB6"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6D2WI05_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000226C2E6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2WI05"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A6D2WI05"/>
+      <property type="UniProtKB accession" value="A0A2J8VZQ2"/>
+      <property type="UniProtKB accession" value="H2NR32"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8VZQ4_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="SLC38A7 isoform 11 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000CAAF9FC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2WI05"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2J8VZQ4"/>
+      <property type="length" value="141"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8VZR7_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="SLC38A7 isoform 12 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000CB6F557"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6D2WI05"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2J8VZR7"/>
+      <property type="length" value="94"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A096NJ41_PAPAN">
+      <property type="source organism" value="Papio anubis (Olive baboon)"/>
+      <property type="NCBI taxonomy" value="9555"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0012AE2935"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A096NJ41"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A096NJ41"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5I0B7_COLAP">
+      <property type="source organism" value="Colobus angolensis palliatus (Peters' Angolan colobus)"/>
+      <property type="NCBI taxonomy" value="336983"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0005F4921E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K5I0B7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K5I0B7"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6QH29_RHIRO">
+      <property type="source organism" value="Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana)"/>
+      <property type="NCBI taxonomy" value="61622"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K6QH29"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G7Q1A3_MACFA">
+      <property type="source organism" value="Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)"/>
+      <property type="NCBI taxonomy" value="9541"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G7Q1A3"/>
+      <property type="UniProtKB accession" value="A0A2K5VTB0"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G7NPW8_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G7NPW8"/>
+      <property type="UniProtKB accession" value="A0A1D5Q6B8"/>
+      <property type="UniProtKB accession" value="A0A5S6R6V7"/>
+      <property type="UniProtKB accession" value="F6UDT5"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J8XQ43_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8J8XQ43"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5MW55_CERAT">
+      <property type="source organism" value="Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys)"/>
+      <property type="NCBI taxonomy" value="9531"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K5MW55"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9LTE6_9PRIM">
+      <property type="source organism" value="Piliocolobus tephrosceles (Ugandan red Colobus)"/>
+      <property type="NCBI taxonomy" value="591936"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C9LTE6"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6N091_RHIBE">
+      <property type="source organism" value="Rhinopithecus bieti (Black snub-nosed monkey) (Pygathrix bieti)"/>
+      <property type="NCBI taxonomy" value="61621"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K6N091"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6E3Q0_MACNE">
+      <property type="source organism" value="Macaca nemestrina (Pig-tailed macaque)"/>
+      <property type="NCBI taxonomy" value="9545"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A2K6E3Q0"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2ECT9_THEGE">
+      <property type="source organism" value="Theropithecus gelada (Gelada baboon)"/>
+      <property type="NCBI taxonomy" value="9565"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000D9F182"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8D2ECT9"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H9F040_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000257649B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6QH29"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="H9F040"/>
+      <property type="length" value="370"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0R2S0_CANLU">
+      <property type="source organism" value="Canis lupus dingo (dingo)"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000FC7F00C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0R2S0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C0R2S0"/>
+      <property type="length" value="461"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7V8M3_CASCN">
+      <property type="source organism" value="Castor canadensis (American beaver)"/>
+      <property type="NCBI taxonomy" value="51338"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniParc ID" value="UPI000980A5B1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B7V8M3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8B7V8M3"/>
+      <property type="length" value="460"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9Q715_SPEDA">
+      <property type="source organism" value="Spermophilus dauricus (Daurian ground squirrel)"/>
+      <property type="NCBI taxonomy" value="99837"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00108ED743"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C9Q715"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8C9Q715"/>
+      <property type="length" value="457"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G1QUM1_NOMLE">
+      <property type="source organism" value="Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)"/>
+      <property type="NCBI taxonomy" value="61853"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000C2DF9E5"/>
+      <property type="UniRef100 ID" value="UniRef100_G1QUM1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="G1QUM1"/>
+      <property type="length" value="439"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A834V821_MARMO">
+      <property type="source organism" value="Marmota monax (Woodchuck)"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI001A01CEC9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A834V821"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A834V821"/>
+      <property type="length" value="434"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5E4A581_MARMO">
+      <property type="source organism" value="Marmota monax (Woodchuck)"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0012530B32"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5E4A581"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A5E4A581"/>
+      <property type="length" value="434"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q0D4X1_MESAU">
+      <property type="source organism" value="Mesocricetus auratus (Golden hamster)"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniParc ID" value="UPI000A3218A7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q0D4X1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A3Q0D4X1"/>
+      <property type="length" value="430"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5F9DGB0_RABIT">
+      <property type="source organism" value="Oryctolagus cuniculus (Rabbit)"/>
+      <property type="NCBI taxonomy" value="9986"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI001235CFD6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5F9DGB0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A5F9DGB0"/>
+      <property type="length" value="430"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5F8A166_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000B7B4EFF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5F8A166"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A5F8A166"/>
+      <property type="length" value="429"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I5N3M0_PAPAN">
+      <property type="source organism" value="Papio anubis (Olive baboon)"/>
+      <property type="NCBI taxonomy" value="9555"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0012AE7806"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8I5N3M0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="UniProtKB accession" value="A0A8I5N3M0"/>
+      <property type="length" value="429"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2SFA7_CAPHI">
+      <property type="source organism" value="Capra hircus (Goat)"/>
+      <property type="NCBI taxonomy" value="9925"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0018B73ADB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2SFA7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2SFA7"/>
+      <property type="UniProtKB accession" value="A0A8C2SFA7"/>
+      <property type="length" value="503"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B9VI57_9AVES">
+      <property type="source organism" value="Anas zonorhyncha (Eastern spot-billed duck)"/>
+      <property type="NCBI taxonomy" value="75864"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0018B79484"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B9VI57"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9VI57"/>
+      <property type="UniProtKB accession" value="A0A8B9VI57"/>
+      <property type="length" value="504"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C3EFJ1_CORMO">
+      <property type="source organism" value="Corvus moneduloides (New Caledonian crow)"/>
+      <property type="NCBI taxonomy" value="1196302"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0018B8A417"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C3EFJ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9VI57"/>
+      <property type="UniProtKB accession" value="A0A8C3EFJ1"/>
+      <property type="length" value="473"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7K5GPQ1_9AVES">
+      <property type="source organism" value="Chunga burmeisteri (Black-legged seriema)"/>
+      <property type="NCBI taxonomy" value="1352770"/>
+      <property type="protein name" value="S38A6 protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI001822ECF3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7K5GPQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9VI57"/>
+      <property type="UniProtKB accession" value="A0A7K5GPQ1"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7L0AC85_9AVES">
+      <property type="source organism" value="Ciconia maguari"/>
+      <property type="NCBI taxonomy" value="52777"/>
+      <property type="protein name" value="S38A6 protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI0017D7D54A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7L0AC85"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9VI57"/>
+      <property type="UniProtKB accession" value="A0A7L0AC85"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C3CEQ1_CAIMO">
+      <property type="source organism" value="Cairina moschata domestica (Muscovy Duck (domestic type))"/>
+      <property type="NCBI taxonomy" value="1240228"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0018BE5F6E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C3CEQ1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9VI57"/>
+      <property type="UniProtKB accession" value="A0A8C3CEQ1"/>
+      <property type="length" value="462"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B9UMB8_9AVES">
+      <property type="source organism" value="Anas zonorhyncha (Eastern spot-billed duck)"/>
+      <property type="NCBI taxonomy" value="75864"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0018BAE629"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B9UMB8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9VI57"/>
+      <property type="UniProtKB accession" value="A0A8B9UMB8"/>
+      <property type="length" value="412"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A665TG87_ECHNA">
+      <property type="source organism" value="Echeneis naucrates (Live sharksucker)"/>
+      <property type="NCBI taxonomy" value="173247"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00133ED01A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A665TG87"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A665TG87"/>
+      <property type="UniProtKB accession" value="A0A665TG87"/>
+      <property type="length" value="423"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4U1F582_MONMO">
+      <property type="source organism" value="Monodon monoceros (Narwhal) (Ceratodon monodon)"/>
+      <property type="NCBI taxonomy" value="40151"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0011345608"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4U1F582"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4U1F582"/>
+      <property type="UniProtKB accession" value="A0A4U1F582"/>
+      <property type="length" value="524"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8T0B9D0_SILME">
+      <property type="source organism" value="Silurus meridionalis (Southern catfish) (Silurus soldatovi meridionalis)"/>
+      <property type="NCBI taxonomy" value="175797"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0019873B44"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8T0B9D0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5N5MXX2"/>
+      <property type="UniProtKB accession" value="A0A8T0B9D0"/>
+      <property type="length" value="449"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5N5MXX2_PANHP">
+      <property type="source organism" value="Pangasianodon hypophthalmus (Striped catfish) (Helicophagus hypophthalmus)"/>
+      <property type="NCBI taxonomy" value="310915"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0012D23219"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5N5MXX2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5N5MXX2"/>
+      <property type="UniProtKB accession" value="A0A5N5MXX2"/>
+      <property type="length" value="506"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J6AKW0_AMEME">
+      <property type="source organism" value="Ameiurus melas (Black bullhead) (Silurus melas)"/>
+      <property type="NCBI taxonomy" value="219545"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00182A078A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J6AKW0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5N5MXX2"/>
+      <property type="UniProtKB accession" value="A0A7J6AKW0"/>
+      <property type="length" value="445"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D0RR49_ICTPU">
+      <property type="source organism" value="Ictalurus punctatus (Channel catfish) (Silurus punctatus)"/>
+      <property type="NCBI taxonomy" value="7998"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0008036F22"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D0RR49"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5N5MXX2"/>
+      <property type="UniProtKB accession" value="A0A2D0RR49"/>
+      <property type="length" value="444"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5N4DV24_CAMDR">
+      <property type="source organism" value="Camelus dromedarius (Dromedary) (Arabian camel)"/>
+      <property type="NCBI taxonomy" value="9838"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0012F61ABD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5N4DV24"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A340Y569"/>
+      <property type="UniProtKB accession" value="A0A5N4DV24"/>
+      <property type="length" value="510"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A340Y569_LIPVE">
+      <property type="source organism" value="Lipotes vexillifer (Yangtze river dolphin)"/>
+      <property type="NCBI taxonomy" value="118797"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000441911E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A340Y569"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A340Y569"/>
+      <property type="UniProtKB accession" value="A0A340Y569"/>
+      <property type="length" value="430"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q0D3D7_MESAU">
+      <property type="source organism" value="Mesocricetus auratus (Golden hamster)"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniParc ID" value="UPI000A32768A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q0D3D7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A340Y569"/>
+      <property type="UniProtKB accession" value="A0A3Q0D3D7"/>
+      <property type="length" value="430"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6D1I0_MOSMO">
+      <property type="source organism" value="Moschus moschiferus (Siberian musk deer) (Moschus sibiricus)"/>
+      <property type="NCBI taxonomy" value="68415"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI001334F6A3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6D1I0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A340Y569"/>
+      <property type="UniProtKB accession" value="A0A8C6D1I0"/>
+      <property type="length" value="430"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J2FCX9_ZALCA">
+      <property type="source organism" value="Zalophus californianus (California sealion)"/>
+      <property type="NCBI taxonomy" value="9704"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniParc ID" value="UPI000F80B61E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J2FCX9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6J2FCX9"/>
+      <property type="UniProtKB accession" value="A0A6J2FCX9"/>
+      <property type="length" value="499"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J2F3G6_ZALCA">
+      <property type="source organism" value="Zalophus californianus (California sealion)"/>
+      <property type="NCBI taxonomy" value="9704"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniParc ID" value="UPI000F805432"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J2F3G6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6J2FCX9"/>
+      <property type="UniProtKB accession" value="A0A6J2F3G6"/>
+      <property type="length" value="492"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9X0E0_9SAUR">
+      <property type="source organism" value="Thamnophis sirtalis"/>
+      <property type="NCBI taxonomy" value="35019"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniParc ID" value="UPI0006B1710C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I9X0E0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5S8L4"/>
+      <property type="UniProtKB accession" value="A0A6I9X0E0"/>
+      <property type="length" value="453"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C5S8L4_LATLA">
+      <property type="source organism" value="Laticauda laticaudata (Blue-ringed sea krait) (Blue-lipped sea krait)"/>
+      <property type="NCBI taxonomy" value="8630"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0016360509"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C5S8L4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C5S8L4"/>
+      <property type="UniProtKB accession" value="A0A8C5S8L4"/>
+      <property type="length" value="529"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8V0ZCK5_CHICK">
+      <property type="source organism" value="Gallus gallus (Chicken)"/>
+      <property type="NCBI taxonomy" value="9031"/>
+      <property type="protein name" value="Uncharacterized protein"/>
+      <property type="UniParc ID" value="UPI0020B0020B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8V0ZCK5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8V0ZCK5"/>
+      <property type="UniProtKB accession" value="A0A8V0ZCK5"/>
+      <property type="length" value="498"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A671ENK5_RHIFE">
+      <property type="source organism" value="Rhinolophus ferrumequinum (Greater horseshoe bat)"/>
+      <property type="NCBI taxonomy" value="59479"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0013393692"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A671ENK5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="A0A671ENK5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U3XN12_LEPWE">
+      <property type="source organism" value="Leptonychotes weddellii (Weddell seal) (Otaria weddellii)"/>
+      <property type="NCBI taxonomy" value="9713"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniParc ID" value="UPI0003EDFC8E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2U3XN12"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J8CB52_MOLMO">
+      <property type="source organism" value="Molossus molossus (Pallas' mastiff bat) (Vespertilio molossus)"/>
+      <property type="NCBI taxonomy" value="27622"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0017472CED"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J8CB52"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="A0A7J8CB52"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J8CB41_MOLMO">
+      <property type="source organism" value="Molossus molossus (Pallas' mastiff bat) (Vespertilio molossus)"/>
+      <property type="NCBI taxonomy" value="27622"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI001855459D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J8CB52"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="A0A7J8CB41"/>
+      <property type="length" value="234"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J2KRR6_9CHIR">
+      <property type="source organism" value="Phyllostomus discolor (pale spear-nosed bat)"/>
+      <property type="NCBI taxonomy" value="89673"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00105AF701"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J2KRR6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="A0A6J2KRR6"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J7SDC5_MYOMY">
+      <property type="source organism" value="Myotis myotis (Greater mouse-eared bat)"/>
+      <property type="NCBI taxonomy" value="51298"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0017486EA7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J7SDC5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="A0A7J7SDC5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L5ML31_MYODS">
+      <property type="source organism" value="Myotis davidii (David's myotis)"/>
+      <property type="NCBI taxonomy" value="225400"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0002A90C9F"/>
+      <property type="UniRef100 ID" value="UniRef100_L5ML31"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="L5ML31"/>
+      <property type="length" value="460"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="S7PN05_MYOBR">
+      <property type="source organism" value="Myotis brandtii (Brandt's bat)"/>
+      <property type="NCBI taxonomy" value="109478"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI00035B64DE"/>
+      <property type="UniRef100 ID" value="UniRef100_S7PN05"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="S7PN05"/>
+      <property type="length" value="428"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H9FBF4_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000257786D"/>
+      <property type="UniRef100 ID" value="UniRef100_H9FBF4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="UniProtKB accession" value="H9FBF4"/>
+      <property type="length" value="93"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K7FF12_PELSI">
+      <property type="source organism" value="Pelodiscus sinensis (Chinese softshell turtle) (Trionyx sinensis)"/>
+      <property type="NCBI taxonomy" value="13735"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0002936CBF"/>
+      <property type="UniRef100 ID" value="UniRef100_K7FF12"/>
+      <property type="UniRef90 ID" value="UniRef90_K7FF12"/>
+      <property type="UniProtKB accession" value="K7FF12"/>
+      <property type="length" value="460"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="U6CX18_NEOVI">
+      <property type="source organism" value="Neovison vison (American mink) (Mustela vison)"/>
+      <property type="NCBI taxonomy" value="452646"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0003D19488"/>
+      <property type="UniRef100 ID" value="UniRef100_U6CX18"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="UniProtKB accession" value="U6CX18"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F6V4B6_HORSE">
+      <property type="source organism" value="Equus caballus (Horse)"/>
+      <property type="NCBI taxonomy" value="9796"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0004BDE8A3"/>
+      <property type="UniRef100 ID" value="UniRef100_F6V4B6"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="UniProtKB accession" value="F6V4B6"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U3VLG8_ODORO">
+      <property type="source organism" value="Odobenus rosmarus divergens (Pacific walrus)"/>
+      <property type="NCBI taxonomy" value="9708"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0002C55E35"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2U3VLG8"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="UniProtKB accession" value="A0A2U3VLG8"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7VBW8_CASCN">
+      <property type="source organism" value="Castor canadensis (American beaver)"/>
+      <property type="NCBI taxonomy" value="51338"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00098127C0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B7VBW8"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="UniProtKB accession" value="A0A8B7VBW8"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A250XWS1_CASCN">
+      <property type="source organism" value="Castor canadensis (American beaver)"/>
+      <property type="NCBI taxonomy" value="51338"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000BDE2F7C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B7VBW8"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="UniProtKB accession" value="A0A250XWS1"/>
+      <property type="length" value="234"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C4LTC9_EQUAS">
+      <property type="source organism" value="Equus asinus asinus"/>
+      <property type="NCBI taxonomy" value="83772"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI00071A0C69"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C4LTC9"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="UniProtKB accession" value="A0A8C4LTC9"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J1VXT0_9SAUR">
+      <property type="source organism" value="Notechis scutatus (mainland tiger snake)"/>
+      <property type="NCBI taxonomy" value="8663"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI000E783C8D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J1VXT0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="UniProtKB accession" value="A0A6J1VXT0"/>
+      <property type="length" value="455"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1W7RD66_AGKCO">
+      <property type="source organism" value="Agkistrodon contortrix contortrix (Southern copperhead)"/>
+      <property type="NCBI taxonomy" value="8713"/>
+      <property type="protein name" value="Solute carrier family 38, member 7"/>
+      <property type="UniParc ID" value="UPI000B3BDABE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1W7RD66"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="UniProtKB accession" value="A0A1W7RD66"/>
+      <property type="length" value="455"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6VG11_NAJNA">
+      <property type="source organism" value="Naja naja (Indian cobra)"/>
+      <property type="NCBI taxonomy" value="35670"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0018BB0BD7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6VG11"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="UniProtKB accession" value="A0A8C6VG11"/>
+      <property type="length" value="454"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D4MHU6_9SAUR">
+      <property type="source organism" value="Micrurus spixii (Amazon coral snake)"/>
+      <property type="NCBI taxonomy" value="129469"/>
+      <property type="protein name" value="Aa_trans domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000C4742A7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D4MHU6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="UniProtKB accession" value="A0A2D4MHU6"/>
+      <property type="length" value="454"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P9CB60_PANGU">
+      <property type="source organism" value="Pantherophis guttatus (Corn snake) (Elaphe guttata)"/>
+      <property type="NCBI taxonomy" value="94885"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0014835F18"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P9CB60"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="UniProtKB accession" value="A0A6P9CB60"/>
+      <property type="length" value="453"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0B8RR01_BOIIR">
+      <property type="source organism" value="Boiga irregularis (Brown tree snake)"/>
+      <property type="NCBI taxonomy" value="92519"/>
+      <property type="protein name" value="Putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0005A4E899"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0B8RR01"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="UniProtKB accession" value="A0A0B8RR01"/>
+      <property type="length" value="453"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="M3VZR4_FELCA">
+      <property type="source organism" value="Felis catus (Cat) (Felis silvestris catus)"/>
+      <property type="NCBI taxonomy" value="9685"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000F5A8D6"/>
+      <property type="UniRef100 ID" value="UniRef100_M3VZR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="M3VZR4"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8XQY8_PANLE">
+      <property type="source organism" value="Panthera leo (Lion)"/>
+      <property type="NCBI taxonomy" value="9689"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000F5A8D6"/>
+      <property type="UniRef100 ID" value="UniRef100_M3VZR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A8C8XQY8"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P4WIL2_PANPR">
+      <property type="source organism" value="Panthera pardus (Leopard) (Felis pardus)"/>
+      <property type="NCBI taxonomy" value="9691"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniParc ID" value="UPI0000F5A8D6"/>
+      <property type="UniRef100 ID" value="UniRef100_M3VZR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A6P4WIL2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J2ANW8_ACIJB">
+      <property type="source organism" value="Acinonyx jubatus (Cheetah)"/>
+      <property type="NCBI taxonomy" value="32536"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0000F5A8D6"/>
+      <property type="UniRef100 ID" value="UniRef100_M3VZR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A6J2ANW8"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A667HXS4_LYNCA">
+      <property type="source organism" value="Lynx canadensis (Canada lynx)"/>
+      <property type="NCBI taxonomy" value="61383"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0000F5A8D6"/>
+      <property type="UniRef100 ID" value="UniRef100_M3VZR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A667HXS4"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P6HMK1_PUMCO">
+      <property type="source organism" value="Puma concolor (Mountain lion) (Felis concolor)"/>
+      <property type="NCBI taxonomy" value="9696"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniParc ID" value="UPI0000F5A8D6"/>
+      <property type="UniRef100 ID" value="UniRef100_M3VZR4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A6P6HMK1"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A667HX22_LYNCA">
+      <property type="source organism" value="Lynx canadensis (Canada lynx)"/>
+      <property type="NCBI taxonomy" value="61383"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0011B08F15"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A667HX22"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A667HX22"/>
+      <property type="length" value="514"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9D7S5_PANLE">
+      <property type="source organism" value="Panthera leo (Lion)"/>
+      <property type="NCBI taxonomy" value="9689"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0016354DA2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C9D7S5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A8C9D7S5"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6G1A3Y9_CROCR">
+      <property type="source organism" value="Crocuta crocuta (Spotted hyena)"/>
+      <property type="NCBI taxonomy" value="9678"/>
+      <property type="protein name" value="S38A6 protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI001410FD6A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6G1A3Y9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A6G1A3Y9"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A337S3G2_FELCA">
+      <property type="source organism" value="Felis catus (Cat) (Felis silvestris catus)"/>
+      <property type="NCBI taxonomy" value="9685"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI0009056E67"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A337S3G2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A337S3G2"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P4WK57_PANPR">
+      <property type="source organism" value="Panthera pardus (Leopard) (Felis pardus)"/>
+      <property type="NCBI taxonomy" value="9691"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniParc ID" value="UPI0009056E67"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A337S3G2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A6P4WK57"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A485P8Y3_LYNPA">
+      <property type="source organism" value="Lynx pardinus (Iberian lynx) (Felis pardina)"/>
+      <property type="NCBI taxonomy" value="191816"/>
+      <property type="protein name" value="Sodium-coupled neutral"/>
+      <property type="UniParc ID" value="UPI0009056E67"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A337S3G2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A485P8Y3"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A485PBB0_LYNPA">
+      <property type="source organism" value="Lynx pardinus (Iberian lynx) (Felis pardina)"/>
+      <property type="NCBI taxonomy" value="191816"/>
+      <property type="protein name" value="Sodium-coupled neutral"/>
+      <property type="UniParc ID" value="UPI0010B80C1A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A485PBB0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A485PBB0"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A673VLZ2_SURSU">
+      <property type="source organism" value="Suricata suricatta (Meerkat)"/>
+      <property type="NCBI taxonomy" value="37032"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI001155CDB1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A673VLZ2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A673VLZ2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0KXJ4_CANLU">
+      <property type="source organism" value="Canis lupus dingo (dingo)"/>
+      <property type="NCBI taxonomy" value="286419"/>
+      <property type="protein name" value="Solute carrier family 38 member 7"/>
+      <property type="UniParc ID" value="UPI000FC7016C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0KXJ4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="UniProtKB accession" value="A0A8C0KXJ4"/>
+      <property type="length" value="455"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q4SII2_TETNG">
+      <property type="source organism" value="Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodonnigroviridis)"/>
+      <property type="NCBI taxonomy" value="99883"/>
+      <property type="protein name" value="(spotted green pufferfish) hypothetical protein"/>
+      <property type="UniParc ID" value="UPI00002F98B9"/>
+      <property type="UniRef100 ID" value="UniRef100_Q4SII2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q4SII2"/>
+      <property type="UniProtKB accession" value="Q4SII2"/>
+      <property type="length" value="502"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B34613E">
+      <property type="source organism" value="Ochotona curzoniae"/>
+      <property type="NCBI taxonomy" value="130825"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B34613E"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E1B4511">
+      <property type="source organism" value="Jaculus jaculus"/>
+      <property type="NCBI taxonomy" value="51337"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E1B4511"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E876AAE">
+      <property type="source organism" value="Marmota monax"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E876AAE"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0014862837">
+      <property type="source organism" value="Arvicanthis niloticus"/>
+      <property type="NCBI taxonomy" value="61156"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0014862837"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00094494A8">
+      <property type="source organism" value="Rhinolophus sinicus"/>
+      <property type="NCBI taxonomy" value="89399"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00094494A8"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BC9295B">
+      <property type="source organism" value="Vulpes lagopus"/>
+      <property type="NCBI taxonomy" value="494514"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q7UJY3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="372"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001261A909">
+      <property type="source organism" value="Mastomys coucha"/>
+      <property type="NCBI taxonomy" value="35658"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001261A909"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003C9002B">
+      <property type="source organism" value="Tupaia chinensis"/>
+      <property type="NCBI taxonomy" value="246437"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003C9002B"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003AE443A">
+      <property type="source organism" value="Canis lupus familiaris"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C0LTC3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="372"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021E31685">
+      <property type="source organism" value="Acomys russatus"/>
+      <property type="NCBI taxonomy" value="60746"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021E31685"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0006969436">
+      <property type="source organism" value="Chinchilla lanigera"/>
+      <property type="NCBI taxonomy" value="34839"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2V8Z0"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="372"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000334636A">
+      <property type="source organism" value="Condylura cristata"/>
+      <property type="NCBI taxonomy" value="143302"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000334636A"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00167F80B3">
+      <property type="source organism" value="Onychomys torridus"/>
+      <property type="NCBI taxonomy" value="38674"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00167F80B3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018909603">
+      <property type="source organism" value="Talpa occidentalis"/>
+      <property type="NCBI taxonomy" value="50954"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018909603"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000328BAEF">
+      <property type="source organism" value="Dasypus novemcinctus"/>
+      <property type="NCBI taxonomy" value="9361"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000328BAEF"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FB242BD">
+      <property type="source organism" value="Neosciurus carolinensis"/>
+      <property type="NCBI taxonomy" value="30640"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FB242BD"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000FFF7169">
+      <property type="source organism" value="Marmota flaviventris"/>
+      <property type="NCBI taxonomy" value="93162"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000FFF7169"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000819E970">
+      <property type="source organism" value="Nannospalax galili"/>
+      <property type="NCBI taxonomy" value="1026970"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000819E970"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="441"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EB07FF6">
+      <property type="source organism" value="Marmota monax"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EB07FF6"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="434"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001A9E1515">
+      <property type="source organism" value="Ictidomys tridecemlineatus"/>
+      <property type="NCBI taxonomy" value="43179"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001A9E1515"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="434"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B53D06A">
+      <property type="source organism" value="Ictidomys tridecemlineatus"/>
+      <property type="NCBI taxonomy" value="43179"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B53D06A"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="433"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0012AE6E91">
+      <property type="source organism" value="Papio anubis"/>
+      <property type="NCBI taxonomy" value="9555"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0012AE6E91"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="432"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E1B0107">
+      <property type="source organism" value="Jaculus jaculus"/>
+      <property type="NCBI taxonomy" value="51337"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E1B0107"/>
+      <property type="UniRef90 ID" value="UniRef90_Q5R9F5"/>
+      <property type="length" value="416"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C2E1E9F">
+      <property type="source organism" value="Ovis aries"/>
+      <property type="NCBI taxonomy" value="9940"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C2E1E9F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2SFA7"/>
+      <property type="length" value="465"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00159C68D4">
+      <property type="source organism" value="Hippoglossus stenolepis"/>
+      <property type="NCBI taxonomy" value="195615"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00159C68D4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A665TG87"/>
+      <property type="length" value="423"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00159C36A8">
+      <property type="source organism" value="Hippoglossus stenolepis"/>
+      <property type="NCBI taxonomy" value="195615"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00159C36A8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A665TG87"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00148D0145">
+      <property type="source organism" value="Hippoglossus stenolepis"/>
+      <property type="NCBI taxonomy" value="195615"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00148D0145"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A665TG87"/>
+      <property type="length" value="456"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00147D0B92">
+      <property type="source organism" value="Pangasianodon hypophthalmus"/>
+      <property type="NCBI taxonomy" value="310915"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5N5MXX2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5N5MXX2"/>
+      <property type="length" value="449"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001879BC54">
+      <property type="source organism" value="Manis javanica"/>
+      <property type="NCBI taxonomy" value="9974"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001879BC54"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A340Y569"/>
+      <property type="length" value="430"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0017499132">
+      <property type="source organism" value="Myotis myotis"/>
+      <property type="NCBI taxonomy" value="51298"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0017499132"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="460"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00196B7368">
+      <property type="source organism" value="Pteropus giganteus"/>
+      <property type="NCBI taxonomy" value="143291"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00196B7368"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="516"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00192200AC">
+      <property type="source organism" value="Hyaena hyaena"/>
+      <property type="NCBI taxonomy" value="95912"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00192200AC"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013965237">
+      <property type="source organism" value="Halichoerus grypus"/>
+      <property type="NCBI taxonomy" value="9711"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013965237"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007A71A2E">
+      <property type="source organism" value="Miniopterus natalensis"/>
+      <property type="NCBI taxonomy" value="291302"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007A71A2E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E685C09">
+      <property type="source organism" value="Phyllostomus hastatus"/>
+      <property type="NCBI taxonomy" value="9423"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E685C09"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00046B8265">
+      <property type="source organism" value="Eptesicus fuscus"/>
+      <property type="NCBI taxonomy" value="29078"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00046B8265"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00156C1946">
+      <property type="source organism" value="Mirounga leonina"/>
+      <property type="NCBI taxonomy" value="9715"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00156C1946"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00138747A8">
+      <property type="source organism" value="Mustela erminea"/>
+      <property type="NCBI taxonomy" value="36723"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00138747A8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD5671D">
+      <property type="source organism" value="Lutra lutra"/>
+      <property type="NCBI taxonomy" value="9657"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD5671D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00101A8746">
+      <property type="source organism" value="Eptesicus fuscus"/>
+      <property type="NCBI taxonomy" value="29078"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00101A8746"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="460"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00196B4A78">
+      <property type="source organism" value="Pteropus giganteus"/>
+      <property type="NCBI taxonomy" value="143291"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X5"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00196B4A78"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="460"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005BE2A2E">
+      <property type="source organism" value="Pteropus giganteus"/>
+      <property type="NCBI taxonomy" value="143291"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X6"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0005BE2A2E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="432"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000703E294">
+      <property type="source organism" value="Myotis brandtii"/>
+      <property type="NCBI taxonomy" value="109478"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_S7PN05"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="345"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00196AD1FF">
+      <property type="source organism" value="Pteropus giganteus"/>
+      <property type="NCBI taxonomy" value="143291"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_H9FBF4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2U3XN12"/>
+      <property type="length" value="519"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D724155">
+      <property type="source organism" value="Pelodiscus sinensis"/>
+      <property type="NCBI taxonomy" value="13735"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000D724155"/>
+      <property type="UniRef90 ID" value="UniRef90_K7FF12"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D04A2C7">
+      <property type="source organism" value="Equus asinus"/>
+      <property type="NCBI taxonomy" value="9793"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D04A2C7"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="length" value="516"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E69F55A">
+      <property type="source organism" value="Meles meles"/>
+      <property type="NCBI taxonomy" value="9662"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E69F55A"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EE35467">
+      <property type="source organism" value="Equus quagga"/>
+      <property type="NCBI taxonomy" value="89248"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EE35467"/>
+      <property type="UniRef90 ID" value="UniRef90_F6V4B6"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0013C4D763">
+      <property type="source organism" value="Phocoena sinus"/>
+      <property type="NCBI taxonomy" value="42100"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0013C4D763"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001FD94C1C"/>
+      <property type="length" value="517"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD94C1C">
+      <property type="source organism" value="Phacochoerus africanus"/>
+      <property type="NCBI taxonomy" value="41426"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD94C1C"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001FD94C1C"/>
+      <property type="length" value="612"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000EA93A41">
+      <property type="source organism" value="Pseudonaja textilis"/>
+      <property type="NCBI taxonomy" value="8673"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000EA93A41"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="length" value="554"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000EA9B418">
+      <property type="source organism" value="Pseudonaja textilis"/>
+      <property type="NCBI taxonomy" value="8673"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000EA9B418"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="length" value="555"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000775A7F8">
+      <property type="source organism" value="Protobothrops mucrosquamatus"/>
+      <property type="NCBI taxonomy" value="103944"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000775A7F8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2D4MHU6"/>
+      <property type="length" value="455"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E263BBC">
+      <property type="source organism" value="Leopardus geoffroyi"/>
+      <property type="NCBI taxonomy" value="46844"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E263BBC"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CA89603">
+      <property type="source organism" value="Prionailurus bengalensis"/>
+      <property type="NCBI taxonomy" value="37029"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CA89603"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="469"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0002C64780">
+      <property type="source organism" value="Ceratotherium simum simum"/>
+      <property type="NCBI taxonomy" value="73337"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0002C64780"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00022356D4">
+      <property type="source organism" value="Loxodonta africana"/>
+      <property type="NCBI taxonomy" value="9785"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00022356D4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F126674">
+      <property type="source organism" value="Lynx rufus"/>
+      <property type="NCBI taxonomy" value="61384"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F126674"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C6F8458">
+      <property type="source organism" value="Panthera tigris"/>
+      <property type="NCBI taxonomy" value="9694"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C6F8458"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="463"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E1D3DCB">
+      <property type="source organism" value="Echinops telfairi"/>
+      <property type="NCBI taxonomy" value="9371"/>
+      <property type="protein name" value="putative sodium-coupled neutral amino acid transporter 7 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E1D3DCB"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A337S3G2"/>
+      <property type="length" value="438"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

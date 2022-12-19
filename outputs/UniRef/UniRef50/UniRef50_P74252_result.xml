@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_P74252" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Sodium-coupled permease</name>
+  <property type="member count" value="40"/>
+  <property type="common taxon" value="Bacteria"/>
+  <property type="common taxon ID" value="2"/>
+  <property type="GO Molecular Function" value="GO:0022857"/>
+  <property type="GO Cellular Component" value="GO:0016020"/>
+  <property type="GO Biological Process" value="GO:0006814"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="P74252_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00000D3519"/>
+      <property type="UniRef100 ID" value="UniRef100_P74252"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="UniProtKB accession" value="P74252"/>
+      <property type="length" value="512"/>
+    </dbReference>
+    <sequence length="512" checksum="3D9F3A9E9D1E9E8C">MGMIDWAIVLVYSAIVIAIGAIASRKQDNTDEYFRGAKQIPWWALGFSIIATSFSAASLLGGPGEGYGHGFLYLQLQLGDLIGYGLVIAVFLPFFVRLNLTTAYEYLERRFDAKTRSLGSLCFLLFVIARLGGLLYAAALVLSVLTGISTNTAILMVGVVSIIYTVAGGITAVVWTDVLQFGMIFVGLGAGIWAAVTAVPGGFGELWRIAGENGKLVVFNFDWDPASIRSLPTALIAYGILAFAVAGTNQQSVQRYVSCADEQSARKAIFLGWFSGVLGVGATLLLGVLLFSFYQLQGGLPGNIKPDEILSYFIVNQVPPGASGFLVAAIFAAAMSSIDSALHSLATCMTVDFYDRYINIQASEMRSVRVAQGLIIVWGVVAIFSAIYAASTGQDLLEFLVSYTTMFLGPLLGIFLMGVLFPRINALGAFYGTVAAVLLVIIASNAGWLTFPGIWRSAVTAPLAVLLALGISLFASAPTPKHLLGLTIWHPVTDAPGTNVVARPGADDQDLG</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A068MSL2_SYNY4">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))"/>
+      <property type="NCBI taxonomy" value="1147"/>
+      <property type="protein name" value="Sodium-solute symporter, putative"/>
+      <property type="UniParc ID" value="UPI000429D126"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A068MSL2"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="UniProtKB accession" value="A0A068MSL2"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P1VJJ2_9SYNC">
+      <property type="source organism" value="Synechocystis sp. CACIAM 05"/>
+      <property type="NCBI taxonomy" value="1933929"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00138E665B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P1VJJ2"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="UniProtKB accession" value="A0A6P1VJJ2"/>
+      <property type="length" value="512"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0YYK4_9CYAN">
+      <property type="source organism" value="Merismopedia sp. SIO2A8"/>
+      <property type="NCBI taxonomy" value="2607779"/>
+      <property type="protein name" value="Sodium:solute symporter"/>
+      <property type="UniParc ID" value="UPI0013B88EAC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P0YYK4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P0YYK4"/>
+      <property type="UniProtKB accession" value="A0A6P0YYK4"/>
+      <property type="length" value="497"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0M1JAB0_9GAMM">
+      <property type="source organism" value="Achromatium sp. WMS1"/>
+      <property type="NCBI taxonomy" value="1604834"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI0006C0167E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0M1JAB0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0M1JAB0"/>
+      <property type="UniProtKB accession" value="A0A0M1JAB0"/>
+      <property type="length" value="496"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3B8YGY7_9CYAN">
+      <property type="source organism" value="Cyanothece sp. UBA12306"/>
+      <property type="NCBI taxonomy" value="2055757"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI000EC4E4A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B8YGY7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B8YGY7"/>
+      <property type="UniProtKB accession" value="A0A3B8YGY7"/>
+      <property type="length" value="518"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A845WWX6_9CYAN">
+      <property type="source organism" value="Spirulina sp. SIO3F2"/>
+      <property type="NCBI taxonomy" value="2607816"/>
+      <property type="protein name" value="Sodium:solute symporter"/>
+      <property type="UniParc ID" value="UPI0013CB6EC1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A845WWX6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A845WWX6"/>
+      <property type="UniProtKB accession" value="A0A845WWX6"/>
+      <property type="length" value="510"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9YBD3_HALP7">
+      <property type="source organism" value="Halothece sp. (strain PCC 7418) (Synechococcus sp. (strain PCC 7418))"/>
+      <property type="NCBI taxonomy" value="65093"/>
+      <property type="protein name" value="SSS sodium solute transporter superfamily"/>
+      <property type="UniParc ID" value="UPI0002A064CC"/>
+      <property type="UniRef100 ID" value="UniRef100_K9YBD3"/>
+      <property type="UniRef90 ID" value="UniRef90_K9YBD3"/>
+      <property type="UniProtKB accession" value="K9YBD3"/>
+      <property type="length" value="506"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A846EK22_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis sp. SIO1G1"/>
+      <property type="NCBI taxonomy" value="2607814"/>
+      <property type="protein name" value="Sodium:solute symporter"/>
+      <property type="UniParc ID" value="UPI00142A4706"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A846EK22"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A846EK22"/>
+      <property type="UniProtKB accession" value="A0A846EK22"/>
+      <property type="length" value="507"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0ZMP8_9CYAN">
+      <property type="source organism" value="Sphaerospermopsis sp. SIO1G2"/>
+      <property type="NCBI taxonomy" value="2607815"/>
+      <property type="protein name" value="Sodium-coupled permease (Fragment)"/>
+      <property type="UniParc ID" value="UPI0013CB4F8D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A846EK22"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A846EK22"/>
+      <property type="UniProtKB accession" value="A0A6P0ZMP8"/>
+      <property type="length" value="223"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Z5SW69_9CYAN">
+      <property type="source organism" value="cyanobacterium endosymbiont of Rhopalodia gibberula"/>
+      <property type="NCBI taxonomy" value="1763363"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI000DC73ACB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2Z5SW69"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A077JF86"/>
+      <property type="UniProtKB accession" value="A0A2Z5SW69"/>
+      <property type="length" value="490"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A077JF86_9CYAN">
+      <property type="source organism" value="cyanobacterium endosymbiont of Epithemia turgida isolate EtSB Lake Yunoko"/>
+      <property type="NCBI taxonomy" value="1228987"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI0004D10A3A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A077JF86"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A077JF86"/>
+      <property type="UniProtKB accession" value="A0A077JF86"/>
+      <property type="length" value="490"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B4WI54_SYNS7">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 29403 / PCC 7335)"/>
+      <property type="NCBI taxonomy" value="91464"/>
+      <property type="protein name" value="Transporter, SSS family, putative"/>
+      <property type="UniParc ID" value="UPI00017ED568"/>
+      <property type="UniRef100 ID" value="UniRef100_B4WI54"/>
+      <property type="UniRef90 ID" value="UniRef90_B4WI54"/>
+      <property type="UniProtKB accession" value="B4WI54"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B1XK96_SYNP2">
+      <property type="source organism" value="Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) (Agmenellumquadruplicatum)"/>
+      <property type="NCBI taxonomy" value="32049"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00016DC791"/>
+      <property type="UniRef100 ID" value="UniRef100_B1XK96"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="UniProtKB accession" value="B1XK96"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B1TXE3_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 7117"/>
+      <property type="NCBI taxonomy" value="195498"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI000810721A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B1TXE3"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="UniProtKB accession" value="A0A1B1TXE3"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B1TNL1_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 7003"/>
+      <property type="NCBI taxonomy" value="374981"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00081061A9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B1TNL1"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="UniProtKB accession" value="A0A1B1TNL1"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4P8X2W2_9SYNE">
+      <property type="source organism" value="Synechococcus sp. PCC 11901"/>
+      <property type="NCBI taxonomy" value="2579791"/>
+      <property type="protein name" value="Sodium/solute symporter"/>
+      <property type="UniParc ID" value="UPI0010FC3921"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4P8X2W2"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="UniProtKB accession" value="A0A4P8X2W2"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P0TIJ0_9CYAN">
+      <property type="source organism" value="Cyanothece sp. SIO2G6"/>
+      <property type="NCBI taxonomy" value="2607797"/>
+      <property type="protein name" value="Sodium/solute symporter"/>
+      <property type="UniParc ID" value="UPI0013BE6ACB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P0TIJ0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P0TIJ0"/>
+      <property type="UniProtKB accession" value="A0A6P0TIJ0"/>
+      <property type="length" value="511"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q4R136_9CYAN">
+      <property type="source organism" value="Limnothrix rosea IAM M-220"/>
+      <property type="NCBI taxonomy" value="454133"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00095A201F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4R136"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4R136"/>
+      <property type="UniProtKB accession" value="A0A1Q4R136"/>
+      <property type="length" value="514"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q2TXL4_9SYNE">
+      <property type="source organism" value="Synechococcus sp. NIES-970"/>
+      <property type="NCBI taxonomy" value="1827144"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00097FBB95"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q2TXL4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q2TXL4"/>
+      <property type="UniProtKB accession" value="A0A1Q2TXL4"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9YYR5_DACSA">
+      <property type="source organism" value="Dactylococcopsis salina PCC 8305"/>
+      <property type="NCBI taxonomy" value="13035"/>
+      <property type="protein name" value="Na+/proline symporter"/>
+      <property type="UniParc ID" value="UPI0002A05F81"/>
+      <property type="UniRef100 ID" value="UniRef100_K9YYR5"/>
+      <property type="UniRef90 ID" value="UniRef90_K9YYR5"/>
+      <property type="UniProtKB accession" value="K9YYR5"/>
+      <property type="length" value="512"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2W4ZJ79_9CYAN">
+      <property type="source organism" value="Phormidesmis priestleyi"/>
+      <property type="NCBI taxonomy" value="268141"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI000DB38521"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2W4ZJ79"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2W4ZJ79"/>
+      <property type="UniProtKB accession" value="A0A2W4ZJ79"/>
+      <property type="length" value="502"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B0C166_ACAM1">
+      <property type="source organism" value="Acaryochloris marina (strain MBIC 11017)"/>
+      <property type="NCBI taxonomy" value="329726"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI00015DD3D6"/>
+      <property type="UniRef100 ID" value="UniRef100_B0C166"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C166"/>
+      <property type="UniProtKB accession" value="B0C166"/>
+      <property type="length" value="491"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="K9Q108_9CYAN">
+      <property type="source organism" value="Leptolyngbya sp. PCC 7376"/>
+      <property type="NCBI taxonomy" value="111781"/>
+      <property type="protein name" value="SSS sodium solute transporter superfamily"/>
+      <property type="UniParc ID" value="UPI00029F44FA"/>
+      <property type="UniRef100 ID" value="UniRef100_K9Q108"/>
+      <property type="UniRef90 ID" value="UniRef90_K9Q108"/>
+      <property type="UniProtKB accession" value="K9Q108"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0M1JA36_9GAMM">
+      <property type="source organism" value="Achromatium sp. WMS3"/>
+      <property type="NCBI taxonomy" value="1604836"/>
+      <property type="protein name" value="Sodium-coupled permease (Fragment)"/>
+      <property type="UniParc ID" value="UPI0006C594E7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0M1JA36"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0M1JA36"/>
+      <property type="UniProtKB accession" value="A0A0M1JA36"/>
+      <property type="length" value="474"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3M2F8K7_9BACT">
+      <property type="source organism" value="Candidatus Hydrogenedentes bacterium"/>
+      <property type="NCBI taxonomy" value="2030809"/>
+      <property type="protein name" value="Sodium-coupled permease"/>
+      <property type="UniParc ID" value="UPI000F1EC26C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3M2F8K7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3M2F8K7"/>
+      <property type="UniProtKB accession" value="A0A3M2F8K7"/>
+      <property type="length" value="536"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00030BD109">
+      <property type="source organism" value="Synechocystis sp. PCC 6803"/>
+      <property type="NCBI taxonomy" value="1148"/>
+      <property type="protein name" value="sodium/solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_P74252"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="length" value="510"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001686F180">
+      <property type="source organism" value="Synechocystis"/>
+      <property type="NCBI taxonomy" value="1142"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001686F180"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018801616">
+      <property type="source organism" value="Synechocystis sp. LEGE 06083"/>
+      <property type="NCBI taxonomy" value="915336"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018801616"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CC07F49">
+      <property type="source organism" value="Synechocystis sp. PCC 7339"/>
+      <property type="NCBI taxonomy" value="2782213"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CC07F49"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001880C9E1">
+      <property type="source organism" value="Synechocystis salina"/>
+      <property type="NCBI taxonomy" value="945780"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001880C9E1"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB0446D">
+      <property type="source organism" value="Synechocystis sp. PCC 7338"/>
+      <property type="NCBI taxonomy" value="2732530"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB0446D"/>
+      <property type="UniRef90 ID" value="UniRef90_P74252"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018827E1B">
+      <property type="source organism" value="cf. Phormidesmis sp. LEGE 11477"/>
+      <property type="NCBI taxonomy" value="1828680"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018827E1B"/>
+      <property type="UniRef90 ID" value="UniRef90_B4WI54"/>
+      <property type="length" value="494"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EDFAB87">
+      <property type="source organism" value="Nostoc sp. UHCC 0870"/>
+      <property type="NCBI taxonomy" value="2914041"/>
+      <property type="protein name" value="sodium/solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EDFAB87"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001EDFAB87"/>
+      <property type="length" value="512"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0008104AD7">
+      <property type="source organism" value="Synechococcus sp. PCC 8807"/>
+      <property type="NCBI taxonomy" value="195248"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0008104AD7"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004AB192E">
+      <property type="source organism" value="unclassified Synechococcus"/>
+      <property type="NCBI taxonomy" value="2626047"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004AB192E"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000C075412">
+      <property type="source organism" value="Synechococcus sp. BDU 130192"/>
+      <property type="NCBI taxonomy" value="2042059"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000C075412"/>
+      <property type="UniRef90 ID" value="UniRef90_B1XK96"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003F7EF44">
+      <property type="source organism" value="Synechococcus sp. NKBG15041c"/>
+      <property type="NCBI taxonomy" value="1407650"/>
+      <property type="protein name" value="sodium:solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003F7EF44"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q2TXL4"/>
+      <property type="length" value="513"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021C3320B">
+      <property type="source organism" value="Acaryochloris marina"/>
+      <property type="NCBI taxonomy" value="155978"/>
+      <property type="protein name" value="sodium/solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021C3320B"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C166"/>
+      <property type="length" value="491"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EEA6916">
+      <property type="source organism" value="Acaryochloris sp. 'Moss Beach'"/>
+      <property type="NCBI taxonomy" value="2740837"/>
+      <property type="protein name" value="sodium/solute symporter"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EEA6916"/>
+      <property type="UniRef90 ID" value="UniRef90_B0C166"/>
+      <property type="length" value="491"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

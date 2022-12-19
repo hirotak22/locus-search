@@ -1,0 +1,854 @@
+{
+    "from": "100328693",
+    "to": {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "B7NZF9",
+        "secondaryAccessions": [
+            "G1TXI1"
+        ],
+        "uniProtkbId": "B7NZF9_RABIT",
+        "entryAudit": {
+            "firstPublicDate": "2009-02-10",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "2009-02-10",
+            "entryVersion": 62,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 2.0,
+        "organism": {
+            "scientificName": "Oryctolagus cuniculus",
+            "commonName": "Rabbit",
+            "taxonId": 9986,
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "EMBL",
+                    "id": "ACJ76596.1"
+                }
+            ],
+            "lineage": [
+                "Eukaryota",
+                "Metazoa",
+                "Chordata",
+                "Craniata",
+                "Vertebrata",
+                "Euteleostomi",
+                "Mammalia",
+                "Eutheria",
+                "Euarchontoglires",
+                "Glires",
+                "Lagomorpha",
+                "Leporidae",
+                "Oryctolagus"
+            ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "proteinDescription": {
+            "recommendedName": {
+                "fullName": {
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000256",
+                            "source": "ARBA",
+                            "id": "ARBA00020749"
+                        }
+                    ],
+                    "value": "Nucleophosmin"
+                }
+            }
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000313",
+                            "source": "EMBL",
+                            "id": "ACJ76596.1"
+                        },
+                        {
+                            "evidenceCode": "ECO:0000313",
+                            "source": "Ensembl",
+                            "id": "ENSOCUP00000021783.2"
+                        }
+                    ],
+                    "value": "NPM1"
+                }
+            }
+        ],
+        "comments": [
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000256",
+                                "source": "ARBA",
+                                "id": "ARBA00010744"
+                            }
+                        ],
+                        "value": "Belongs to the nucleoplasmin family"
+                    }
+                ],
+                "commentType": "SIMILARITY"
+            }
+        ],
+        "features": [
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 18,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 117,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Nucleoplasmin",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF03066"
+                    }
+                ]
+            },
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 244,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 292,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "NPM1-C",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF16276"
+                    }
+                ]
+            },
+            {
+                "type": "Region",
+                "location": {
+                    "start": {
+                        "value": 120,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 245,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Disordered",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "SAM",
+                        "id": "MobiDB-lite"
+                    }
+                ]
+            },
+            {
+                "type": "Compositional bias",
+                "location": {
+                    "start": {
+                        "value": 162,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 186,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Acidic residues",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "SAM",
+                        "id": "MobiDB-lite"
+                    }
+                ]
+            },
+            {
+                "type": "Compositional bias",
+                "location": {
+                    "start": {
+                        "value": 201,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 217,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Polar residues",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "SAM",
+                        "id": "MobiDB-lite"
+                    }
+                ]
+            },
+            {
+                "type": "Compositional bias",
+                "location": {
+                    "start": {
+                        "value": 218,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 235,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Basic and acidic residues",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "SAM",
+                        "id": "MobiDB-lite"
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "ARBA",
+                        "id": "ARBA00023186"
+                    }
+                ],
+                "id": "KW-0143",
+                "category": "Molecular function",
+                "name": "Chaperone"
+            },
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "ARBA",
+                        "id": "ARBA00023242"
+                    }
+                ],
+                "id": "KW-0539",
+                "category": "Cellular component",
+                "name": "Nucleus"
+            },
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "ARBA",
+                        "id": "ARBA00022553"
+                    }
+                ],
+                "id": "KW-0597",
+                "category": "PTM",
+                "name": "Phosphoprotein"
+            },
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001811"
+                    }
+                ],
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "CI-6OE2EOO25ES7I",
+                    "citationType": "submission",
+                    "authors": [
+                        "Antonellis A.",
+                        "Benjamin B.",
+                        "Blakesley R.W.",
+                        "Bouffard G.G.",
+                        "Brinkley C.",
+                        "Brooks S.",
+                        "Chu G.",
+                        "Chub I.",
+                        "Coleman H.",
+                        "Fuksenko T.",
+                        "Gestole M.",
+                        "Gregory M.",
+                        "Guan X.",
+                        "Gupta J.",
+                        "Gurson N.",
+                        "Han E.",
+                        "Han J.",
+                        "Hansen N.",
+                        "Hargrove A.",
+                        "Hines-Harris K.",
+                        "Ho S.-L.",
+                        "Hu P.",
+                        "Hunter G.",
+                        "Hurle B.",
+                        "Idol J.R.",
+                        "Johnson T.",
+                        "Knight E.",
+                        "Kwong P.",
+                        "Lee-Lin S.-Q.",
+                        "Legaspi R.",
+                        "Madden M.",
+                        "Maduro Q.L.",
+                        "Maduro V.B.",
+                        "Margulies E.H.",
+                        "Masiello C.",
+                        "Maskeri B.",
+                        "McDowell J.",
+                        "Merkulov G.",
+                        "Montemayor C.",
+                        "Mullikin J.C.",
+                        "Park M.",
+                        "Prasad A.",
+                        "Ramsahoye C.",
+                        "Reddix-Dugue N.",
+                        "Riebow N.",
+                        "Schandler K.",
+                        "Schueler M.G.",
+                        "Sison C.",
+                        "Smith L.",
+                        "Stantripop S.",
+                        "Thomas J.W.",
+                        "Thomas P.J.",
+                        "Tsipouri V.",
+                        "Young A.",
+                        "Green E.D."
+                    ],
+                    "title": "NISC Comparative Sequencing Initiative.",
+                    "publicationDate": "DEC-2008",
+                    "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE"
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "EMBL",
+                        "id": "ACJ76596.1"
+                    }
+                ]
+            },
+            {
+                "citation": {
+                    "id": "21993624",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Lindblad-Toh K.",
+                        "Garber M.",
+                        "Zuk O.",
+                        "Lin M.F.",
+                        "Parker B.J.",
+                        "Washietl S.",
+                        "Kheradpour P.",
+                        "Ernst J.",
+                        "Jordan G.",
+                        "Mauceli E.",
+                        "Ward L.D.",
+                        "Lowe C.B.",
+                        "Holloway A.K.",
+                        "Clamp M.",
+                        "Gnerre S.",
+                        "Alfoldi J.",
+                        "Beal K.",
+                        "Chang J.",
+                        "Clawson H.",
+                        "Cuff J.",
+                        "Di Palma F.",
+                        "Fitzgerald S.",
+                        "Flicek P.",
+                        "Guttman M.",
+                        "Hubisz M.J.",
+                        "Jaffe D.B.",
+                        "Jungreis I.",
+                        "Kent W.J.",
+                        "Kostka D.",
+                        "Lara M.",
+                        "Martins A.L.",
+                        "Massingham T.",
+                        "Moltke I.",
+                        "Raney B.J.",
+                        "Rasmussen M.D.",
+                        "Robinson J.",
+                        "Stark A.",
+                        "Vilella A.J.",
+                        "Wen J.",
+                        "Xie X.",
+                        "Zody M.C.",
+                        "Baldwin J.",
+                        "Bloom T.",
+                        "Chin C.W.",
+                        "Heiman D.",
+                        "Nicol R.",
+                        "Nusbaum C.",
+                        "Young S.",
+                        "Wilkinson J.",
+                        "Worley K.C.",
+                        "Kovar C.L.",
+                        "Muzny D.M.",
+                        "Gibbs R.A.",
+                        "Cree A.",
+                        "Dihn H.H.",
+                        "Fowler G.",
+                        "Jhangiani S.",
+                        "Joshi V.",
+                        "Lee S.",
+                        "Lewis L.R.",
+                        "Nazareth L.V.",
+                        "Okwuonu G.",
+                        "Santibanez J.",
+                        "Warren W.C.",
+                        "Mardis E.R.",
+                        "Weinstock G.M.",
+                        "Wilson R.K.",
+                        "Delehaunty K.",
+                        "Dooling D.",
+                        "Fronik C.",
+                        "Fulton L.",
+                        "Fulton B.",
+                        "Graves T.",
+                        "Minx P.",
+                        "Sodergren E.",
+                        "Birney E.",
+                        "Margulies E.H.",
+                        "Herrero J.",
+                        "Green E.D.",
+                        "Haussler D.",
+                        "Siepel A.",
+                        "Goldman N.",
+                        "Pollard K.S.",
+                        "Pedersen J.S.",
+                        "Lander E.S.",
+                        "Kellis M."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "21993624"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1038/nature10530"
+                        }
+                    ],
+                    "title": "A high-resolution map of human evolutionary constraint using 29 mammals.",
+                    "publicationDate": "2011",
+                    "journal": "Nature",
+                    "firstPage": "476",
+                    "lastPage": "482",
+                    "volume": "478"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Ensembl",
+                                "id": "ENSOCUP00000021783.2"
+                            },
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Proteomes",
+                                "id": "UP000001811"
+                            }
+                        ],
+                        "value": "Thorbecke inbred",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Ensembl",
+                        "id": "ENSOCUP00000021783.2"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001811"
+                    }
+                ]
+            },
+            {
+                "citation": {
+                    "id": "CI-20IMDPQG5Q1VJ",
+                    "citationType": "submission",
+                    "authoringGroup": [
+                        "Ensembl"
+                    ],
+                    "publicationDate": "AUG-2022",
+                    "submissionDatabase": "UniProtKB"
+                },
+                "referencePositions": [
+                    "IDENTIFICATION"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Ensembl",
+                                "id": "ENSOCUP00000021783.2"
+                            }
+                        ],
+                        "value": "Thorbecke",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Ensembl",
+                        "id": "ENSOCUP00000021783.2"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "AAGW02052950",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "-"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "NOT_ANNOTATED_CDS"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "EMBL",
+                "id": "DP001037",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "ACJ76596.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "RefSeq",
+                "id": "NP_001164790.1",
+                "properties": [
+                    {
+                        "key": "NucleotideSequenceId",
+                        "value": "NM_001171319.1"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "B7NZF9",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "9986.ENSOCUP00000021783",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Ensembl",
+                "id": "ENSOCUT00000022268.2",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "ENSOCUP00000021783.2"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "ENSOCUG00000021499.2"
+                    }
+                ]
+            },
+            {
+                "database": "GeneID",
+                "id": "100328693",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "ocu:100328693",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "CTD",
+                "id": "4869",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "KOG0488",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Eukaryota"
+                    }
+                ]
+            },
+            {
+                "database": "GeneTree",
+                "id": "ENSGT00940000153052",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "HOGENOM",
+                "id": "CLU_058838_0_0_1",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OrthoDB",
+                "id": "1485080at2759",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "TreeFam",
+                "id": "TF327704",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001811",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome 5"
+                    }
+                ]
+            },
+            {
+                "database": "Bgee",
+                "id": "ENSOCUG00000021499",
+                "properties": [
+                    {
+                        "key": "ExpressionPatterns",
+                        "value": "Expressed in blood and 13 other tissues"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0005634",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "C:nucleus"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-KW"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0003676",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:nucleic acid binding"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR032569",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "NPM1_C"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR004301",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Nucleoplasmin"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR024057",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Nucleoplasmin_core_dom"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR036824",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Nucleoplasmin_core_dom_sf"
+                    }
+                ]
+            },
+            {
+                "database": "PANTHER",
+                "id": "PTHR22747",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "NUCLEOPLASMIN"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF16276",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "NPM1-C"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF03066",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Nucleoplasmin"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF69203",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Nucleoplasmin-like core domain"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MEDSMDMDMSPLRPQNYLFGCELKADKDYHFKVDNDENEHQLSLRTVSLGAGAKDELHIVEAEAMNYEGSPIKVTLATLKMSVQPTVSLGGFEITPPVVLRLKCGSGPVHISGQHLVAVEEDAESEDEEEEDVKLLSISGKRSAPGGGSKVPQKKVKLAAEEDDEDDDDDDDDEDDDDDDFDEEEAEEKAPVKKSIRDTPAKNAQKSNQNGKDSKPSTPRSKGQESFKKQEKTPKTPKGPTSVEDIKAKMQASIEKGGSLPKVEAKFINYVKNCFRMTDQEAIQDLWQWRKSLKENSLNSLLKFSILFHFCNS",
+            "length": 313,
+            "molWeight": 34840,
+            "crc64": "1C08266B71E49E52",
+            "md5": "618BA8D869D8365E0F61BDFB1B73CA74"
+        },
+        "extraAttributes": {
+            "countByCommentType": {
+                "SIMILARITY": 1
+            },
+            "countByFeatureType": {
+                "Domain": 2,
+                "Region": 1,
+                "Compositional bias": 3
+            },
+            "uniParcId": "UPI00018EDB48"
+        }
+    }
+}

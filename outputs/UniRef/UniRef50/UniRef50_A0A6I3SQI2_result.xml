@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_A0A6I3SQI2" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Doublecortin domain-containing protein</name>
+  <property type="member count" value="57"/>
+  <property type="common taxon" value="Bacteria"/>
+  <property type="common taxon ID" value="2"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A6I3SQI2_HELMO">
+      <property type="source organism" value="Heliobacterium mobile (Heliobacillus mobilis)"/>
+      <property type="NCBI taxonomy" value="28064"/>
+      <property type="protein name" value="Doublecortin domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0012D73B93"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I3SQI2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6I3SQI2"/>
+      <property type="UniProtKB accession" value="A0A6I3SQI2"/>
+      <property type="length" value="137"/>
+    </dbReference>
+    <sequence length="137" checksum="7DDB8E3BAE59DBB2">MQRAYRVNYQASVVEGERSNAHRLLLFYAVECGLKAILLLRKGEDYSNGSKVVELFGRISHNINALLDELRAGVELHLPSTKMRKIRYSDGNEYERHVCSKEYNQMWRYGGTSDTLEDSVLEGKLENILRWIEGELR</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A433VU94_9CYAN">
+      <property type="source organism" value="Calothrix desertica PCC 7102"/>
+      <property type="NCBI taxonomy" value="232991"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000FBDFC46"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A433VU94"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A433VU94"/>
+      <property type="UniProtKB accession" value="A0A433VU94"/>
+      <property type="length" value="143"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="P74274_SYNY3">
+      <property type="source organism" value="Synechocystis sp. (strain PCC 6803 / Kazusa)"/>
+      <property type="NCBI taxonomy" value="1111708"/>
+      <property type="protein name" value="Sll1562 protein"/>
+      <property type="UniParc ID" value="UPI00000C0E47"/>
+      <property type="UniRef100 ID" value="UniRef100_P74274"/>
+      <property type="UniRef90 ID" value="UniRef90_P74274"/>
+      <property type="UniProtKB accession" value="P74274"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A252D333_9NOSO">
+      <property type="source organism" value="Nostoc sp. T09"/>
+      <property type="NCBI taxonomy" value="1932621"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000A3CFE40"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A252D333"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A252D333"/>
+      <property type="UniProtKB accession" value="A0A252D333"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A350Y230_9CYAN">
+      <property type="source organism" value="Cyanobacteria bacterium UBA11370"/>
+      <property type="NCBI taxonomy" value="2055769"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000E8BD429"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A350Y230"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A350Y230"/>
+      <property type="UniProtKB accession" value="A0A350Y230"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552DRD0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_SC_T_19800800_S464"/>
+      <property type="NCBI taxonomy" value="2486257"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001197FEFB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552DRD0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A552I528"/>
+      <property type="UniProtKB accession" value="A0A552DRD0"/>
+      <property type="length" value="143"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A551ZWD4_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_AC_P_19900807_S299"/>
+      <property type="NCBI taxonomy" value="2486264"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001197FEFB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552DRD0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A552I528"/>
+      <property type="UniProtKB accession" value="A0A551ZWD4"/>
+      <property type="length" value="143"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552I528_MICVR">
+      <property type="source organism" value="Microcystis viridis Mv_BB_P_19951000_S68D"/>
+      <property type="NCBI taxonomy" value="2486270"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001195B7EE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552I528"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A552I528"/>
+      <property type="UniProtKB accession" value="A0A552I528"/>
+      <property type="length" value="143"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552M6Y2_9CHRO">
+      <property type="source organism" value="Microcystis wesenbergii Mw_MB_S_20031200_S109D"/>
+      <property type="NCBI taxonomy" value="2486241"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001195B7EE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552I528"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A552I528"/>
+      <property type="UniProtKB accession" value="A0A552M6Y2"/>
+      <property type="length" value="143"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A857D511_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa FD4"/>
+      <property type="NCBI taxonomy" value="2686288"/>
+      <property type="protein name" value="Coil containing protein"/>
+      <property type="UniParc ID" value="UPI001303EDDD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A857D511"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A552I528"/>
+      <property type="UniProtKB accession" value="A0A857D511"/>
+      <property type="length" value="138"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1W9MWQ4_9DELT">
+      <property type="source organism" value="Desulfobacteraceae bacterium IS3"/>
+      <property type="NCBI taxonomy" value="1934248"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000A0C4246"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1W9MWQ4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1W9MWQ4"/>
+      <property type="UniProtKB accession" value="A0A1W9MWQ4"/>
+      <property type="length" value="144"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B0JUD5_MICAN">
+      <property type="source organism" value="Microcystis aeruginosa (strain NIES-843 / IAM M-2473)"/>
+      <property type="NCBI taxonomy" value="449447"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI000163EE46"/>
+      <property type="UniRef100 ID" value="UniRef100_B0JUD5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="B0JUD5"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3G9K4I5_MICVR">
+      <property type="source organism" value="Microcystis viridis NIES-102"/>
+      <property type="NCBI taxonomy" value="213615"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI0005A056DB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3G9K4I5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A3G9K4I5"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I4IQ92_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 9701"/>
+      <property type="NCBI taxonomy" value="721123"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI0002620ED7"/>
+      <property type="UniRef100 ID" value="UniRef100_I4IQ92"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="I4IQ92"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0M4G8_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa TA09"/>
+      <property type="NCBI taxonomy" value="2060472"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI000E39B207"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0M4G8"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A3E0M4G8"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A402DGA7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-4285"/>
+      <property type="NCBI taxonomy" value="2497681"/>
+      <property type="protein name" value="Conjugal transfer protein TrbC"/>
+      <property type="UniParc ID" value="UPI000FF92FD1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A402DGA7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A402DGA7"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A139GPA1_MICA8">
+      <property type="source organism" value="Microcystis aeruginosa (strain NIES-88 / KW-MA1-3)"/>
+      <property type="NCBI taxonomy" value="449441"/>
+      <property type="protein name" value="Conjugal transfer protein TraN"/>
+      <property type="UniParc ID" value="UPI000776477C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A139GPA1"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A139GPA1"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A841UK09_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa BLCC-F108"/>
+      <property type="NCBI taxonomy" value="2755317"/>
+      <property type="protein name" value="Conjugal transfer protein TraN"/>
+      <property type="UniParc ID" value="UPI000776477C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A139GPA1"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A841UK09"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552EW02_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_MB_F_20061100_S20D"/>
+      <property type="NCBI taxonomy" value="2486253"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI00118EA874"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552EW02"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A552EW02"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H9GIY5_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-3787"/>
+      <property type="NCBI taxonomy" value="2517782"/>
+      <property type="protein name" value="Conjugal transfer protein TrbC"/>
+      <property type="UniParc ID" value="UPI000E37544B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H9GIY5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A6H9GIY5"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0LXR2_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa DA14"/>
+      <property type="NCBI taxonomy" value="1987506"/>
+      <property type="protein name" value="Conjugal transfer protein TrbC"/>
+      <property type="UniParc ID" value="UPI000E37544B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H9GIY5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A3E0LXR2"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3N0WGS4_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa FACHB-524"/>
+      <property type="NCBI taxonomy" value="2486203"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI000F459EDF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3N0WGS4"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A3N0WGS4"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6H9G7N8_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-3806"/>
+      <property type="NCBI taxonomy" value="2517784"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI00130635E4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6H9G7N8"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A6H9G7N8"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="L7E7J0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa TAIHU98"/>
+      <property type="NCBI taxonomy" value="1134457"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI000261A9E9"/>
+      <property type="UniRef100 ID" value="UniRef100_L7E7J0"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="L7E7J0"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A822L9T0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 9432"/>
+      <property type="NCBI taxonomy" value="1160280"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI000261A9E9"/>
+      <property type="UniRef100 ID" value="UniRef100_L7E7J0"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A822L9T0"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1E4QAK8_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-98"/>
+      <property type="NCBI taxonomy" value="267869"/>
+      <property type="protein name" value="Mobile element protein"/>
+      <property type="UniParc ID" value="UPI00086F867D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1E4QAK8"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="UniProtKB accession" value="A0A1E4QAK8"/>
+      <property type="length" value="140"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3E0LM61_9CHRO">
+      <property type="source organism" value="Microcystis flos-aquae DF17"/>
+      <property type="NCBI taxonomy" value="2060470"/>
+      <property type="protein name" value="Uncharacterized protein"/>
+      <property type="UniParc ID" value="UPI000E378E4A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3E0LM61"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3E0LM61"/>
+      <property type="UniProtKB accession" value="A0A3E0LM61"/>
+      <property type="length" value="158"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1Q4RCI0_9CYAN">
+      <property type="source organism" value="Calothrix sp. HK-06"/>
+      <property type="NCBI taxonomy" value="1137096"/>
+      <property type="protein name" value="HEPN domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000935714C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4RCI0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4RCI0"/>
+      <property type="UniProtKB accession" value="A0A1Q4RCI0"/>
+      <property type="length" value="147"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D5QXR7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="Transposase"/>
+      <property type="UniParc ID" value="UPI000A848639"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D5QXR7"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="UniProtKB accession" value="A0A8D5QXR7"/>
+      <property type="length" value="166"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I4GEN7_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa PCC 7941"/>
+      <property type="NCBI taxonomy" value="213618"/>
+      <property type="protein name" value="Conjugal transfer protein"/>
+      <property type="UniParc ID" value="UPI000261AD20"/>
+      <property type="UniRef100 ID" value="UniRef100_I4GEN7"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="UniProtKB accession" value="I4GEN7"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A551Z8T1_9CHRO">
+      <property type="source organism" value="Microcystis sp. M_QC_C_20170808_M3Col"/>
+      <property type="NCBI taxonomy" value="2486216"/>
+      <property type="protein name" value="Uncharacterized protein"/>
+      <property type="UniParc ID" value="UPI001190D26B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A551Z8T1"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="UniProtKB accession" value="A0A551Z8T1"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5A5RMD2_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa NIES-2520"/>
+      <property type="NCBI taxonomy" value="2303982"/>
+      <property type="protein name" value="Uncharacterized protein"/>
+      <property type="UniParc ID" value="UPI001230CE93"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5A5RMD2"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="UniProtKB accession" value="A0A5A5RMD2"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A552AYY0_MICAE">
+      <property type="source organism" value="Microcystis aeruginosa Ma_OC_H_19870700_S124"/>
+      <property type="NCBI taxonomy" value="2486262"/>
+      <property type="protein name" value="DUF4276 family protein"/>
+      <property type="UniParc ID" value="UPI001191A765"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A552AYY0"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="UniProtKB accession" value="A0A552AYY0"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001A9ACB93">
+      <property type="source organism" value="Heliobacterium mobile"/>
+      <property type="NCBI taxonomy" value="28064"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I3SQI2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6I3SQI2"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00187EC399">
+      <property type="source organism" value="Leptolyngbya ectocarpi"/>
+      <property type="NCBI taxonomy" value="1202"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00187EC399"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00187EC399"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C8CEFEB">
+      <property type="source organism" value="Desmonostoc muscorum"/>
+      <property type="NCBI taxonomy" value="1179"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C8CEFEB"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001C8CEFEB"/>
+      <property type="length" value="149"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001683AA09">
+      <property type="source organism" value="Nostoc punctiforme"/>
+      <property type="NCBI taxonomy" value="272131"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001683AA09"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001683AA09"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E34D77E">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E34D77E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A552I528"/>
+      <property type="length" value="135"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018F01BCF">
+      <property type="source organism" value="Microcystis viridis"/>
+      <property type="NCBI taxonomy" value="44822"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018F01BCF"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F325D5A">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F325D5A"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="174"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020B15D53">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020B15D53"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="166"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001CB77DD7">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001CB77DD7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="166"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018EFC14A">
+      <property type="source organism" value="Microcystis wesenbergii"/>
+      <property type="NCBI taxonomy" value="44823"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018EFC14A"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020B161BD">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020B161BD"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D136F3D">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D136F3D"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EE780B7">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EE780B7"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="153"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00210D60B1">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00210D60B1"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="153"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002181EA9A">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002181EA9A"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="153"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020B159A5">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020B159A5"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="140"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E4C9C55">
+      <property type="source organism" value="Microcystis"/>
+      <property type="NCBI taxonomy" value="1125"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E4C9C55"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="140"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020A3AA1C">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020A3AA1C"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="140"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001EFBDB7E">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001EFBDB7E"/>
+      <property type="UniRef90 ID" value="UniRef90_B0JUD5"/>
+      <property type="length" value="140"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000A9A47CC">
+      <property type="source organism" value="Calothrix sp. HK-06"/>
+      <property type="NCBI taxonomy" value="1137096"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1Q4RCI0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1Q4RCI0"/>
+      <property type="length" value="146"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021A2C376">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021A2C376"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0020A4809E">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0020A4809E"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="length" value="172"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018EF75F0">
+      <property type="source organism" value="Microcystis aeruginosa"/>
+      <property type="NCBI taxonomy" value="1126"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018EF75F0"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="length" value="164"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F54B878">
+      <property type="source organism" value="Microcystis flos-aquae"/>
+      <property type="NCBI taxonomy" value="109615"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F54B878"/>
+      <property type="UniRef90 ID" value="UniRef90_I4GEN7"/>
+      <property type="length" value="154"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

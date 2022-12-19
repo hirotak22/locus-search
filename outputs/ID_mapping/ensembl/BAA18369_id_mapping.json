@@ -1,0 +1,853 @@
+{
+    "from": "BAA18369",
+    "to": {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "P74275",
+        "uniProtkbId": "P74275_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "1997-02-01",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1997-02-01",
+            "entryVersion": 136,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 2.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "EMBL",
+                    "id": "BAA18369.1"
+                },
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "Proteomes",
+                    "id": "UP000001425"
+                }
+            ],
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "proteinDescription": {
+            "submissionNames": [
+                {
+                    "fullName": {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "EMBL",
+                                "id": "BAA18369.1"
+                            }
+                        ],
+                        "value": "Delta-1-pyrroline-5-carboxylate dehydrogenase"
+                    }
+                }
+            ]
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000313",
+                            "source": "EMBL",
+                            "id": "BAA18369.1"
+                        }
+                    ],
+                    "value": "putA"
+                }
+            }
+        ],
+        "comments": [
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000256",
+                                "source": "RuleBase",
+                                "id": "RU003345"
+                            }
+                        ],
+                        "value": "Belongs to the aldehyde dehydrogenase family"
+                    }
+                ],
+                "commentType": "SIMILARITY"
+            }
+        ],
+        "features": [
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 12,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 127,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "PutA_N",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF18083"
+                    }
+                ]
+            },
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 136,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 442,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Pro_dh",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF01619"
+                    }
+                ]
+            },
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 514,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 973,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Aldedh",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF00171"
+                    }
+                ]
+            },
+            {
+                "type": "Active site",
+                "location": {
+                    "start": {
+                        "value": 749,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 749,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "PIRSR",
+                        "id": "PIRSR000197-1"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "PROSITE-ProRule",
+                        "id": "PRU10007"
+                    }
+                ]
+            },
+            {
+                "type": "Active site",
+                "location": {
+                    "start": {
+                        "value": 783,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 783,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "PIRSR",
+                        "id": "PIRSR000197-1"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "PROSITE-ProRule",
+                        "id": "PRU10008"
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "ARBA",
+                        "id": "ARBA00023002"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000256",
+                        "source": "RuleBase",
+                        "id": "RU003345"
+                    }
+                ],
+                "id": "KW-0560",
+                "category": "Molecular function",
+                "name": "Oxidoreductase"
+            },
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001425"
+                    }
+                ],
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Proteomes",
+                                "id": "UP000001425"
+                            }
+                        ],
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "EMBL",
+                        "id": "BAA18369.1"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001425"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18369.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S75910",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S75910"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "P74275",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "P74275",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653455",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "P74275",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18369",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18369"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18369"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1561",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG0506",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG1012",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "P74275",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "PPWNFPV",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PhylomeDB",
+                "id": "P74275",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0009898",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "C:cytoplasmic side of plasma membrane"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IBA:GO_Central"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000318",
+                        "source": "PubMed",
+                        "id": "21873635"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0003842",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:1-pyrroline-5-carboxylate dehydrogenase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IBA:GO_Central"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000318",
+                        "source": "PubMed",
+                        "id": "21873635"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0003700",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:DNA-binding transcription factor activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0004657",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:proline dehydrogenase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0010133",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:proline catabolic process to glutamate"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IBA:GO_Central"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000318",
+                        "source": "PubMed",
+                        "id": "21873635"
+                    }
+                ]
+            },
+            {
+                "database": "CDD",
+                "id": "cd07124",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ALDH_PutA-P5CDH-RocA"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "3.40.309.10",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "3.40.605.10",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR016161",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Ald_DH/histidinol_DH"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR016163",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Ald_DH_C"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR016160",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Ald_DH_CS_CYS"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR029510",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Ald_DH_CS_GLU"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR016162",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Ald_DH_N"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR015590",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Aldehyde_DH_dom"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR025703",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Bifunct_PutA"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR029041",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD-linked_oxidoreductase-like"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR002872",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Proline_DH_dom"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR041514",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "PutA_N"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR005932",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "RocA"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF00171",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Aldedh"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF01619",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Pro_dh"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF18083",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "PutA_N"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PIRSF",
+                "id": "PIRSF000197",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Bifunct_PutA"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF53720",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ALDH-like"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF51730",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD-linked oxidoreductase"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "TIGRFAMs",
+                "id": "TIGR01237",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "D1pyr5carbox2"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PROSITE",
+                "id": "PS00070",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ALDEHYDE_DEHYDR_CYS"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PROSITE",
+                "id": "PS00687",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ALDEHYDE_DEHYDR_GLU"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MVAQIDSQQQYEQATQAIAKELLAQTREKRSLWDKIGDNLRLDDKLLDWTMGHPGLRVQLFKFIDCLPALQSNSEIANHLQQYMSEEEVELPEALKKLLNFADAHSTPAQIAAGTVSKATEQLAFKYIAGETIAQVIKTVERLRKEKMGFTIDLLGEAVITESEAAEYWQNYLDLMAQLSQQAKSWSKVPQIDQADGEILPQVQVSVKLTAFYSQFDPLDPAGSKAKVCERIRELLRRAQELGVAVHFDMEQYHYKDLILNILKELLVEEEFRSRTDVGITMQAYLRDSTEDLEALIPWAKHRGYPVTVRLVKGAYWDQETIKAQQNHWQIPVYVEKAQTDANYERMTRLLLENHEYLYAAIGSHNVRSQALACAIAEELNIPKRRYEMQILYGMGEPLARAIVKRGHRVRVYAPYGRLLPGMAYLIRRLLENTANSSFLRQNLEERPIEELIAPPQVKGINDLPTKGYGNAPDTDYADADLRQQAFQALTRVKQQLGKTYLPYINGEYVETANYIDSVNPCRPSQAIGKVGLISVEQADHALEIAKAAFPAWKKTPVRERCGILRKAADIMEERRHELNAWICLEVGKIIPQADAEVSEAIDFCRYYADEMERLDQGVNLDIPGETNRYFYQPRGIALVISPWNFPMAIAVGMTVAALVTGNCTLLKPAETSTVIAAKIAEILIAAGVPPGVFQYVPGKGSVVGSHMVNHPDVHLIAFTGSREVGCRIYADAALVQPGQKHLKRVIAEMGGKNAIIVDESADLDQAVAGAVYSAFGYTGQKCSACSRVVVLSPVHDAFVERFVEATRSLNVGPTDDPSTQVGPVIDAKAQARIQEYIEQGKAECELAIACDAPSEGYFVGPTVFKNVDRHATIAQEEIFGPVVTIIRAANFDEALEIANGTDYALTGGLYSRTPDHINRAAAEFEVGNLYINRTITGAIVSRQPFGGFKMSGVGSKAGGPDYLLQFLEPRHVTENIQRQGFAPIEGADQ",
+            "length": 990,
+            "molWeight": 110028,
+            "crc64": "E5F21B64C1293D79",
+            "md5": "5C689A93B038992C627A7AC2DCB89924"
+        },
+        "extraAttributes": {
+            "countByCommentType": {
+                "SIMILARITY": 1
+            },
+            "countByFeatureType": {
+                "Domain": 3,
+                "Active site": 2
+            },
+            "uniParcId": "UPI00000D351A"
+        }
+    }
+}

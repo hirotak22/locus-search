@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_A0A1D5QZ34" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Cadherin 8</name>
+  <property type="member count" value="100"/>
+  <property type="common taxon" value="Euteleostomi"/>
+  <property type="common taxon ID" value="117571"/>
+  <property type="GO Molecular Function" value="GO:0005509"/>
+  <property type="GO Cellular Component" value="GO:0110165"/>
+  <property type="GO Biological Process" value="GO:0007156"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A1D5QZ34_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0003ABA47E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1D5QZ34"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1D5QZ34"/>
+      <property type="UniProtKB accession" value="A0A1D5QZ34"/>
+      <property type="UniProtKB accession" value="A0A1D5RCN2"/>
+      <property type="length" value="711"/>
+    </dbReference>
+    <sequence length="711" checksum="3F459D0B440FBB8C">MPERLAEMLLDLWTPLIILWITLPPCIYMAPMNQSQVLMSGSPLEINSLGEEQRILNRSKRGWVWNQMFVLEEFSGPEPILVGRLHTDLDPGSKKIKYILSGDGAGTIFQINDVTGDIHAIKRLDREEKAEYTLTAQAVDWETSKPLEPPSEFIIKVQDINDNAPEFLNGPYHATVPEMSILGTSVTNVTATDADDPVYGNSAKLVYSILEGQPYFSIEPETAIIKTALPNMDREAKEEYLVVIQAKDMGGHSGGLSGTTTLTVTLTDVNDNPPKFAQSLYHFSVPEDVVLGTAIGRVKANDQDIGENAQSSYDIIDGDGTALFEITSDAQAQDGIIRLRKPLDFETKKSYTLKVEAANVHIDPRFSGRGPFKDTATVKIVVEDADEPPVFSSPTYLLEVHENAALNSVIGQVTARDPDITSSPIRFSIDRHTDLERQFNINADDGKITLATPLDRELSVWHNITIIATEIRNHSQISRVPVAIKVLDVNDNAPEFASEYEAFLCENGKPGQVIQTVSAMDKDDPKNGHYFLYSLLPEMVNNPNFTIKKNEDNSLSILAKHNGFNRQKQEVYLLPIIISDSGNPPLSSTSTLTIRVCGCSNDGVVQSCNVEAYVLPIGLSMGALIAILACIILLLVIVVLFVTLRRHKNEPLIIKDDEDVRENIIRYDDEGGGEEDTEAFDIATLQNPDGINGFLPHYRRGLLGGMSQDAV</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5LLI9_CERAT">
+      <property type="source organism" value="Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys)"/>
+      <property type="NCBI taxonomy" value="9531"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0003ABA47E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1D5QZ34"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1D5QZ34"/>
+      <property type="UniProtKB accession" value="A0A2K5LLI9"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0D9QXC4_CHLSB">
+      <property type="source organism" value="Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus)"/>
+      <property type="NCBI taxonomy" value="60711"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0003ABA47E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1D5QZ34"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1D5QZ34"/>
+      <property type="UniProtKB accession" value="A0A0D9QXC4"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6EAV4_MACNE">
+      <property type="source organism" value="Macaca nemestrina (Pig-tailed macaque)"/>
+      <property type="NCBI taxonomy" value="9545"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0003ABA47E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1D5QZ34"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1D5QZ34"/>
+      <property type="UniProtKB accession" value="A0A2K6EAV4"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452V6W6_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000FC92127"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452V6W6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A452V6W6"/>
+      <property type="UniProtKB accession" value="A0A452V6W6"/>
+      <property type="length" value="723"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6GYG5_PROCO">
+      <property type="source organism" value="Propithecus coquereli (Coquerel's sifaka) (Propithecus verreauxicoquereli)"/>
+      <property type="NCBI taxonomy" value="379532"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000C747CC2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6GYG5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2K6GYG5"/>
+      <property type="UniProtKB accession" value="A0A2K6GYG5"/>
+      <property type="length" value="661"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7TBI8_CARSF">
+      <property type="source organism" value="Carlito syrichta (Philippine tarsier) (Tarsius syrichta)"/>
+      <property type="NCBI taxonomy" value="1868482"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniParc ID" value="UPI00046B33EC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1U7TBI8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1U7TBI8"/>
+      <property type="UniProtKB accession" value="A0A1U7TBI8"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A673V915_SURSU">
+      <property type="source organism" value="Suricata suricatta (Meerkat)"/>
+      <property type="NCBI taxonomy" value="37032"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00134B67F1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A673V915"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A673V915"/>
+      <property type="UniProtKB accession" value="A0A673V915"/>
+      <property type="length" value="710"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2QKZ3_CRIGR">
+      <property type="source organism" value="Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00022F418B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2QKZ3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2QKZ3"/>
+      <property type="UniProtKB accession" value="A0A8C2QKZ3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A286XPY4_CAVPO">
+      <property type="source organism" value="Cavia porcellus (Guinea pig)"/>
+      <property type="NCBI taxonomy" value="10141"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000BAD413B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A286XPY4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A286XPY4"/>
+      <property type="UniProtKB accession" value="A0A286XPY4"/>
+      <property type="length" value="674"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5F9DGY6_RABIT">
+      <property type="source organism" value="Oryctolagus cuniculus (Rabbit)"/>
+      <property type="NCBI taxonomy" value="9986"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000390400C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5F9DGY6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5F9DGY6"/>
+      <property type="UniProtKB accession" value="A0A5F9DGY6"/>
+      <property type="length" value="710"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452V6W5_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000FC50C65"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452V6W5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D0ZKR1"/>
+      <property type="UniProtKB accession" value="A0A452V6W5"/>
+      <property type="length" value="696"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J2AT31_ACIJB">
+      <property type="source organism" value="Acinonyx jubatus (Cheetah)"/>
+      <property type="NCBI taxonomy" value="32536"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniParc ID" value="UPI000F42C2D1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J2AT31"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D0ZKR1"/>
+      <property type="UniProtKB accession" value="A0A6J2AT31"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D0ZKR1_PIG">
+      <property type="source organism" value="Sus scrofa (Pig)"/>
+      <property type="NCBI taxonomy" value="9823"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00134A3122"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D0ZKR1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D0ZKR1"/>
+      <property type="UniProtKB accession" value="A0A8D0ZKR1"/>
+      <property type="length" value="559"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A484GUI4_SOUCH">
+      <property type="source organism" value="Sousa chinensis (Indo-pacific humpbacked dolphin) (Steno chinensis)"/>
+      <property type="NCBI taxonomy" value="103600"/>
+      <property type="protein name" value="Cadherin 8 (Fragment)"/>
+      <property type="UniParc ID" value="UPI0010B7ECBF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A484GUI4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A484GUI4"/>
+      <property type="UniProtKB accession" value="A0A484GUI4"/>
+      <property type="length" value="715"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0G2K2C1_RAT">
+      <property type="source organism" value="Rattus norvegicus (Rat)"/>
+      <property type="NCBI taxonomy" value="10116"/>
+      <property type="protein name" value="Cadherin-8"/>
+      <property type="UniParc ID" value="UPI0003D0E1D4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0G2K2C1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0G2K2C1"/>
+      <property type="UniProtKB accession" value="A0A0G2K2C1"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q8C449_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Cadherin-8"/>
+      <property type="UniParc ID" value="UPI00000E9E43"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8C449"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8C449"/>
+      <property type="UniProtKB accession" value="Q8C449"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6IDG2_MUSSI">
+      <property type="source organism" value="Mus spicilegus (Steppe mouse)"/>
+      <property type="NCBI taxonomy" value="10103"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00108C94EE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6IDG2"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8C449"/>
+      <property type="UniProtKB accession" value="A0A8C6IDG2"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2YN87_CHILA">
+      <property type="source organism" value="Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera)"/>
+      <property type="NCBI taxonomy" value="34839"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00038E96A5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2YN87"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2YN87"/>
+      <property type="UniProtKB accession" value="A0A8C2YN87"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2J8TRW9_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="CDH24 isoform 1"/>
+      <property type="UniParc ID" value="UPI000CC2B475"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2J8TRW9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2J8TRW9"/>
+      <property type="UniProtKB accession" value="A0A2J8TRW9"/>
+      <property type="UniProtKB accession" value="K7EVL2"/>
+      <property type="length" value="781"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A286XFC3_CAVPO">
+      <property type="source organism" value="Cavia porcellus (Guinea pig)"/>
+      <property type="NCBI taxonomy" value="10141"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000BAD51E9"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A286XFC3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A286XFC3"/>
+      <property type="UniProtKB accession" value="A0A286XFC3"/>
+      <property type="length" value="639"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q2LLX6_HORSE">
+      <property type="source organism" value="Equus caballus (Horse)"/>
+      <property type="NCBI taxonomy" value="9796"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000FC4ECFF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q2LLX6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3Q2LLX6"/>
+      <property type="UniProtKB accession" value="A0A3Q2LLX6"/>
+      <property type="length" value="710"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4W6G405_LATCA">
+      <property type="source organism" value="Lates calcarifer (Barramundi) (Holocentrus calcarifer)"/>
+      <property type="NCBI taxonomy" value="8187"/>
+      <property type="protein name" value="Cadherin 20"/>
+      <property type="UniParc ID" value="UPI00114AAA34"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4W6G405"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A668TR09"/>
+      <property type="UniProtKB accession" value="A0A4W6G405"/>
+      <property type="length" value="598"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A668TR09_OREAU">
+      <property type="source organism" value="Oreochromis aureus (Israeli tilapia) (Chromis aureus)"/>
+      <property type="NCBI taxonomy" value="47969"/>
+      <property type="protein name" value="Cadherin 20"/>
+      <property type="UniParc ID" value="UPI0013516994"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A668TR09"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A668TR09"/>
+      <property type="UniProtKB accession" value="A0A668TR09"/>
+      <property type="length" value="719"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4W6G605_LATCA">
+      <property type="source organism" value="Lates calcarifer (Barramundi) (Holocentrus calcarifer)"/>
+      <property type="NCBI taxonomy" value="8187"/>
+      <property type="protein name" value="Cadherin 20"/>
+      <property type="UniParc ID" value="UPI0011486B52"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4W6G605"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A668TR09"/>
+      <property type="UniProtKB accession" value="A0A4W6G605"/>
+      <property type="length" value="611"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A151NQ06_ALLMI">
+      <property type="source organism" value="Alligator mississippiensis (American alligator)"/>
+      <property type="NCBI taxonomy" value="8496"/>
+      <property type="protein name" value="Cadherin-24"/>
+      <property type="UniParc ID" value="UPI000798A3DC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A151NQ06"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A151NQ06"/>
+      <property type="UniProtKB accession" value="A0A151NQ06"/>
+      <property type="length" value="629"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7S888_ALLSI">
+      <property type="source organism" value="Alligator sinensis (Chinese alligator)"/>
+      <property type="NCBI taxonomy" value="38654"/>
+      <property type="protein name" value="cadherin-24"/>
+      <property type="UniParc ID" value="UPI0003C29F12"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1U7S888"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A151NQ06"/>
+      <property type="UniProtKB accession" value="A0A1U7S888"/>
+      <property type="length" value="629"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2I2USA1_FELCA">
+      <property type="source organism" value="Felis catus (Cat) (Felis silvestris catus)"/>
+      <property type="NCBI taxonomy" value="9685"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0012348876"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I2USA1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I2USA1"/>
+      <property type="UniProtKB accession" value="A0A2I2USA1"/>
+      <property type="length" value="709"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7SDP8_HIPAR">
+      <property type="source organism" value="Hipposideros armiger (Great Himalayan leaf-nosed bat)"/>
+      <property type="NCBI taxonomy" value="186990"/>
+      <property type="protein name" value="cadherin-8"/>
+      <property type="UniParc ID" value="UPI00093AD0D3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B7SDP8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B7SDP8"/>
+      <property type="UniProtKB accession" value="A0A8B7SDP8"/>
+      <property type="length" value="704"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2E1E8_CYPCA">
+      <property type="source organism" value="Cyprinus carpio (Common carp)"/>
+      <property type="NCBI taxonomy" value="7962"/>
+      <property type="protein name" value="Cadherin 11, type 2, OB-cadherin (osteoblast)"/>
+      <property type="UniParc ID" value="UPI001347C9BC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2E1E8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2E1E8"/>
+      <property type="UniProtKB accession" value="A0A8C2E1E8"/>
+      <property type="length" value="738"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C1JX61_CYPCA">
+      <property type="source organism" value="Cyprinus carpio (Common carp)"/>
+      <property type="NCBI taxonomy" value="7962"/>
+      <property type="protein name" value="Cadherin 11, type 2, OB-cadherin (osteoblast)"/>
+      <property type="UniParc ID" value="UPI001346D24F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C1JX61"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2E1E8"/>
+      <property type="UniProtKB accession" value="A0A8C1JX61"/>
+      <property type="length" value="738"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A286XAT3_CAVPO">
+      <property type="source organism" value="Cavia porcellus (Guinea pig)"/>
+      <property type="NCBI taxonomy" value="10141"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000661F446"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A286XAT3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A286XAT3"/>
+      <property type="UniProtKB accession" value="A0A286XAT3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3B5A9Q5_9TELE">
+      <property type="source organism" value="Stegastes partitus (bicolor damselfish)"/>
+      <property type="NCBI taxonomy" value="144197"/>
+      <property type="protein name" value="Cadherin-24-like"/>
+      <property type="UniParc ID" value="UPI000EA451FB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B5A9Q5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B5A9Q5"/>
+      <property type="UniProtKB accession" value="A0A3B5A9Q5"/>
+      <property type="length" value="780"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452V715_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000FC73EF3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452V715"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A452V715"/>
+      <property type="UniProtKB accession" value="A0A452V715"/>
+      <property type="length" value="727"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P5Q657_MUSCR">
+      <property type="source organism" value="Mus caroli (Ryukyu mouse) (Ricefield mouse)"/>
+      <property type="NCBI taxonomy" value="10089"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniParc ID" value="UPI000A319516"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P5Q657"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P5Q657"/>
+      <property type="UniProtKB accession" value="A0A6P5Q657"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2MK69_CRIGR">
+      <property type="source organism" value="Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00022F418A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C2MK69"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2MK69"/>
+      <property type="UniProtKB accession" value="A0A8C2MK69"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I3M288_ICTTR">
+      <property type="source organism" value="Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilustridecemlineatus)"/>
+      <property type="NCBI taxonomy" value="43179"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000BADCA62"/>
+      <property type="UniRef100 ID" value="UniRef100_I3M288"/>
+      <property type="UniRef90 ID" value="UniRef90_I3M288"/>
+      <property type="UniProtKB accession" value="I3M288"/>
+      <property type="length" value="679"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="Q8C375_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00000E9F70"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8C375"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8C375"/>
+      <property type="UniProtKB accession" value="Q8C375"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452V6Y8_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000FC86081"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452V6Y8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A452V6Y8"/>
+      <property type="UniProtKB accession" value="A0A452V6Y8"/>
+      <property type="length" value="731"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J8BLB7_MOLMO">
+      <property type="source organism" value="Molossus molossus (Pallas' mastiff bat) (Vespertilio molossus)"/>
+      <property type="NCBI taxonomy" value="27622"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0017FAE012"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J8BLB7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7J8BLB7"/>
+      <property type="UniProtKB accession" value="A0A7J8BLB7"/>
+      <property type="length" value="567"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B9WNU2_BOSMU">
+      <property type="source organism" value="Bos mutus grunniens (Wild yak) (Bos grunniens)"/>
+      <property type="NCBI taxonomy" value="30521"/>
+      <property type="protein name" value="Cadherin 24"/>
+      <property type="UniParc ID" value="UPI00133CCECC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B9WNU2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B9WNU2"/>
+      <property type="UniProtKB accession" value="A0A8B9WNU2"/>
+      <property type="length" value="628"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6KR48_RHIBE">
+      <property type="source organism" value="Rhinopithecus bieti (Black snub-nosed monkey) (Pygathrix bieti)"/>
+      <property type="NCBI taxonomy" value="61621"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI00083BE9FE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2K6KR48"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2K6KR48"/>
+      <property type="UniProtKB accession" value="A0A2K6KR48"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452UEA4_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Cadherin 24"/>
+      <property type="UniParc ID" value="UPI000FC651BC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A452UEA4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A452UEA4"/>
+      <property type="UniProtKB accession" value="A0A452UEA4"/>
+      <property type="length" value="732"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4D9DIQ0_9SAUR">
+      <property type="source organism" value="Platysternon megacephalum (big-headed turtle)"/>
+      <property type="NCBI taxonomy" value="55544"/>
+      <property type="protein name" value="G-protein-signaling modulator 3-like"/>
+      <property type="UniParc ID" value="UPI0011024C61"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4D9DIQ0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4D9DIQ0"/>
+      <property type="UniProtKB accession" value="A0A4D9DIQ0"/>
+      <property type="length" value="758"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C3PES8_CHRPI">
+      <property type="source organism" value="Chrysemys picta bellii (Western painted turtle) (Emys bellii)"/>
+      <property type="NCBI taxonomy" value="8478"/>
+      <property type="protein name" value="Cadherin 24"/>
+      <property type="UniParc ID" value="UPI000FC83F22"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C3PES8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4D9DIQ0"/>
+      <property type="UniProtKB accession" value="A0A8C3PES8"/>
+      <property type="length" value="643"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7F8QHD7_LEPWE">
+      <property type="source organism" value="Leptonychotes weddellii (Weddell seal) (Otaria weddellii)"/>
+      <property type="NCBI taxonomy" value="9713"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniParc ID" value="UPI00123E9B0C"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7F8QHD7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7F8QHD7"/>
+      <property type="UniProtKB accession" value="A0A7F8QHD7"/>
+      <property type="length" value="627"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3ICC7_SAPAP">
+      <property type="source organism" value="Sapajus apella (Brown-capped capuchin) (Cebus apella)"/>
+      <property type="NCBI taxonomy" value="9515"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniParc ID" value="UPI000533E30E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6J3ICC7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6J3ICC7"/>
+      <property type="UniProtKB accession" value="A0A6J3ICC7"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9QNC4_TRIMA">
+      <property type="source organism" value="Trichechus manatus latirostris (Florida manatee)"/>
+      <property type="NCBI taxonomy" value="127582"/>
+      <property type="protein name" value="cadherin-24"/>
+      <property type="UniParc ID" value="UPI0002C44472"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2Y9QNC4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2Y9QNC4"/>
+      <property type="UniProtKB accession" value="A0A2Y9QNC4"/>
+      <property type="length" value="730"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2I3RTU1_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000387BCE2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2I3RTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I3RTU1"/>
+      <property type="UniProtKB accession" value="A0A2I3RTU1"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G3UE35_LOXAF">
+      <property type="source organism" value="Loxodonta africana (African elephant)"/>
+      <property type="NCBI taxonomy" value="9785"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI0001C5EAD3"/>
+      <property type="UniRef100 ID" value="UniRef100_G3UE35"/>
+      <property type="UniRef90 ID" value="UniRef90_G3UE35"/>
+      <property type="UniProtKB accession" value="G3UE35"/>
+      <property type="length" value="713"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1S3EWB8_DIPOR">
+      <property type="source organism" value="Dipodomys ordii (Ord's kangaroo rat)"/>
+      <property type="NCBI taxonomy" value="10020"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniParc ID" value="UPI0006512111"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1S3EWB8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1S3EWB8"/>
+      <property type="UniProtKB accession" value="A0A1S3EWB8"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I3NDV4_ICTTR">
+      <property type="source organism" value="Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilustridecemlineatus)"/>
+      <property type="NCBI taxonomy" value="43179"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000BADC1D9"/>
+      <property type="UniRef100 ID" value="UniRef100_I3NDV4"/>
+      <property type="UniRef90 ID" value="UniRef90_I3NDV4"/>
+      <property type="UniProtKB accession" value="I3NDV4"/>
+      <property type="length" value="632"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7HIB4_MICMU">
+      <property type="source organism" value="Microcebus murinus (Gray mouse lemur) (Lemur murinus)"/>
+      <property type="NCBI taxonomy" value="30608"/>
+      <property type="protein name" value="Cadherin 8"/>
+      <property type="UniParc ID" value="UPI000643290E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B7HIB4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B7HIB4"/>
+      <property type="UniProtKB accession" value="A0A8B7HIB4"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0015C32405">
+      <property type="source organism" value="Cricetulus griseus"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0015C32405"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0015C32405"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E1E0650">
+      <property type="source organism" value="Echinops telfairi"/>
+      <property type="NCBI taxonomy" value="9371"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E1E0650"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001E1E0650"/>
+      <property type="length" value="717"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00108A80C9">
+      <property type="source organism" value="Cricetulus griseus"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00108A80C9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2QKZ3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018E39F68">
+      <property type="source organism" value="Arvicola amphibius"/>
+      <property type="NCBI taxonomy" value="1047088"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018E39F68"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2QKZ3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001AEF9A0E">
+      <property type="source organism" value="Mesocricetus auratus"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001AEF9A0E"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2QKZ3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021525BA6">
+      <property type="source organism" value="Microtus fortis"/>
+      <property type="NCBI taxonomy" value="100897"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021525BA6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2QKZ3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00038C5840">
+      <property type="source organism" value="Microtus ochrogaster"/>
+      <property type="NCBI taxonomy" value="79684"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00038C5840"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8C2QKZ3"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00159E2679">
+      <property type="source organism" value="Callithrix jacchus"/>
+      <property type="NCBI taxonomy" value="9483"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00159E2679"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00159E2679"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001659BCA0">
+      <property type="source organism" value="Halichoerus grypus"/>
+      <property type="NCBI taxonomy" value="9711"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001659BCA0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D0ZKR1"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001AD7CA85">
+      <property type="source organism" value="Puma yagouaroundi"/>
+      <property type="NCBI taxonomy" value="1608482"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001AD7CA85"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D0ZKR1"/>
+      <property type="length" value="562"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0019177ED6">
+      <property type="source organism" value="Rattus norvegicus"/>
+      <property type="NCBI taxonomy" value="10116"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0019177ED6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D0ZKR1"/>
+      <property type="length" value="559"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018E2DB3E">
+      <property type="source organism" value="Arvicola amphibius"/>
+      <property type="NCBI taxonomy" value="1047088"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018E2DB3E"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0018E2DB3E"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FB4123C">
+      <property type="source organism" value="Neosciurus carolinensis"/>
+      <property type="NCBI taxonomy" value="30640"/>
+      <property type="protein name" value="cadherin-24 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FB4123C"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001FB4123C"/>
+      <property type="length" value="707"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00090743AA">
+      <property type="source organism" value="Alligator mississippiensis"/>
+      <property type="NCBI taxonomy" value="8496"/>
+      <property type="protein name" value="cadherin-24"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00090743AA"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A151NQ06"/>
+      <property type="length" value="770"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001BB280B5">
+      <property type="source organism" value="Microtus oregoni"/>
+      <property type="NCBI taxonomy" value="111838"/>
+      <property type="protein name" value="cadherin-8 isoform X5"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001BB280B5"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000766F65C"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000766F65C">
+      <property type="source organism" value="Myotis davidii"/>
+      <property type="NCBI taxonomy" value="225400"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000766F65C"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000766F65C"/>
+      <property type="length" value="638"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00174EB9D4">
+      <property type="source organism" value="Myotis myotis"/>
+      <property type="NCBI taxonomy" value="51298"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000766F65C"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000766F65C"/>
+      <property type="length" value="705"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00111C7C67">
+      <property type="source organism" value="Nannospalax galili"/>
+      <property type="NCBI taxonomy" value="1026970"/>
+      <property type="protein name" value="cadherin-8 isoform X5"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00111C7C67"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000766F65C"/>
+      <property type="length" value="566"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00192116C9">
+      <property type="source organism" value="Hyaena hyaena"/>
+      <property type="NCBI taxonomy" value="95912"/>
+      <property type="protein name" value="cadherin-8"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00192116C9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8B7SDP8"/>
+      <property type="length" value="621"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00122DAAED">
+      <property type="source organism" value="Nomascus leucogenys"/>
+      <property type="NCBI taxonomy" value="61853"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00122DAAED"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00122DAAED"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007DA6EAE">
+      <property type="source organism" value="Cricetulus griseus"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007DA6EAE"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0015C3ABF8"/>
+      <property type="length" value="724"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0015C3ABF8">
+      <property type="source organism" value="Cricetulus griseus"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0015C3ABF8"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0015C3ABF8"/>
+      <property type="length" value="724"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00038BE172">
+      <property type="source organism" value="Microtus ochrogaster"/>
+      <property type="NCBI taxonomy" value="79684"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00038BE172"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00038BE172"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003D07948">
+      <property type="source organism" value="Rattus norvegicus"/>
+      <property type="NCBI taxonomy" value="10116"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003D07948"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P5Q657"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00126154E9">
+      <property type="source organism" value="Mastomys coucha"/>
+      <property type="NCBI taxonomy" value="35658"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00126154E9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P5Q657"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000A3129EB">
+      <property type="source organism" value="Mus pahari"/>
+      <property type="NCBI taxonomy" value="10093"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000A3129EB"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6P5Q657"/>
+      <property type="length" value="711"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002018F40B">
+      <property type="source organism" value="Perognathus longimembris pacificus"/>
+      <property type="NCBI taxonomy" value="214514"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: cadherin-24-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002018F40B"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0007B41D2E"/>
+      <property type="length" value="555"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0019205C30">
+      <property type="source organism" value="Hyaena hyaena"/>
+      <property type="NCBI taxonomy" value="95912"/>
+      <property type="protein name" value="cadherin-24 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0019205C30"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0007B41D2E"/>
+      <property type="length" value="685"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007B41D2E">
+      <property type="source organism" value="Monodelphis domestica"/>
+      <property type="NCBI taxonomy" value="13616"/>
+      <property type="protein name" value="cadherin-24 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007B41D2E"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0007B41D2E"/>
+      <property type="length" value="617"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007B417DA">
+      <property type="source organism" value="Monodelphis domestica"/>
+      <property type="NCBI taxonomy" value="13616"/>
+      <property type="protein name" value="cadherin-24 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007B417DA"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0007B41D2E"/>
+      <property type="length" value="572"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001E25655B">
+      <property type="source organism" value="Macaca fascicularis"/>
+      <property type="NCBI taxonomy" value="9541"/>
+      <property type="protein name" value="cadherin-24 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001E25655B"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001E25655B"/>
+      <property type="length" value="698"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000643436D">
+      <property type="source organism" value="Condylura cristata"/>
+      <property type="NCBI taxonomy" value="143302"/>
+      <property type="protein name" value="cadherin-24"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000643436D"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000643436D"/>
+      <property type="length" value="723"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001FD9FBA2">
+      <property type="source organism" value="Phacochoerus africanus"/>
+      <property type="NCBI taxonomy" value="41426"/>
+      <property type="protein name" value="cadherin-8"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001FD9FBA2"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001FD9FBA2"/>
+      <property type="length" value="721"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000FFF891B">
+      <property type="source organism" value="Marmota flaviventris"/>
+      <property type="NCBI taxonomy" value="93162"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000FFF891B"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000FFF891B"/>
+      <property type="length" value="725"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000A30C3CC">
+      <property type="source organism" value="Mus pahari"/>
+      <property type="NCBI taxonomy" value="10093"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000A30C3CC"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000A30C3CC"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0003C8CC12">
+      <property type="source organism" value="Tupaia chinensis"/>
+      <property type="NCBI taxonomy" value="246437"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0003C8CC12"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7J8BLB7"/>
+      <property type="length" value="708"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001ABDF823">
+      <property type="source organism" value="Bufo bufo"/>
+      <property type="NCBI taxonomy" value="8384"/>
+      <property type="protein name" value="cadherin-24 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001ABDF823"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001ABDF823"/>
+      <property type="length" value="634"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0021CC2E72">
+      <property type="source organism" value="Gopherus flavomarginatus"/>
+      <property type="NCBI taxonomy" value="286002"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: cadherin-24"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0021CC2E72"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4D9DIQ0"/>
+      <property type="length" value="758"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00193F98D4">
+      <property type="source organism" value="Mauremys reevesii"/>
+      <property type="NCBI taxonomy" value="260615"/>
+      <property type="protein name" value="cadherin-24"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00193F98D4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4D9DIQ0"/>
+      <property type="length" value="758"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0018A2227F">
+      <property type="source organism" value="Chelonia mydas"/>
+      <property type="NCBI taxonomy" value="8469"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: cadherin-24"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0018A2227F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4D9DIQ0"/>
+      <property type="length" value="757"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C663211">
+      <property type="source organism" value="Chrysemys picta bellii"/>
+      <property type="NCBI taxonomy" value="8478"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: cadherin-24"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C663211"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A4D9DIQ0"/>
+      <property type="length" value="653"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00126204E7">
+      <property type="source organism" value="Mastomys coucha"/>
+      <property type="NCBI taxonomy" value="35658"/>
+      <property type="protein name" value="cadherin-8 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00126204E7"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00126204E7"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001AF029A6">
+      <property type="source organism" value="Mesocricetus auratus"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="cadherin-8 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001AF029A6"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI001AF029A6"/>
+      <property type="length" value="716"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000B7B0D5F">
+      <property type="source organism" value="Papio anubis"/>
+      <property type="NCBI taxonomy" value="9555"/>
+      <property type="protein name" value="cadherin-24 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000B7B0D5F"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000B7B0D5F"/>
+      <property type="length" value="698"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00126174C1">
+      <property type="source organism" value="Mastomys coucha"/>
+      <property type="NCBI taxonomy" value="35658"/>
+      <property type="protein name" value="cadherin-8 isoform X5"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00126174C1"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000FFFAE2B"/>
+      <property type="length" value="575"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000FFFAE2B">
+      <property type="source organism" value="Marmota flaviventris"/>
+      <property type="NCBI taxonomy" value="93162"/>
+      <property type="protein name" value="cadherin-8 isoform X4"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000FFFAE2B"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000FFFAE2B"/>
+      <property type="length" value="718"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005F510AB">
+      <property type="source organism" value="Macaca nemestrina"/>
+      <property type="NCBI taxonomy" value="9545"/>
+      <property type="protein name" value="cadherin-24 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0005F510AB"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0005F510AB"/>
+      <property type="length" value="698"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

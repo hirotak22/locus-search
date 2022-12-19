@@ -1,0 +1,682 @@
+{
+    "from": "BAA18351",
+    "to": {
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "primaryAccession": "P74257",
+        "uniProtkbId": "GLPD_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "1997-11-01",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1997-02-01",
+            "entryVersion": 123,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 2.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "proteinDescription": {
+            "recommendedName": {
+                "fullName": {
+                    "value": "Glycerol-3-phosphate dehydrogenase"
+                },
+                "ecNumbers": [
+                    {
+                        "value": "1.1.5.3"
+                    }
+                ]
+            }
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "value": "glpD"
+                },
+                "orderedLocusNames": [
+                    {
+                        "value": "sll1085"
+                    }
+                ]
+            }
+        ],
+        "comments": [
+            {
+                "commentType": "CATALYTIC ACTIVITY",
+                "reaction": {
+                    "name": "a quinone + sn-glycerol 3-phosphate = a quinol + dihydroxyacetone phosphate",
+                    "reactionCrossReferences": [
+                        {
+                            "database": "Rhea",
+                            "id": "RHEA:18977"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:24646"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57597"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57642"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:132124"
+                        }
+                    ],
+                    "ecNumber": "1.1.5.3"
+                }
+            },
+            {
+                "commentType": "COFACTOR",
+                "cofactors": [
+                    {
+                        "name": "FAD",
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000250"
+                            }
+                        ],
+                        "cofactorCrossReference": {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57692"
+                        }
+                    }
+                ]
+            },
+            {
+                "commentType": "SUBCELLULAR LOCATION",
+                "subcellularLocations": [
+                    {
+                        "location": {
+                            "evidences": [
+                                {
+                                    "evidenceCode": "ECO:0000250"
+                                }
+                            ],
+                            "value": "Cytoplasm",
+                            "id": "SL-0086"
+                        }
+                    }
+                ]
+            },
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000305"
+                            }
+                        ],
+                        "value": "Belongs to the FAD-dependent glycerol-3-phosphate dehydrogenase family"
+                    }
+                ],
+                "commentType": "SIMILARITY"
+            }
+        ],
+        "features": [
+            {
+                "type": "Chain",
+                "location": {
+                    "start": {
+                        "value": 1,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 553,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Glycerol-3-phosphate dehydrogenase",
+                "featureId": "PRO_0000126106"
+            },
+            {
+                "type": "Binding site",
+                "location": {
+                    "start": {
+                        "value": 13,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 41,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "",
+                "featureCrossReferences": [
+                    {
+                        "database": "ChEBI",
+                        "id": "CHEBI:57692"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000255"
+                    }
+                ],
+                "ligand": {
+                    "name": "FAD",
+                    "id": "ChEBI:CHEBI:57692"
+                }
+            }
+        ],
+        "keywords": [
+            {
+                "id": "KW-0963",
+                "category": "Cellular component",
+                "name": "Cytoplasm"
+            },
+            {
+                "id": "KW-0274",
+                "category": "Ligand",
+                "name": "FAD"
+            },
+            {
+                "id": "KW-0285",
+                "category": "Ligand",
+                "name": "Flavoprotein"
+            },
+            {
+                "id": "KW-0319",
+                "category": "Biological process",
+                "name": "Glycerol metabolism"
+            },
+            {
+                "id": "KW-0560",
+                "category": "Molecular function",
+                "name": "Oxidoreductase"
+            },
+            {
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18351.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S75892",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S75892"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "P74257",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "P74257",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "IntAct",
+                "id": "P74257",
+                "properties": [
+                    {
+                        "key": "Interactions",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653437",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "P74257",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18351",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18351"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18351"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1085",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG0578",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "P74257",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "CIVNAAG",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PhylomeDB",
+                "id": "P74257",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0009331",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "C:glycerol-3-phosphate dehydrogenase complex"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0004368",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:glycerol-3-phosphate dehydrogenase (quinone) activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IBA:GO_Central"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000318",
+                        "source": "PubMed",
+                        "id": "21873635"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0052591",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-EC"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0006071",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:glycerol metabolic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-KW"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0046168",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:glycerol-3-phosphate catabolic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IBA:GO_Central"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000318",
+                        "source": "PubMed",
+                        "id": "21873635"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "1.10.8.870",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Gene3D",
+                "id": "3.50.50.60",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR031656",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "DAO_C"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR038299",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "DAO_C_sf"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR006076",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD-dep_OxRdtase"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR036188",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD/NAD-bd_sf"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR000447",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "G3P_DH_FAD-dep"
+                    }
+                ]
+            },
+            {
+                "database": "PANTHER",
+                "id": "PTHR11985",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "GLYCEROL-3-PHOSPHATE DEHYDROGENASE"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF01266",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "DAO"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF16901",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "DAO_C"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PRINTS",
+                "id": "PR01001",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FADG3PDH"
+                    }
+                ]
+            },
+            {
+                "database": "SUPFAM",
+                "id": "SSF51905",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD/NAD(P)-binding domain"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "PROSITE",
+                "id": "PS00977",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "FAD_G3PDH_1"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MRNFPEIQNTAYDLIVIGGGINGVGTARDGALRGLKTLLIEKDDFASGTSSWSTRLIHGGLRYLEYFEFNLVRESLREREVLLHTAPHLVQPLQLTIPVYDWSSRAYWEIQAGMILYDILSFDKTLPSHRMLSPQQFQQLFRAAEKKGLKGGAQYFDGQVEYAERLDLEVTLSAQKAGAAMLNYVAVKGLEKGENNLITAIHCQDQLSGEKFTVNSAQAIVINTTGPWVDEVCGLAHRGGEPVAIVQERKIGGTKGSHIVVDPFPGAPASALYVEAFVDKRPYFIIPWLGKYLIGTTDHRYDGSLDRVKASDDEIDYLIAETNRVMPAAQLTRQDVRFTYSGVRPLPYTDGKKAGSITRNHILYDHSQDGVNNLISLIGGKLTTYRQVGEEMVDKVYGKLRRSAPPCPTLTQPLPGAEAYPLSLETAMDKYGNHLERHSIQHLFCLYGARAGDILALVHGAPELGERIIPSLPDIKAQVVFAVQAEMAHTLVDICRRRTAIAMVTNDYGFSALAGICQTLTDHCGWTQEQCDKQIQKYHEYMEQNCIPDYCLH",
+            "length": 553,
+            "molWeight": 61575,
+            "crc64": "7AB17D9B9C03762D",
+            "md5": "CDB2D6377419C1A9A713EA0FF1794848"
+        },
+        "extraAttributes": {
+            "countByCommentType": {
+                "CATALYTIC ACTIVITY": 1,
+                "COFACTOR": 1,
+                "SUBCELLULAR LOCATION": 1,
+                "SIMILARITY": 1
+            },
+            "countByFeatureType": {
+                "Chain": 1,
+                "Binding site": 1
+            },
+            "uniParcId": "UPI000012B768"
+        }
+    }
+}

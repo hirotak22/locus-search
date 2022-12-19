@@ -1,0 +1,706 @@
+{
+    "from": "BAA18352",
+    "to": {
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "primaryAccession": "P74258",
+        "uniProtkbId": "GGPS_SYNY3",
+        "entryAudit": {
+            "firstPublicDate": "2002-06-06",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "1997-02-01",
+            "entryVersion": 123,
+            "sequenceVersion": 1
+        },
+        "annotationScore": 3.0,
+        "organism": {
+            "scientificName": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+            "taxonId": 1111708,
+            "lineage": [
+                "Bacteria",
+                "Cyanobacteria",
+                "Synechococcales",
+                "Merismopediaceae",
+                "Synechocystis"
+            ]
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "proteinDescription": {
+            "recommendedName": {
+                "fullName": {
+                    "value": "Glucosylglycerol-phosphate synthase"
+                },
+                "ecNumbers": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000269",
+                                "source": "PubMed",
+                                "id": "9733686"
+                            }
+                        ],
+                        "value": "2.4.1.213"
+                    }
+                ]
+            },
+            "alternativeNames": [
+                {
+                    "fullName": {
+                        "value": "Glucosyl-glycerol-phosphate synthase"
+                    },
+                    "shortNames": [
+                        {
+                            "value": "GG-phosphate synthase"
+                        },
+                        {
+                            "value": "GGPS"
+                        }
+                    ]
+                }
+            ]
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "value": "ggpS"
+                },
+                "orderedLocusNames": [
+                    {
+                        "value": "sll1566"
+                    }
+                ]
+            }
+        ],
+        "comments": [
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000269",
+                                "source": "PubMed",
+                                "id": "9733686"
+                            }
+                        ],
+                        "value": "Involved in salt tolerance by producing GG-phosphate from ADP-glucose and glycerol-3-phosphate (G3P), an intermediate in the synthesis of the osmolyte glucosylglycerol (GG)"
+                    }
+                ],
+                "commentType": "FUNCTION"
+            },
+            {
+                "commentType": "CATALYTIC ACTIVITY",
+                "reaction": {
+                    "name": "ADP-alpha-D-glucose + sn-glycerol 3-phosphate = 2-O-(alpha-D-glucopyranosyl)-sn-glycerol 3-phosphate + ADP + H(+)",
+                    "reactionCrossReferences": [
+                        {
+                            "database": "Rhea",
+                            "id": "RHEA:12881"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:15378"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57498"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:57597"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:87089"
+                        },
+                        {
+                            "database": "ChEBI",
+                            "id": "CHEBI:456216"
+                        }
+                    ],
+                    "ecNumber": "2.4.1.213",
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000269",
+                            "source": "PubMed",
+                            "id": "9733686"
+                        }
+                    ]
+                }
+            },
+            {
+                "texts": [
+                    {
+                        "value": "Glycan metabolism; glucosylglycerol biosynthesis"
+                    }
+                ],
+                "commentType": "PATHWAY"
+            },
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000305"
+                            }
+                        ],
+                        "value": "Interacts with GGP-P"
+                    }
+                ],
+                "commentType": "SUBUNIT"
+            },
+            {
+                "commentType": "SUBCELLULAR LOCATION",
+                "subcellularLocations": [
+                    {
+                        "location": {
+                            "evidences": [
+                                {
+                                    "evidenceCode": "ECO:0000269",
+                                    "source": "PubMed",
+                                    "id": "17116240"
+                                }
+                            ],
+                            "value": "Cytoplasm",
+                            "id": "SL-0086"
+                        }
+                    }
+                ]
+            },
+            {
+                "texts": [
+                    {
+                        "value": "Seems to be degraded, at least in vitro, by FtsH2. In an ftsH2 disruption strain inactive GGPS accumulates"
+                    }
+                ],
+                "commentType": "PTM"
+            },
+            {
+                "texts": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000305"
+                            }
+                        ],
+                        "value": "Belongs to the glycosyltransferase 20 family"
+                    }
+                ],
+                "commentType": "SIMILARITY"
+            }
+        ],
+        "features": [
+            {
+                "type": "Chain",
+                "location": {
+                    "start": {
+                        "value": 1,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 499,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "Glucosylglycerol-phosphate synthase",
+                "featureId": "PRO_0000122506"
+            }
+        ],
+        "keywords": [
+            {
+                "id": "KW-0963",
+                "category": "Cellular component",
+                "name": "Cytoplasm"
+            },
+            {
+                "id": "KW-0328",
+                "category": "Molecular function",
+                "name": "Glycosyltransferase"
+            },
+            {
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            },
+            {
+                "id": "KW-0808",
+                "category": "Molecular function",
+                "name": "Transferase"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "8905231",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Kaneko T.",
+                        "Sato S.",
+                        "Kotani H.",
+                        "Tanaka A.",
+                        "Asamizu E.",
+                        "Nakamura Y.",
+                        "Miyajima N.",
+                        "Hirosawa M.",
+                        "Sugiura M.",
+                        "Sasamoto S.",
+                        "Kimura T.",
+                        "Hosouchi T.",
+                        "Matsuno A.",
+                        "Muraki A.",
+                        "Nakazaki N.",
+                        "Naruo K.",
+                        "Okumura S.",
+                        "Shimpo S.",
+                        "Takeuchi C.",
+                        "Wada T.",
+                        "Watanabe A.",
+                        "Yamada M.",
+                        "Yasuda M.",
+                        "Tabata S."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "8905231"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1093/dnares/3.3.109"
+                        }
+                    ],
+                    "title": "Sequence analysis of the genome of the unicellular cyanobacterium Synechocystis sp. strain PCC6803. II. Sequence determination of the entire genome and assignment of potential protein-coding regions.",
+                    "publicationDate": "1996",
+                    "journal": "DNA Res.",
+                    "firstPage": "109",
+                    "lastPage": "136",
+                    "volume": "3"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "value": "PCC 6803 / Kazusa",
+                        "type": "STRAIN"
+                    }
+                ]
+            },
+            {
+                "citation": {
+                    "id": "9733686",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Marin K.",
+                        "Zuther E.",
+                        "Kerstan T.",
+                        "Kunert A.",
+                        "Hagemann M."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "9733686"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1128/jb.180.18.4843-4849.1998"
+                        }
+                    ],
+                    "title": "The ggpS gene from Synechocystis sp. strain PCC 6803 encoding glucosyl-glycerol-phosphate synthase is involved in osmolyte synthesis.",
+                    "publicationDate": "1998",
+                    "journal": "J. Bacteriol.",
+                    "firstPage": "4843",
+                    "lastPage": "4849",
+                    "volume": "180"
+                },
+                "referencePositions": [
+                    "FUNCTION",
+                    "CATALYTIC ACTIVITY",
+                    "CHARACTERIZATION"
+                ]
+            },
+            {
+                "citation": {
+                    "id": "17116240",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Stirnberg M.",
+                        "Fulda S.",
+                        "Huckauf J.",
+                        "Hagemann M.",
+                        "Kramer R.",
+                        "Marin K."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "17116240"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1111/j.1365-2958.2006.05495.x"
+                        }
+                    ],
+                    "title": "A membrane-bound FtsH protease is involved in osmoregulation in Synechocystis sp. PCC 6803: the compatible solute synthesizing enzyme GgpS is one of the targets for proteolysis.",
+                    "publicationDate": "2007",
+                    "journal": "Mol. Microbiol.",
+                    "firstPage": "86",
+                    "lastPage": "102",
+                    "volume": "63"
+                },
+                "referencePositions": [
+                    "SUBCELLULAR LOCATION",
+                    "DEGRADATION BY FTSH2",
+                    "POSSIBLE INTERACTION WITH GGP-P"
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "BA000022",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18352.1"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "-"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "PIR",
+                "id": "S75893",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "S75893"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "P74258",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "P74258",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "IntAct",
+                "id": "P74258",
+                "properties": [
+                    {
+                        "key": "Interactions",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "1148.1653438",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "CAZy",
+                "id": "GT20",
+                "properties": [
+                    {
+                        "key": "FamilyName",
+                        "value": "Glycosyltransferase Family 20"
+                    }
+                ]
+            },
+            {
+                "database": "PaxDb",
+                "id": "P74258",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "EnsemblBacteria",
+                "id": "BAA18352",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "BAA18352"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "BAA18352"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "syn:sll1566",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "COG0380",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Bacteria"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "P74258",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "YYGFSNR",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "PhylomeDB",
+                "id": "P74258",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "BioCyc",
+                "id": "MetaCyc:MON-20259",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "BRENDA",
+                "id": "2.4.1.213",
+                "properties": [
+                    {
+                        "key": "OrganismId",
+                        "value": "6192"
+                    }
+                ]
+            },
+            {
+                "database": "UniPathway",
+                "id": "UPA00795",
+                "properties": [
+                    {
+                        "key": "RectionId",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001425",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0005737",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "C:cytoplasm"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-SubCell"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0033828",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "F:glucosylglycerol-phosphate synthase activity"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-EC"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0051473",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:glucosylglycerol biosynthetic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:UniProtKB-UniPathway"
+                    }
+                ]
+            },
+            {
+                "database": "GO",
+                "id": "GO:0005992",
+                "properties": [
+                    {
+                        "key": "GoTerm",
+                        "value": "P:trehalose biosynthetic process"
+                    },
+                    {
+                        "key": "GoEvidenceType",
+                        "value": "IEA:InterPro"
+                    }
+                ]
+            },
+            {
+                "database": "CDD",
+                "id": "cd03788",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "GT20_TPS"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR012764",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Gluc_glyc_Psyn"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR001830",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Glyco_trans_20"
+                    }
+                ]
+            },
+            {
+                "database": "PANTHER",
+                "id": "PTHR10788",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "TREHALOSE-6-PHOSPHATE SYNTHASE"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF00982",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "Glyco_transf_20"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "TIGRFAMs",
+                "id": "TIGR02398",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "gluc_glyc_Psyn"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MNSSLVILYHREPYDEVRENGKTVYREKKSPNGILPTLKSFFADAEQSTWVAWKQVSPKQKDDFQADMSIEGLGDRCTVRRVPLTAEQVKNFYHITSKEAFWPILHSFPWQFTYDSSDWDNFQHINRLFAEAACADADDNALFWVHDYNLWLAPLYIRQLKPNAKIAFFHHTPFPSVDIFNILPWREAIVESLLACDLCGFHIPRYVENFVAVARSLKPVEITRRVVVDQAFTPYGTALAEPELTTQLRYGDRLINLDAFPVGTNPANIRAIVAKESVQQKVAEIKQDLGGKRLIVSAGRVDYVKGTKEMLMCYERLLERRPELQGEISLVVPVAKAAEGMRIYRNAQNEIERLAGKINGRFAKLSWTPVMLFTSPLAYEELIALFCAADIAWITPLRDGLNLVAKEYVVAKNGEEGVLILSEFAGCAVELPDAVLTNPYASSRMDESIDQALAMDKDEQKKRMGRMYAAIKRYDVQQWANHLLREAYADVVLGEPPQM",
+            "length": 499,
+            "molWeight": 56802,
+            "crc64": "7D4C279DB5EBAF8F",
+            "md5": "2C5229BAE33C8DD2C6244B836CC91E05"
+        },
+        "extraAttributes": {
+            "countByCommentType": {
+                "FUNCTION": 1,
+                "CATALYTIC ACTIVITY": 1,
+                "PATHWAY": 1,
+                "SUBUNIT": 1,
+                "SUBCELLULAR LOCATION": 1,
+                "PTM": 1,
+                "SIMILARITY": 1
+            },
+            "countByFeatureType": {
+                "Chain": 1
+            },
+            "uniParcId": "UPI000012B402"
+        }
+    }
+}
