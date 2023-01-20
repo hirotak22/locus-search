@@ -191,7 +191,7 @@ def get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=False):
     file_name = f'gl_{query_specy}_{query_seq_region_name}.json'
     if (os.path.isfile(f'outputs/Ensembl/gene_list/{file_name}')):
         if (not update):
-            return 0
+            return None
     
     Ensembl_URL = f'https://rest.ensembl.org/overlap/region/{query_specy}/{query_seq_region_name}:..:-1?content-type=application/json;biotype=protein_coding;feature=gene'
 
@@ -201,7 +201,7 @@ def get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=False):
     with open(f'outputs/Ensembl/gene_list/{file_name}', 'w') as f:
         json.dump(dict_Ensembl, f, indent=4)
     
-    return 0
+    return None
 
 
 
