@@ -1,0 +1,2799 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef50_Q9Y6A4" updated="2022-12-14" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Cilia- and flagella-associated protein 20</name>
+  <property type="member count" value="236"/>
+  <property type="common taxon" value="Eukaryota"/>
+  <property type="common taxon ID" value="2759"/>
+  <property type="GO Cellular Component" value="GO:0110165"/>
+  <property type="GO Biological Process" value="GO:0060271"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="CFA20_HUMAN">
+      <property type="source organism" value="Homo sapiens (Human)"/>
+      <property type="NCBI taxonomy" value="9606"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="Q9Y6A4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+    <sequence length="193" checksum="82ECDB0D2515BF77">MFKNTFQSGFLSILYSIGSKPLQIWDKKVRNGHIKRITDNDIQSLVLEIEGTNVSTTYITCPADPKKTLGIKLPFLVMIIKNLKKYFTFEVQVLDDKNVRRRFRASNYQSTTRVKPFICTMPMRLDDGWNQIQFNLLDFTRRAYGTNYIETLRVQIHANCRIRRVYFSDRLYSEDELPAEFKLYLPVQNKAKQ</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="CFA20_MOUSE">
+      <property type="source organism" value="Mus musculus (Mouse)"/>
+      <property type="NCBI taxonomy" value="10090"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="Q8BTU1"/>
+      <property type="UniProtKB accession" value="P70212"/>
+      <property type="UniProtKB accession" value="Q3T9D6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="CFA20_BOVIN">
+      <property type="source organism" value="Bos taurus (Bovine)"/>
+      <property type="NCBI taxonomy" value="9913"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="Q6B857"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H2NR23_PONAB">
+      <property type="source organism" value="Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)"/>
+      <property type="NCBI taxonomy" value="9601"/>
+      <property type="protein name" value="CFAP20 isoform 1"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="H2NR23"/>
+      <property type="UniProtKB accession" value="A0A2J8VZI0"/>
+      <property type="UniProtKB accession" value="A0A663D749"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F6QRG1_CALJA">
+      <property type="source organism" value="Callithrix jacchus (White-tufted-ear marmoset)"/>
+      <property type="NCBI taxonomy" value="9483"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="F6QRG1"/>
+      <property type="UniProtKB accession" value="F6QRE2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H9FTG1_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="H9FTG1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H2QB82_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="Chromosome 16 open reading frame 80"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="H2QB82"/>
+      <property type="UniProtKB accession" value="A0A2J8MVQ5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6QR50_RHIRO">
+      <property type="source organism" value="Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana)"/>
+      <property type="NCBI taxonomy" value="61622"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K6QR50"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5RQ37_CEBIM">
+      <property type="source organism" value="Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinusimitator)"/>
+      <property type="NCBI taxonomy" value="2715852"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K5RQ37"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6D2W1F5_PANTR">
+      <property type="source organism" value="Pan troglodytes (Chimpanzee)"/>
+      <property type="NCBI taxonomy" value="9598"/>
+      <property type="protein name" value="CFAP20 isoform 1"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A6D2W1F5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5LJY4_CERAT">
+      <property type="source organism" value="Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys)"/>
+      <property type="NCBI taxonomy" value="9531"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K5LJY4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I5NVG6_PAPAN">
+      <property type="source organism" value="Papio anubis (Olive baboon)"/>
+      <property type="NCBI taxonomy" value="9555"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A8I5NVG6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K5DXE1_AOTNA">
+      <property type="source organism" value="Aotus nancymaae (Ma's night monkey)"/>
+      <property type="NCBI taxonomy" value="37293"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K5DXE1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2R9BM19_PANPA">
+      <property type="source organism" value="Pan paniscus (Pygmy chimpanzee) (Bonobo)"/>
+      <property type="NCBI taxonomy" value="9597"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2R9BM19"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9HT77_9PRIM">
+      <property type="source organism" value="Piliocolobus tephrosceles (Ugandan red Colobus)"/>
+      <property type="NCBI taxonomy" value="591936"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A8C9HT77"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0D9QXL3_CHLSB">
+      <property type="source organism" value="Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus)"/>
+      <property type="NCBI taxonomy" value="60711"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A0D9QXL3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6A5I8_MANLE">
+      <property type="source organism" value="Mandrillus leucophaeus (Drill) (Papio leucophaeus)"/>
+      <property type="NCBI taxonomy" value="9568"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K6A5I8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2I3GY01_NOMLE">
+      <property type="source organism" value="Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)"/>
+      <property type="NCBI taxonomy" value="61853"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2I3GY01"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G3QRV8_GORGO">
+      <property type="source organism" value="Gorilla gorilla gorilla (Western lowland gorilla)"/>
+      <property type="NCBI taxonomy" value="9595"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="G3QRV8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J8XV20_MACFA">
+      <property type="source organism" value="Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)"/>
+      <property type="NCBI taxonomy" value="9541"/>
+      <property type="protein name" value="Transcription factor IIB"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A8J8XV20"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G7Q196_MACFA">
+      <property type="source organism" value="Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)"/>
+      <property type="NCBI taxonomy" value="9541"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="G7Q196"/>
+      <property type="UniProtKB accession" value="A0A2K5UDJ5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J3IC82_SAPAP">
+      <property type="source organism" value="Sapajus apella (Brown-capped capuchin) (Cebus apella)"/>
+      <property type="NCBI taxonomy" value="9515"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A6J3IC82"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6KCX2_RHIBE">
+      <property type="source organism" value="Rhinopithecus bieti (Black snub-nosed monkey) (Pygathrix bieti)"/>
+      <property type="NCBI taxonomy" value="61621"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K6KCX2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6CS84_MACNE">
+      <property type="source organism" value="Macaca nemestrina (Pig-tailed macaque)"/>
+      <property type="NCBI taxonomy" value="9545"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K6CS84"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6TF65_SAIBB">
+      <property type="source organism" value="Saimiri boliviensis boliviensis (Bolivian squirrel monkey)"/>
+      <property type="NCBI taxonomy" value="39432"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A2K6TF65"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2E523_THEGE">
+      <property type="source organism" value="Theropithecus gelada (Gelada baboon)"/>
+      <property type="NCBI taxonomy" value="9565"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000006E0AD"/>
+      <property type="UniRef100 ID" value="UniRef100_Q9Y6A4"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="A0A8D2E523"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G7NPW1_MACMU">
+      <property type="source organism" value="Macaca mulatta (Rhesus macaque)"/>
+      <property type="NCBI taxonomy" value="9544"/>
+      <property type="protein name" value="Transcription factor IIB"/>
+      <property type="UniParc ID" value="UPI000242D86B"/>
+      <property type="UniRef100 ID" value="UniRef100_G7NPW1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q9Y6A4"/>
+      <property type="UniProtKB accession" value="G7NPW1"/>
+      <property type="length" value="226"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B9HS79_ASTMX">
+      <property type="source organism" value="Astyanax mexicanus (Blind cave fish) (Astyanax fasciatus mexicanus)"/>
+      <property type="NCBI taxonomy" value="7994"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001343F020"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B9HS79"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B1KG92"/>
+      <property type="UniProtKB accession" value="A0A8B9HS79"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3B1KG92_ASTMX">
+      <property type="source organism" value="Astyanax mexicanus (Blind cave fish) (Astyanax fasciatus mexicanus)"/>
+      <property type="NCBI taxonomy" value="7994"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000BBD7747"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B1KG92"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B1KG92"/>
+      <property type="UniProtKB accession" value="A0A3B1KG92"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8T2MAX4_ASTMX">
+      <property type="source organism" value="Astyanax mexicanus (Blind cave fish) (Astyanax fasciatus mexicanus)"/>
+      <property type="NCBI taxonomy" value="7994"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI000BBD7747"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B1KG92"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B1KG92"/>
+      <property type="UniProtKB accession" value="A0A8T2MAX4"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A803K522_XENTR">
+      <property type="source organism" value="Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)"/>
+      <property type="NCBI taxonomy" value="8364"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI001B2F9289"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A803K522"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B1KG92"/>
+      <property type="UniProtKB accession" value="A0A803K522"/>
+      <property type="length" value="209"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="B3RVF7_TRIAD">
+      <property type="source organism" value="Trichoplax adhaerens (Trichoplax reptans)"/>
+      <property type="NCBI taxonomy" value="10228"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0001783893"/>
+      <property type="UniRef100 ID" value="UniRef100_B3RVF7"/>
+      <property type="UniRef90 ID" value="UniRef90_B3RVF7"/>
+      <property type="UniProtKB accession" value="B3RVF7"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A369SK86_9METZ">
+      <property type="source organism" value="Trichoplax sp. H2"/>
+      <property type="NCBI taxonomy" value="287889"/>
+      <property type="protein name" value="Cilia-and flagella-associated protein 20 (Fragment)"/>
+      <property type="UniParc ID" value="UPI000E12BDB8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A369SK86"/>
+      <property type="UniRef90 ID" value="UniRef90_B3RVF7"/>
+      <property type="UniProtKB accession" value="A0A369SK86"/>
+      <property type="length" value="228"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5E4MEV0_9HEMI">
+      <property type="source organism" value="Cinara cedri"/>
+      <property type="NCBI taxonomy" value="506608"/>
+      <property type="protein name" value="Cilia/flagella-associated protein 20/WDR90/C3orf67"/>
+      <property type="UniParc ID" value="UPI00125AC6CD"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5E4MEV0"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="A0A5E4MEV0"/>
+      <property type="length" value="202"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="C4WUN6_ACYPI">
+      <property type="source organism" value="Acyrthosiphon pisum (Pea aphid)"/>
+      <property type="NCBI taxonomy" value="7029"/>
+      <property type="protein name" value="ACYPI001658 protein"/>
+      <property type="UniParc ID" value="UPI0001792EAB"/>
+      <property type="UniRef100 ID" value="UniRef100_C4WUN6"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="C4WUN6"/>
+      <property type="length" value="198"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5E4MJM4_9HEMI">
+      <property type="source organism" value="Cinara cedri"/>
+      <property type="NCBI taxonomy" value="506608"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0001792EAB"/>
+      <property type="UniRef100 ID" value="UniRef100_C4WUN6"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="A0A5E4MJM4"/>
+      <property type="length" value="198"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B8FMB6_9HEMI">
+      <property type="source organism" value="Sipha flava (yellow sugarcane aphid)"/>
+      <property type="NCBI taxonomy" value="143950"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI0001792EAB"/>
+      <property type="UniRef100 ID" value="UniRef100_C4WUN6"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="A0A8B8FMB6"/>
+      <property type="length" value="198"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6G0YRW4_APHCR">
+      <property type="source organism" value="Aphis craccivora (Cowpea aphid)"/>
+      <property type="NCBI taxonomy" value="307492"/>
+      <property type="protein name" value="Cilia-and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI0013FE5ED2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6G0YRW4"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="A0A6G0YRW4"/>
+      <property type="length" value="196"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="E9GMZ1_DAPPU">
+      <property type="source organism" value="Daphnia pulex (Water flea)"/>
+      <property type="NCBI taxonomy" value="6669"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0001FE682C"/>
+      <property type="UniRef100 ID" value="UniRef100_E9GMZ1"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="E9GMZ1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A162PIA3_9CRUS">
+      <property type="source organism" value="Daphnia magna"/>
+      <property type="NCBI taxonomy" value="35525"/>
+      <property type="protein name" value="UPF0468 protein"/>
+      <property type="UniParc ID" value="UPI0001FE682C"/>
+      <property type="UniRef100 ID" value="UniRef100_E9GMZ1"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="A0A162PIA3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J2S7N9_9CRUS">
+      <property type="source organism" value="Daphnia galeata"/>
+      <property type="NCBI taxonomy" value="27404"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001A458674"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J2S7N9"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="UniProtKB accession" value="A0A8J2S7N9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3S1BE23_ELYCH">
+      <property type="source organism" value="Elysia chlorotica (Eastern emerald elysia) (Sea slug)"/>
+      <property type="NCBI taxonomy" value="188477"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI000F8FEB69"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3S1BE23"/>
+      <property type="UniRef90 ID" value="UniRef90_F6XIZ4"/>
+      <property type="UniProtKB accession" value="A0A3S1BE23"/>
+      <property type="length" value="233"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6F9D8Z0_9ASCI">
+      <property type="source organism" value="Phallusia mammillata"/>
+      <property type="NCBI taxonomy" value="59560"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI001452A6C0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6F9D8Z0"/>
+      <property type="UniRef90 ID" value="UniRef90_F6XIZ4"/>
+      <property type="UniProtKB accession" value="A0A6F9D8Z0"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F6XIZ4_CIOIN">
+      <property type="source organism" value="Ciona intestinalis (Transparent sea squirt) (Ascidia intestinalis)"/>
+      <property type="NCBI taxonomy" value="7719"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00005211F2"/>
+      <property type="UniRef100 ID" value="UniRef100_F6XIZ4"/>
+      <property type="UniRef90 ID" value="UniRef90_F6XIZ4"/>
+      <property type="UniProtKB accession" value="F6XIZ4"/>
+      <property type="UniProtKB accession" value="A0A1W2WMX5"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8E0S521_9TREM">
+      <property type="source organism" value="Fasciolopsis buski"/>
+      <property type="NCBI taxonomy" value="27845"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI001D30FFFA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8E0S521"/>
+      <property type="UniRef90 ID" value="UniRef90_F6XIZ4"/>
+      <property type="UniProtKB accession" value="A0A8E0S521"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q3XK85_MOLML">
+      <property type="source organism" value="Mola mola (Ocean sunfish) (Tetraodon mola)"/>
+      <property type="NCBI taxonomy" value="94237"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000F3700F0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q3XK85"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3Q3XK85"/>
+      <property type="UniProtKB accession" value="A0A3Q3XK85"/>
+      <property type="length" value="231"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q3X766_MOLML">
+      <property type="source organism" value="Mola mola (Ocean sunfish) (Tetraodon mola)"/>
+      <property type="NCBI taxonomy" value="94237"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000F33C1FA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3Q3X766"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3Q3XK85"/>
+      <property type="UniProtKB accession" value="A0A3Q3X766"/>
+      <property type="length" value="191"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8T0HZD7_CERPU">
+      <property type="source organism" value="Ceratodon purpureus (Fire moss) (Dicranum purpureum)"/>
+      <property type="NCBI taxonomy" value="3225"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001BFA3354"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8T0HZD7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8T0HZD7"/>
+      <property type="UniProtKB accession" value="A0A8T0HZD7"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A293L6N6_ORNER">
+      <property type="source organism" value="Ornithodoros erraticus (European soft tick) (Alectorobius erraticus)"/>
+      <property type="NCBI taxonomy" value="265619"/>
+      <property type="protein name" value="Transcription factor IIB (Fragment)"/>
+      <property type="UniParc ID" value="UPI000BDDF9A3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A293L6N6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A553P355"/>
+      <property type="UniProtKB accession" value="A0A293L6N6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A553P355_TIGCA">
+      <property type="source organism" value="Tigriopus californicus (Marine copepod)"/>
+      <property type="NCBI taxonomy" value="6832"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0011923A85"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A553P355"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A553P355"/>
+      <property type="UniProtKB accession" value="A0A553P355"/>
+      <property type="length" value="228"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2R5LFW7_9ACAR">
+      <property type="source organism" value="Ornithodoros turicata"/>
+      <property type="NCBI taxonomy" value="34597"/>
+      <property type="protein name" value="Putative transcription factor iib"/>
+      <property type="UniParc ID" value="UPI000D501DDC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2R5LFW7"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A553P355"/>
+      <property type="UniProtKB accession" value="A0A2R5LFW7"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8S1CZE1_9INSE">
+      <property type="source organism" value="Cloeon dipterum"/>
+      <property type="NCBI taxonomy" value="197152"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0014404BC2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8S1CZE1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A553P355"/>
+      <property type="UniProtKB accession" value="A0A8S1CZE1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5N6MAS4_9ASTR">
+      <property type="source organism" value="Mikania micrantha"/>
+      <property type="NCBI taxonomy" value="192012"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0012C2AC5F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A5N6MAS4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A5N6MAS4"/>
+      <property type="UniProtKB accession" value="A0A5N6MAS4"/>
+      <property type="length" value="245"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8J2MDZ4_9BILA">
+      <property type="source organism" value="Cercopithifilaria johnstoni"/>
+      <property type="NCBI taxonomy" value="2874296"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001DFC2989"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8J2MDZ4"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A8J2MDZ4"/>
+      <property type="length" value="217"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3P6TC53_LITSI">
+      <property type="source organism" value="Litomosoides sigmodontis (Filarial nematode worm)"/>
+      <property type="NCBI taxonomy" value="42156"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0006045892"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3P6TC53"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A3P6TC53"/>
+      <property type="length" value="236"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8R1U2K5_ONCVO">
+      <property type="source organism" value="Onchocerca volvulus"/>
+      <property type="NCBI taxonomy" value="6282"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00043B93E8"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8R1U2K5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A8R1U2K5"/>
+      <property type="length" value="226"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0N4TZ90_BRUPA">
+      <property type="source organism" value="Brugia pahangi (Filarial nematode worm)"/>
+      <property type="NCBI taxonomy" value="6280"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0005FFFCD3"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0N4TZ90"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A0N4TZ90"/>
+      <property type="length" value="222"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0R3RRV0_9BILA">
+      <property type="source organism" value="Elaeophora elaphi"/>
+      <property type="NCBI taxonomy" value="1147741"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0006027942"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0R3RRV0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A0R3RRV0"/>
+      <property type="length" value="216"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A182EN66_ONCOC">
+      <property type="source organism" value="Onchocerca ochengi (Filarial nematode worm)"/>
+      <property type="NCBI taxonomy" value="42157"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00060C3543"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A182EN66"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A182EN66"/>
+      <property type="length" value="214"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3P7K4X0_ONCOC">
+      <property type="source organism" value="Onchocerca ochengi (Filarial nematode worm)"/>
+      <property type="NCBI taxonomy" value="42157"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI000FB5F89E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A182EN66"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A3P7K4X0"/>
+      <property type="length" value="159"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3P7DH22_WUCBA">
+      <property type="source organism" value="Wuchereria bancrofti"/>
+      <property type="NCBI taxonomy" value="6293"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000607EC20"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3P7DH22"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A3P7DH22"/>
+      <property type="length" value="212"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="J9EJP6_WUCBA">
+      <property type="source organism" value="Wuchereria bancrofti"/>
+      <property type="NCBI taxonomy" value="6293"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI0002800325"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3P7DH22"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="J9EJP6"/>
+      <property type="length" value="204"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0K0J818_BRUMA">
+      <property type="source organism" value="Brugia malayi (Filarial nematode worm)"/>
+      <property type="NCBI taxonomy" value="6279"/>
+      <property type="protein name" value="Bm2921"/>
+      <property type="UniParc ID" value="UPI0003416DD6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K0J818"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A0K0J818"/>
+      <property type="length" value="212"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0R3QTR3_9BILA">
+      <property type="source organism" value="Brugia timori"/>
+      <property type="NCBI taxonomy" value="42155"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0003416DD6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K0J818"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A0R3QTR3"/>
+      <property type="length" value="212"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4E9FDE7_BRUMA">
+      <property type="source organism" value="Brugia malayi (Filarial nematode worm)"/>
+      <property type="NCBI taxonomy" value="6279"/>
+      <property type="protein name" value="RE32166p, putative"/>
+      <property type="UniParc ID" value="UPI0003416DD6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0K0J818"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A4E9FDE7"/>
+      <property type="length" value="212"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1I7VDA0_LOALO">
+      <property type="source organism" value="Loa loa (Eye worm) (Filaria loa)"/>
+      <property type="NCBI taxonomy" value="7209"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00027D12BF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1I7VDA0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P7DH22"/>
+      <property type="UniProtKB accession" value="A0A1I7VDA0"/>
+      <property type="UniProtKB accession" value="A0A1S0U6G3"/>
+      <property type="length" value="212"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0D9XFI1_9ORYZ">
+      <property type="source organism" value="Leersia perrieri"/>
+      <property type="NCBI taxonomy" value="77586"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0004EC8F86"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0D9XFI1"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="A0A0D9XFI1"/>
+      <property type="length" value="229"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0E0QTL0_ORYRU">
+      <property type="source organism" value="Oryza rufipogon (Brownbeard rice) (Asian wild rice)"/>
+      <property type="NCBI taxonomy" value="4529"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0004EC94E5"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0E0QTL0"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="A0A0E0QTL0"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0E0B545_9ORYZ">
+      <property type="source organism" value="Oryza glumipatula"/>
+      <property type="NCBI taxonomy" value="40148"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00043CE470"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0E0B545"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="A0A0E0B545"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="C5X5B0_SORBI">
+      <property type="source organism" value="Sorghum bicolor (Sorghum) (Sorghum vulgare)"/>
+      <property type="NCBI taxonomy" value="4558"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0001A8388D"/>
+      <property type="UniRef100 ID" value="UniRef100_C5X5B0"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="C5X5B0"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0E0M380_ORYPU">
+      <property type="source organism" value="Oryza punctata (Red rice)"/>
+      <property type="NCBI taxonomy" value="4537"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00043D2793"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0E0M380"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="A0A0E0M380"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2T7EUH5_9POAL">
+      <property type="source organism" value="Panicum hallii var. hallii"/>
+      <property type="NCBI taxonomy" value="1504633"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000D5AA7AB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T7EUH5"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="A0A2T7EUH5"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2S3H175_9POAL">
+      <property type="source organism" value="Panicum hallii"/>
+      <property type="NCBI taxonomy" value="206008"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000D5AA7AB"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2T7EUH5"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="UniProtKB accession" value="A0A2S3H175"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J6GCT8_CANSA">
+      <property type="source organism" value="Cannabis sativa (Hemp) (Marijuana)"/>
+      <property type="NCBI taxonomy" value="3483"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001801EB82"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J6GCT8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7J6GCT8"/>
+      <property type="UniProtKB accession" value="A0A7J6GCT8"/>
+      <property type="length" value="228"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6G1A4N2_CROCR">
+      <property type="source organism" value="Crocuta crocuta (Spotted hyena)"/>
+      <property type="NCBI taxonomy" value="9678"/>
+      <property type="protein name" value="CFA20 protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI001411948A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6G1A4N2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A6G1A4N2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P7G860_DIAVI">
+      <property type="source organism" value="Diabrotica virgifera virgifera (western corn rootworm)"/>
+      <property type="NCBI taxonomy" value="50390"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI001037779A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P7G860"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A6P7G860"/>
+      <property type="length" value="199"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D8MDR5_9HEMI">
+      <property type="source organism" value="Cacopsylla melanoneura"/>
+      <property type="NCBI taxonomy" value="428564"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI0004AA6770"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D8MDR5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A8D8MDR5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1S3CXK6_DIACI">
+      <property type="source organism" value="Diaphorina citri (Asian citrus psyllid)"/>
+      <property type="NCBI taxonomy" value="121845"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI0004AA6770"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D8MDR5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A1S3CXK6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="E0W4A2_PEDHC">
+      <property type="source organism" value="Pediculus humanus subsp. corporis (Body louse)"/>
+      <property type="NCBI taxonomy" value="121224"/>
+      <property type="protein name" value="Orf protein, putative"/>
+      <property type="UniParc ID" value="UPI000186ED16"/>
+      <property type="UniRef100 ID" value="UniRef100_E0W4A2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="E0W4A2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B6GCR3_9HEMI">
+      <property type="source organism" value="Cuerna arida"/>
+      <property type="NCBI taxonomy" value="1464854"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000858778B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B6GCR3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A1B6GCR3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1B6JTP1_9HEMI">
+      <property type="source organism" value="Homalodisca liturata"/>
+      <property type="NCBI taxonomy" value="320908"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000858778B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1B6GCR3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A1B6JTP1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A482XD26_LAOST">
+      <property type="source organism" value="Laodelphax striatellus (Small brown planthopper) (Delphax striatella)"/>
+      <property type="NCBI taxonomy" value="195883"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000B97F65A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A482XD26"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="UniProtKB accession" value="A0A482XD26"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2P4TCV1_BAMTH">
+      <property type="source organism" value="Bambusicola thoracicus (Chinese bamboo-partridge) (Perdix thoracica)"/>
+      <property type="NCBI taxonomy" value="9083"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000D292DC4"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2P4TCV1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2P4TCV1"/>
+      <property type="UniProtKB accession" value="A0A2P4TCV1"/>
+      <property type="length" value="228"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2D0SXN5_ICTPU">
+      <property type="source organism" value="Ictalurus punctatus (Channel catfish) (Silurus punctatus)"/>
+      <property type="NCBI taxonomy" value="7998"/>
+      <property type="protein name" value="upf0468 protein c16orf80-like protein isoform X1"/>
+      <property type="UniParc ID" value="UPI000802D5A0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A2D0SXN5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0SZ41"/>
+      <property type="UniProtKB accession" value="A0A2D0SXN5"/>
+      <property type="length" value="225"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8U0PQL8_SALNM">
+      <property type="source organism" value="Salvelinus namaycush (Lake trout) (Salmo namaycush)"/>
+      <property type="NCBI taxonomy" value="8040"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniParc ID" value="UPI0019022138"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8U0PQL8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0SZ41"/>
+      <property type="UniProtKB accession" value="A0A8U0PQL8"/>
+      <property type="length" value="202"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="E3TFE3_ICTPU">
+      <property type="source organism" value="Ictalurus punctatus (Channel catfish) (Silurus punctatus)"/>
+      <property type="NCBI taxonomy" value="7998"/>
+      <property type="protein name" value="Upf0468 protein c16orf80-like protein"/>
+      <property type="UniParc ID" value="UPI0001E68D5C"/>
+      <property type="UniRef100 ID" value="UniRef100_E3TFE3"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0SZ41"/>
+      <property type="UniProtKB accession" value="E3TFE3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S0SZ41_9CHLO">
+      <property type="source organism" value="Mantoniella antarctica"/>
+      <property type="NCBI taxonomy" value="81844"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0016CC390B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S0SZ41"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0SZ41"/>
+      <property type="UniProtKB accession" value="A0A7S0SZ41"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7R9V6Z9_9CHLO">
+      <property type="source organism" value="Chlamydomonas euryale"/>
+      <property type="NCBI taxonomy" value="1486919"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00171B680E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7R9V6Z9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7R9V6Z9"/>
+      <property type="UniProtKB accession" value="A0A7R9V6Z9"/>
+      <property type="length" value="243"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6U6GGT8_9STRA">
+      <property type="source organism" value="Odontella aurita"/>
+      <property type="NCBI taxonomy" value="265563"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI001705A3FC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6U6GGT8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A6U6GGT8"/>
+      <property type="UniProtKB accession" value="A0A6U6GGT8"/>
+      <property type="length" value="226"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C7XM91_9TELE">
+      <property type="source organism" value="Oryzias sinensis (Chinese medaka)"/>
+      <property type="NCBI taxonomy" value="183150"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001634C272"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C7XM91"/>
+      <property type="UniRef90 ID" value="UniRef90_H2LUA2"/>
+      <property type="UniProtKB accession" value="A0A8C7XM91"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C7XMS6_9TELE">
+      <property type="source organism" value="Oryzias sinensis (Chinese medaka)"/>
+      <property type="NCBI taxonomy" value="183150"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001638FB70"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C7XMS6"/>
+      <property type="UniRef90 ID" value="UniRef90_H2LUA2"/>
+      <property type="UniProtKB accession" value="A0A8C7XMS6"/>
+      <property type="length" value="234"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="H2LUA2_ORYLA">
+      <property type="source organism" value="Oryzias latipes (Japanese rice fish) (Japanese killifish)"/>
+      <property type="NCBI taxonomy" value="8090"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI0002A48502"/>
+      <property type="UniRef100 ID" value="UniRef100_H2LUA2"/>
+      <property type="UniRef90 ID" value="UniRef90_H2LUA2"/>
+      <property type="UniProtKB accession" value="H2LUA2"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3P9MBQ2_ORYLA">
+      <property type="source organism" value="Oryzias latipes (Japanese rice fish) (Japanese killifish)"/>
+      <property type="NCBI taxonomy" value="8090"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI0002A48502"/>
+      <property type="UniRef100 ID" value="UniRef100_H2LUA2"/>
+      <property type="UniRef90 ID" value="UniRef90_H2LUA2"/>
+      <property type="UniProtKB accession" value="A0A3P9MBQ2"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A183UIU9_TOXCA">
+      <property type="source organism" value="Toxocara canis (Canine roundworm)"/>
+      <property type="NCBI taxonomy" value="6265"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000601B1AF"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A183UIU9"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A183UIU9"/>
+      <property type="UniProtKB accession" value="A0A183UIU9"/>
+      <property type="length" value="273"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0L9V4F1_PHAAN">
+      <property type="source organism" value="Phaseolus angularis (Azuki bean) (Vigna angularis)"/>
+      <property type="NCBI taxonomy" value="3914"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0006A39C72"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0L9V4F1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L9V4F1"/>
+      <property type="UniProtKB accession" value="A0A0L9V4F1"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0S3SAP1_PHAAN">
+      <property type="source organism" value="Vigna angularis var. angularis"/>
+      <property type="NCBI taxonomy" value="157739"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0006A39C72"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0L9V4F1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L9V4F1"/>
+      <property type="UniProtKB accession" value="A0A0S3SAP1"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P4C7Z2_ARADU">
+      <property type="source organism" value="Arachis duranensis (Wild peanut)"/>
+      <property type="NCBI taxonomy" value="130453"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniParc ID" value="UPI000A2C461E"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P4C7Z2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L9V4F1"/>
+      <property type="UniProtKB accession" value="A0A6P4C7Z2"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P4BW11_ARADU">
+      <property type="source organism" value="Arachis duranensis (Wild peanut)"/>
+      <property type="NCBI taxonomy" value="130453"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniParc ID" value="UPI000788829D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P4BW11"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L9V4F1"/>
+      <property type="UniProtKB accession" value="A0A6P4BW11"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3B6KLB2_WHEAT">
+      <property type="source organism" value="Triticum aestivum (Wheat)"/>
+      <property type="NCBI taxonomy" value="4565"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000DF5B3EA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B6KLB2"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="UniProtKB accession" value="A0A3B6KLB2"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8R7UIH7_TRIUA">
+      <property type="source organism" value="Triticum urartu (Red wild einkorn) (Crithodium urartu)"/>
+      <property type="NCBI taxonomy" value="4572"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000DF5B3EA"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B6KLB2"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="UniProtKB accession" value="A0A8R7UIH7"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3B6LPZ6_WHEAT">
+      <property type="source organism" value="Triticum aestivum (Wheat)"/>
+      <property type="NCBI taxonomy" value="4565"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000843941D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3B6LPZ6"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="UniProtKB accession" value="A0A3B6LPZ6"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="I1IRP0_BRADI">
+      <property type="source organism" value="Brachypodium distachyon (Purple false brome) (Trachynia distachya)"/>
+      <property type="NCBI taxonomy" value="15368"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0001C70E87"/>
+      <property type="UniRef100 ID" value="UniRef100_I1IRP0"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="UniProtKB accession" value="I1IRP0"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F2D3H8_HORVV">
+      <property type="source organism" value="Hordeum vulgare subsp. vulgare (Domesticated barley)"/>
+      <property type="NCBI taxonomy" value="112509"/>
+      <property type="protein name" value="Predicted protein"/>
+      <property type="UniParc ID" value="UPI000200519D"/>
+      <property type="UniRef100 ID" value="UniRef100_F2D3H8"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="UniProtKB accession" value="F2D3H8"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3P9J813_ORYLA">
+      <property type="source organism" value="Oryzias latipes (Japanese rice fish) (Japanese killifish)"/>
+      <property type="NCBI taxonomy" value="8090"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000F2F75C7"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3P9J813"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P9J813"/>
+      <property type="UniProtKB accession" value="A0A3P9J813"/>
+      <property type="length" value="254"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8DM21_9TELE">
+      <property type="source organism" value="Oryzias sinensis (Chinese medaka)"/>
+      <property type="NCBI taxonomy" value="183150"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001637018F"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C8DM21"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P9J813"/>
+      <property type="UniProtKB accession" value="A0A8C8DM21"/>
+      <property type="length" value="281"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8DMC0_9TELE">
+      <property type="source organism" value="Oryzias sinensis (Chinese medaka)"/>
+      <property type="NCBI taxonomy" value="183150"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00163813E6"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C8DMC0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P9J813"/>
+      <property type="UniProtKB accession" value="A0A8C8DMC0"/>
+      <property type="length" value="254"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3P9KZK6_ORYLA">
+      <property type="source organism" value="Oryzias latipes (Japanese rice fish) (Japanese killifish)"/>
+      <property type="NCBI taxonomy" value="8090"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI000F2ED430"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3P9KZK6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P9J813"/>
+      <property type="UniProtKB accession" value="A0A3P9KZK6"/>
+      <property type="length" value="254"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1I8ESH6_WUCBA">
+      <property type="source organism" value="Wuchereria bancrofti"/>
+      <property type="NCBI taxonomy" value="6293"/>
+      <property type="protein name" value="DUF667 domain-containing protein"/>
+      <property type="UniParc ID" value="UPI000818E2F0"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A1I8ESH6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A1I8ESH6"/>
+      <property type="UniProtKB accession" value="A0A1I8ESH6"/>
+      <property type="length" value="232"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J7SAE6_MYOMY">
+      <property type="source organism" value="Myotis myotis (Greater mouse-eared bat)"/>
+      <property type="NCBI taxonomy" value="51298"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI0018213A55"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J7SAE6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7J7SAE6"/>
+      <property type="UniProtKB accession" value="A0A7J7SAE6"/>
+      <property type="length" value="245"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S4B3L6_CHRCT">
+      <property type="source organism" value="Chrysotila carterae (Marine alga) (Syracosphaera carterae)"/>
+      <property type="NCBI taxonomy" value="13221"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0016DB1067"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S4B3L6"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0Q1R5"/>
+      <property type="UniProtKB accession" value="A0A7S4B3L6"/>
+      <property type="length" value="198"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S0Q1R5_9EUKA">
+      <property type="source organism" value="Coccolithus braarudii"/>
+      <property type="NCBI taxonomy" value="221442"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0016DC8ADC"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S0Q1R5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0Q1R5"/>
+      <property type="UniProtKB accession" value="A0A7S0Q1R5"/>
+      <property type="length" value="243"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7S0JGK2_9EUKA">
+      <property type="source organism" value="Calcidiscus leptoporus"/>
+      <property type="NCBI taxonomy" value="127549"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI001712D526"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7S0JGK2"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0Q1R5"/>
+      <property type="UniProtKB accession" value="A0A7S0JGK2"/>
+      <property type="length" value="205"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D3BKN0_SCOMX">
+      <property type="source organism" value="Scophthalmus maximus (Turbot) (Psetta maxima)"/>
+      <property type="NCBI taxonomy" value="52904"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001CC88C50"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D3BKN0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D3BKN0"/>
+      <property type="UniProtKB accession" value="A0A8D3BKN0"/>
+      <property type="length" value="229"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9JPY5_CHRAS">
+      <property type="source organism" value="Chrysochloris asiatica (Cape golden mole)"/>
+      <property type="NCBI taxonomy" value="185453"/>
+      <property type="protein name" value="UPF0468 protein C16orf80 homolog"/>
+      <property type="UniParc ID" value="UPI0003F11870"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6I9JPY5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6I9JPY5"/>
+      <property type="length" value="229"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A673UH45_SURSU">
+      <property type="source organism" value="Suricata suricatta (Meerkat)"/>
+      <property type="NCBI taxonomy" value="37032"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001155338A"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A673UH45"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A673UH45"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6GHR7_MUSSI">
+      <property type="source organism" value="Mus spicilegus (Steppe mouse)"/>
+      <property type="NCBI taxonomy" value="10103"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI001084C70B"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8C6GHR7"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C6GHR7"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="M3Y016_MUSPF">
+      <property type="source organism" value="Mustela putorius furo (European domestic ferret) (Mustela furo)"/>
+      <property type="NCBI taxonomy" value="9669"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="M3Y016"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9ZX64_ACIJB">
+      <property type="source organism" value="Acinonyx jubatus (Cheetah)"/>
+      <property type="NCBI taxonomy" value="32536"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6I9ZX64"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F2Z513_PIG">
+      <property type="source organism" value="Sus scrofa (Pig)"/>
+      <property type="NCBI taxonomy" value="9823"/>
+      <property type="protein name" value="Cilia-and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="F2Z513"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4X1UXR5_PIG">
+      <property type="source organism" value="Sus scrofa (Pig)"/>
+      <property type="NCBI taxonomy" value="9823"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A4X1UXR5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4W2E975_BOBOX">
+      <property type="source organism" value="Bos indicus x Bos taurus (Hybrid cattle)"/>
+      <property type="NCBI taxonomy" value="30522"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A4W2E975"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8I3MFU7_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8I3MFU7"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0S0Y4_CANLF">
+      <property type="source organism" value="Canis lupus familiaris (Dog) (Canis familiaris)"/>
+      <property type="NCBI taxonomy" value="9615"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C0S0Y4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7EVW3_MICMU">
+      <property type="source organism" value="Microcebus murinus (Gray mouse lemur) (Lemur murinus)"/>
+      <property type="NCBI taxonomy" value="30608"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8B7EVW3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A340Y7K4_LIPVE">
+      <property type="source organism" value="Lipotes vexillifer (Yangtze river dolphin)"/>
+      <property type="NCBI taxonomy" value="118797"/>
+      <property type="protein name" value="UPF0468 protein C16orf80 homolog isoform X1"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A340Y7K4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7QGV4_CALUR">
+      <property type="source organism" value="Callorhinus ursinus (Northern fur seal)"/>
+      <property type="NCBI taxonomy" value="34884"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A3Q7QGV4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="U6CR23_NEOVI">
+      <property type="source organism" value="Neovison vison (American mink) (Mustela vison)"/>
+      <property type="NCBI taxonomy" value="452646"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="U6CR23"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A671EKY8_RHIFE">
+      <property type="source organism" value="Rhinolophus ferrumequinum (Greater horseshoe bat)"/>
+      <property type="NCBI taxonomy" value="59479"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A671EKY8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0E115_BALMU">
+      <property type="source organism" value="Balaenoptera musculus (Blue whale)"/>
+      <property type="NCBI taxonomy" value="9771"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C0E115"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A384D164_URSMA">
+      <property type="source organism" value="Ursus maritimus (Polar bear) (Thalarctos maritimus)"/>
+      <property type="NCBI taxonomy" value="29073"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A384D164"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J8C6J4_MOLMO">
+      <property type="source organism" value="Molossus molossus (Pallas' mastiff bat) (Vespertilio molossus)"/>
+      <property type="NCBI taxonomy" value="27622"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A7J8C6J4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P3J885_BISBI">
+      <property type="source organism" value="Bison bison bison"/>
+      <property type="NCBI taxonomy" value="43346"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P3J885"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J0XDW2_ODOVR">
+      <property type="source organism" value="Odocoileus virginianus texanus"/>
+      <property type="NCBI taxonomy" value="9880"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6J0XDW2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6AYN5_MONMO">
+      <property type="source organism" value="Monodon monoceros (Narwhal) (Ceratodon monodon)"/>
+      <property type="NCBI taxonomy" value="40151"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C6AYN5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="W5NSW6_SHEEP">
+      <property type="source organism" value="Ovis aries (Sheep)"/>
+      <property type="NCBI taxonomy" value="9940"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="W5NSW6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P3EJG7_SHEEP">
+      <property type="source organism" value="Ovis aries (Sheep)"/>
+      <property type="NCBI taxonomy" value="9940"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P3EJG7"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7U2I4_VULVU">
+      <property type="source organism" value="Vulpes vulpes (Red fox)"/>
+      <property type="NCBI taxonomy" value="9627"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A3Q7U2I4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7ACQ2_ORYAF">
+      <property type="source organism" value="Orycteropus afer afer"/>
+      <property type="NCBI taxonomy" value="1230840"/>
+      <property type="protein name" value="UPF0468 protein C16orf80 homolog"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8B7ACQ2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8XFW1_PANLE">
+      <property type="source organism" value="Panthera leo (Lion)"/>
+      <property type="NCBI taxonomy" value="9689"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C8XFW1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9KKL3_ENHLU">
+      <property type="source organism" value="Enhydra lutris kenyoni"/>
+      <property type="NCBI taxonomy" value="391180"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2Y9KKL3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C8ZAZ9_PROSS">
+      <property type="source organism" value="Prolemur simus (Greater bamboo lemur) (Hapalemur simus)"/>
+      <property type="NCBI taxonomy" value="1328070"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C8ZAZ9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2I2UCI6_FELCA">
+      <property type="source organism" value="Felis catus (Cat) (Felis silvestris catus)"/>
+      <property type="NCBI taxonomy" value="9685"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2I2UCI6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9IF30_NEOSC">
+      <property type="source organism" value="Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi)"/>
+      <property type="NCBI taxonomy" value="29088"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2Y9IF30"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F6R525_MONDO">
+      <property type="source organism" value="Monodelphis domestica (Gray short-tailed opossum)"/>
+      <property type="NCBI taxonomy" value="13616"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="F6R525"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9EQJ9_PHYMC">
+      <property type="source organism" value="Physeter macrocephalus (Sperm whale) (Physeter catodon)"/>
+      <property type="NCBI taxonomy" value="9755"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2Y9EQJ9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C4PIG9_EQUAS">
+      <property type="source organism" value="Equus asinus asinus"/>
+      <property type="NCBI taxonomy" value="83772"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C4PIG9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G3VRK9_SARHA">
+      <property type="source organism" value="Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)"/>
+      <property type="NCBI taxonomy" value="9305"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="G3VRK9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C3WWQ2_9CETA">
+      <property type="source organism" value="Catagonus wagneri (Chacoan peccary)"/>
+      <property type="NCBI taxonomy" value="51154"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C3WWQ2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A7J8CER6_ROUAE">
+      <property type="source organism" value="Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)"/>
+      <property type="NCBI taxonomy" value="9407"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A7J8CER6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U4BDM5_TURTR">
+      <property type="source organism" value="Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)"/>
+      <property type="NCBI taxonomy" value="9739"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2U4BDM5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P3RAV8_PTEVA">
+      <property type="source organism" value="Pteropus vampyrus (Large flying fox)"/>
+      <property type="NCBI taxonomy" value="132908"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P3RAV8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9DC36_TRIMA">
+      <property type="source organism" value="Trichechus manatus latirostris (Florida manatee)"/>
+      <property type="NCBI taxonomy" value="127582"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2Y9DC36"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J2F6C8_ZALCA">
+      <property type="source organism" value="Zalophus californianus (California sealion)"/>
+      <property type="NCBI taxonomy" value="9704"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6J2F6C8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F7C1L3_HORSE">
+      <property type="source organism" value="Equus caballus (Horse)"/>
+      <property type="NCBI taxonomy" value="9796"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="F7C1L3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6CTT9_MOSMO">
+      <property type="source organism" value="Moschus moschiferus (Siberian musk deer) (Moschus sibiricus)"/>
+      <property type="NCBI taxonomy" value="68415"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C6CTT9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452G3P8_CAPHI">
+      <property type="source organism" value="Capra hircus (Goat)"/>
+      <property type="NCBI taxonomy" value="9925"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A452G3P8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A341BN36_NEOAA">
+      <property type="source organism" value="Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise)(Neophocaena phocaenoides subsp. asiaeorientalis)"/>
+      <property type="NCBI taxonomy" value="1706337"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A341BN36"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B7T610_HIPAR">
+      <property type="source organism" value="Hipposideros armiger (Great Himalayan leaf-nosed bat)"/>
+      <property type="NCBI taxonomy" value="186990"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8B7T610"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C0AD58_BOSMU">
+      <property type="source organism" value="Bos mutus grunniens (Wild yak) (Bos grunniens)"/>
+      <property type="NCBI taxonomy" value="30521"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C0AD58"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P5DBS0_BOSIN">
+      <property type="source organism" value="Bos indicus (Zebu)"/>
+      <property type="NCBI taxonomy" value="9915"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P5DBS0"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5N3VTW5_MUNMU">
+      <property type="source organism" value="Muntiacus muntjak (Barking deer) (Indian muntjac)"/>
+      <property type="NCBI taxonomy" value="9888"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A5N3VTW5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G1MFS2_AILME">
+      <property type="source organism" value="Ailuropoda melanoleuca (Giant panda)"/>
+      <property type="NCBI taxonomy" value="9646"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="G1MFS2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A667HZS3_LYNCA">
+      <property type="source organism" value="Lynx canadensis (Canada lynx)"/>
+      <property type="NCBI taxonomy" value="61383"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A667HZS3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P5IDW2_PHACI">
+      <property type="source organism" value="Phascolarctos cinereus (Koala)"/>
+      <property type="NCBI taxonomy" value="38626"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P5IDW2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9EDY1_PHOSS">
+      <property type="source organism" value="Phocoena sinus (Vaquita)"/>
+      <property type="NCBI taxonomy" value="42100"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C9EDY1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P6HME4_PUMCO">
+      <property type="source organism" value="Puma concolor (Mountain lion) (Felis concolor)"/>
+      <property type="NCBI taxonomy" value="9696"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P6HME4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="G1T6K5_RABIT">
+      <property type="source organism" value="Oryctolagus cuniculus (Rabbit)"/>
+      <property type="NCBI taxonomy" value="9986"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="G1T6K5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A811YQ80_NYCPR">
+      <property type="source organism" value="Nyctereutes procyonoides (Raccoon dog) (Canis procyonoides)"/>
+      <property type="NCBI taxonomy" value="34880"/>
+      <property type="protein name" value="(raccoon dog) hypothetical protein"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A811YQ80"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P4WWJ2_PANPR">
+      <property type="source organism" value="Panthera pardus (Leopard) (Felis pardus)"/>
+      <property type="NCBI taxonomy" value="9691"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P4WWJ2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A3Q7W7R1_URSAR">
+      <property type="source organism" value="Ursus arctos horribilis"/>
+      <property type="NCBI taxonomy" value="116960"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A3Q7W7R1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5J5MS46_MUNRE">
+      <property type="source organism" value="Muntiacus reevesi (Reeves' muntjac) (Cervus reevesi)"/>
+      <property type="NCBI taxonomy" value="9886"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A5J5MS46"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A452RQ69_URSAM">
+      <property type="source organism" value="Ursus americanus (American black bear) (Euarctos americanus)"/>
+      <property type="NCBI taxonomy" value="9643"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A452RQ69"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8B8TKI7_CAMFR">
+      <property type="source organism" value="Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus)"/>
+      <property type="NCBI taxonomy" value="419612"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8B8TKI7"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4X2MF31_VOMUR">
+      <property type="source organism" value="Vombatus ursinus (Common wombat)"/>
+      <property type="NCBI taxonomy" value="29139"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A4X2MF31"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A485PA37_LYNPA">
+      <property type="source organism" value="Lynx pardinus (Iberian lynx) (Felis pardina)"/>
+      <property type="NCBI taxonomy" value="191816"/>
+      <property type="protein name" value="Transcription factor iib"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A485PA37"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2K6F352_PROCO">
+      <property type="source organism" value="Propithecus coquereli (Coquerel's sifaka) (Propithecus verreauxicoquereli)"/>
+      <property type="NCBI taxonomy" value="379532"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2K6F352"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A383YXI4_BALAS">
+      <property type="source organism" value="Balaenoptera acutorostrata scammoni (North Pacific minke whale)(Balaenoptera davidsoni)"/>
+      <property type="NCBI taxonomy" value="310752"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A383YXI4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6I9IKL2_VICPA">
+      <property type="source organism" value="Vicugna pacos (Alpaca) (Lama pacos)"/>
+      <property type="NCBI taxonomy" value="30538"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6I9IKL2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C9JMX5_PANTA">
+      <property type="source organism" value="Panthera tigris altaica (Siberian tiger)"/>
+      <property type="NCBI taxonomy" value="74533"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C9JMX5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2U3VLI1_ODORO">
+      <property type="source organism" value="Odobenus rosmarus divergens (Pacific walrus)"/>
+      <property type="NCBI taxonomy" value="9708"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2U3VLI1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7UK15_CARSF">
+      <property type="source organism" value="Carlito syrichta (Philippine tarsier) (Tarsius syrichta)"/>
+      <property type="NCBI taxonomy" value="1868482"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A1U7UK15"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A2Y9LQI9_DELLE">
+      <property type="source organism" value="Delphinapterus leucas (Beluga whale)"/>
+      <property type="NCBI taxonomy" value="9749"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A2Y9LQI9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5E4A4H3_MARMO">
+      <property type="source organism" value="Marmota monax (Woodchuck)"/>
+      <property type="NCBI taxonomy" value="9995"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A5E4A4H3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A250YBT3_CASCN">
+      <property type="source organism" value="Castor canadensis (American beaver)"/>
+      <property type="NCBI taxonomy" value="51338"/>
+      <property type="protein name" value="Cilia-and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A250YBT3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6J0DAJ2_PERMB">
+      <property type="source organism" value="Peromyscus maniculatus bairdii (Prairie deer mouse)"/>
+      <property type="NCBI taxonomy" value="230844"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6J0DAJ2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0H2UI05_RAT">
+      <property type="source organism" value="Rattus norvegicus (Rat)"/>
+      <property type="NCBI taxonomy" value="10116"/>
+      <property type="protein name" value="Cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A0H2UI05"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A286XBQ8_CAVPO">
+      <property type="source organism" value="Cavia porcellus (Guinea pig)"/>
+      <property type="NCBI taxonomy" value="10141"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A286XBQ8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2LVT5_CRIGR">
+      <property type="source organism" value="Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)"/>
+      <property type="NCBI taxonomy" value="10029"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C2LVT5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2DIN8_SCIVU">
+      <property type="source organism" value="Sciurus vulgaris (Eurasian red squirrel)"/>
+      <property type="NCBI taxonomy" value="55149"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8D2DIN8"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1U7QQF2_MESAU">
+      <property type="source organism" value="Mesocricetus auratus (Golden hamster)"/>
+      <property type="NCBI taxonomy" value="10036"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A1U7QQF2"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A287DG15_ICTTR">
+      <property type="source organism" value="Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilustridecemlineatus)"/>
+      <property type="NCBI taxonomy" value="43179"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A287DG15"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6QDQ6_NANGA">
+      <property type="source organism" value="Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalaxgalili)"/>
+      <property type="NCBI taxonomy" value="1026970"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C6QDQ6"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C6ES77_MARMA">
+      <property type="source organism" value="Marmota marmota marmota (Alpine marmot)"/>
+      <property type="NCBI taxonomy" value="9994"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C6ES77"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0P6JGC5_HETGA">
+      <property type="source organism" value="Heterocephalus glaber (Naked mole rat)"/>
+      <property type="NCBI taxonomy" value="10181"/>
+      <property type="protein name" value="UPF0468 protein C16orf80"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A0P6JGC5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P5QDJ4_MUSCR">
+      <property type="source organism" value="Mus caroli (Ryukyu mouse) (Ricefield mouse)"/>
+      <property type="NCBI taxonomy" value="10089"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P5QDJ4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A1S3EUX4_DIPOR">
+      <property type="source organism" value="Dipodomys ordii (Ord's kangaroo rat)"/>
+      <property type="NCBI taxonomy" value="10020"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A1S3EUX4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8C2YQV9_CHILA">
+      <property type="source organism" value="Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera)"/>
+      <property type="NCBI taxonomy" value="34839"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8C2YQV9"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A8D2KI76_UROPR">
+      <property type="source organism" value="Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii)"/>
+      <property type="NCBI taxonomy" value="9999"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A8D2KI76"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P6DYM3_OCTDE">
+      <property type="source organism" value="Octodon degus (Degu) (Sciurus degus)"/>
+      <property type="NCBI taxonomy" value="10160"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI00000EAB10"/>
+      <property type="UniRef100 ID" value="UniRef100_Q8BTU1"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P6DYM3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P6LUV5_CARAU">
+      <property type="source organism" value="Carassius auratus (Goldfish)"/>
+      <property type="NCBI taxonomy" value="7957"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20-like isoform X1"/>
+      <property type="UniParc ID" value="UPI000E40804D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P6LUV5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P6LUV5"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A5A9NKG0_9TELE">
+      <property type="source organism" value="Triplophysa tibetana"/>
+      <property type="NCBI taxonomy" value="1572043"/>
+      <property type="protein name" value="Cilia-and flagella-associated protein 20"/>
+      <property type="UniParc ID" value="UPI000E40804D"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P6LUV5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A5A9NKG0"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6P6LUV4_CARAU">
+      <property type="source organism" value="Carassius auratus (Goldfish)"/>
+      <property type="NCBI taxonomy" value="7957"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20-like isoform X2"/>
+      <property type="UniParc ID" value="UPI0003D7CC37"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P6LUV5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6P6LUV4"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A6F9A9X7_9TELE">
+      <property type="source organism" value="Coregonus sp. 'balchen'"/>
+      <property type="NCBI taxonomy" value="861768"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein (Fragment)"/>
+      <property type="UniParc ID" value="UPI0003D7CC37"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P6LUV5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A6F9A9X7"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="V9LD27_CALMI">
+      <property type="source organism" value="Callorhinchus milii (Ghost shark)"/>
+      <property type="NCBI taxonomy" value="7868"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0003D7CC37"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P6LUV5"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="V9LD27"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A4W4EGH3_ELEEL">
+      <property type="source organism" value="Electrophorus electricus (Electric eel) (Gymnotus electricus)"/>
+      <property type="NCBI taxonomy" value="8005"/>
+      <property type="protein name" value="Cilia and flagella associated protein 20"/>
+      <property type="UniParc ID" value="UPI000F0A93C2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A4W4EGH3"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="UniProtKB accession" value="A0A4W4EGH3"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="F0YCD1_AURAN">
+      <property type="source organism" value="Aureococcus anophagefferens (Harmful bloom alga)"/>
+      <property type="NCBI taxonomy" value="44056"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0001FF2C12"/>
+      <property type="UniRef100 ID" value="UniRef100_F0YCD1"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L0TEP8"/>
+      <property type="UniProtKB accession" value="F0YCD1"/>
+      <property type="length" value="203"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0L0T016_ALLM3">
+      <property type="source organism" value="Allomyces macrogynus (strain ATCC 38327) (Allomyces javanicus var.macrogynus)"/>
+      <property type="NCBI taxonomy" value="578462"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI0006775444"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0L0T016"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L0TEP8"/>
+      <property type="UniProtKB accession" value="A0A0L0T016"/>
+      <property type="length" value="228"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0A0L0TEP8_ALLM3">
+      <property type="source organism" value="Allomyces macrogynus (strain ATCC 38327) (Allomyces javanicus var.macrogynus)"/>
+      <property type="NCBI taxonomy" value="578462"/>
+      <property type="protein name" value="CFA20_dom domain-containing protein"/>
+      <property type="UniParc ID" value="UPI00067716DE"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A0L0TEP8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L0TEP8"/>
+      <property type="UniProtKB accession" value="A0A0L0TEP8"/>
+      <property type="length" value="226"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001891DAD3">
+      <property type="source organism" value="Pygocentrus nattereri"/>
+      <property type="NCBI taxonomy" value="42514"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8B9HS79"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3B1KG92"/>
+      <property type="length" value="196"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0007AD8C42">
+      <property type="source organism" value="Ficedula albicollis"/>
+      <property type="NCBI taxonomy" value="59894"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0007AD8C42"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0007AD8C42"/>
+      <property type="length" value="230"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000DC12D92">
+      <property type="source organism" value="Melanaphis sacchari"/>
+      <property type="NCBI taxonomy" value="742174"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000DC12D92"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="length" value="198"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00076380CB">
+      <property type="source organism" value="Diuraphis noxia"/>
+      <property type="NCBI taxonomy" value="143948"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_C4WUN6"/>
+      <property type="UniRef90 ID" value="UniRef90_E9GMZ1"/>
+      <property type="length" value="229"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001B88AAD1">
+      <property type="source organism" value="Gigantopelta aegis"/>
+      <property type="NCBI taxonomy" value="1735272"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001B88AAD1"/>
+      <property type="UniRef90 ID" value="UniRef90_F6XIZ4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00052126AF">
+      <property type="source organism" value="Ciona intestinalis"/>
+      <property type="NCBI taxonomy" value="7719"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00052126AF"/>
+      <property type="UniRef90 ID" value="UniRef90_F6XIZ4"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000D171231">
+      <property type="source organism" value="Physcomitrium patens"/>
+      <property type="NCBI taxonomy" value="3218"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20-like isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000D171231"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8T0HZD7"/>
+      <property type="length" value="228"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0014255B9C">
+      <property type="source organism" value="Anneissia japonica"/>
+      <property type="NCBI taxonomy" value="1529436"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0014255B9C"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A553P355"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0001C7B066">
+      <property type="source organism" value="Oryza sativa Japonica Group"/>
+      <property type="NCBI taxonomy" value="39947"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0001C7B066"/>
+      <property type="UniRef90 ID" value="UniRef90_C5X5B0"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0011DFA5E3">
+      <property type="source organism" value="Cannabis sativa"/>
+      <property type="NCBI taxonomy" value="3483"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A7J6GCT8"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7J6GCT8"/>
+      <property type="length" value="192"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F4FD721">
+      <property type="source organism" value="Schistocerca americana"/>
+      <property type="NCBI taxonomy" value="7009"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F4FD721"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="length" value="238"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0006C96A6F">
+      <property type="source organism" value="Copidosoma floridanum"/>
+      <property type="NCBI taxonomy" value="29053"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0006C96A6F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001924ACD5">
+      <property type="source organism" value="Hyaena hyaena"/>
+      <property type="NCBI taxonomy" value="95912"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001924ACD5"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0006B0F085">
+      <property type="source organism" value="Limulus polyphemus"/>
+      <property type="NCBI taxonomy" value="6850"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0006B0F085"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A482XD26"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F54E376">
+      <property type="source organism" value="Ictalurus punctatus"/>
+      <property type="NCBI taxonomy" value="7998"/>
+      <property type="protein name" value="upf0468 protein c16orf80-like protein isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F54E376"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0SZ41"/>
+      <property type="length" value="197"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001C9A53BD">
+      <property type="source organism" value="Colletes gigas"/>
+      <property type="NCBI taxonomy" value="935657"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001C9A53BD"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A7S0SZ41"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000E6E4ACD">
+      <property type="source organism" value="Ctenocephalides felis"/>
+      <property type="NCBI taxonomy" value="7515"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20-like"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI000E6E4ACD"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI000E6E4ACD"/>
+      <property type="length" value="236"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0010A3324F">
+      <property type="source organism" value="Prosopis alba"/>
+      <property type="NCBI taxonomy" value="207710"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0010A3324F"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L9V4F1"/>
+      <property type="length" value="191"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000DEC8A0B">
+      <property type="source organism" value="Arachis hypogaea"/>
+      <property type="NCBI taxonomy" value="3818"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A6P4BW11"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A0L9V4F1"/>
+      <property type="length" value="231"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001D1A5A8E">
+      <property type="source organism" value="Hordeum vulgare subsp. vulgare"/>
+      <property type="NCBI taxonomy" value="112509"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X1"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001D1A5A8E"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="length" value="225"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI001F5C1660">
+      <property type="source organism" value="Lolium rigidum"/>
+      <property type="NCBI taxonomy" value="89674"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI001F5C1660"/>
+      <property type="UniRef90 ID" value="UniRef90_I1IRP0"/>
+      <property type="length" value="190"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005CC2359">
+      <property type="source organism" value="Oryzias latipes"/>
+      <property type="NCBI taxonomy" value="8090"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A3P9J813"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A3P9J813"/>
+      <property type="length" value="191"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0004D06FE5">
+      <property type="source organism" value="Galeopterus variegatus"/>
+      <property type="NCBI taxonomy" value="482537"/>
+      <property type="protein name" value="UPF0468 protein C16orf80 homolog"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0004D06FE5"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI0004D06FE5"/>
+      <property type="length" value="273"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI000BBED326">
+      <property type="source organism" value="Seriola dumerili"/>
+      <property type="NCBI taxonomy" value="41447"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_A0A8D3BKN0"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A8D3BKN0"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0010A59400">
+      <property type="source organism" value="Denticeps clupeoides"/>
+      <property type="NCBI taxonomy" value="299321"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0010A59400"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0015AB7C9F">
+      <property type="source organism" value="Anguilla anguilla"/>
+      <property type="NCBI taxonomy" value="7936"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X2"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI0015AB7C9F"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI002116D565">
+      <property type="source organism" value="Elephas maximus indicus"/>
+      <property type="NCBI taxonomy" value="99487"/>
+      <property type="protein name" value="cilia- and flagella-associated protein 20 isoform X3"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI002116D565"/>
+      <property type="UniRef90 ID" value="UniRef90_Q8BTU1"/>
+      <property type="length" value="193"/>
+    </dbReference>
+  </member>
+  <member>
+    <dbReference type="UniParc ID" id="UPI00051085A3">
+      <property type="source organism" value="Nipponia nippon"/>
+      <property type="NCBI taxonomy" value="128390"/>
+      <property type="protein name" value="LOW QUALITY PROTEIN: UPF0468 protein C16orf80 homolog"/>
+      <property type="UniRef100 ID" value="UniRef100_UPI00051085A3"/>
+      <property type="UniRef90 ID" value="UniRef90_UPI00051085A3"/>
+      <property type="length" value="225"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

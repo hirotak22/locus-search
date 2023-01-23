@@ -1,0 +1,568 @@
+{
+    "from": "100337719",
+    "to": {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1T6K5",
+        "uniProtkbId": "G1T6K5_RABIT",
+        "entryAudit": {
+            "firstPublicDate": "2011-10-19",
+            "lastAnnotationUpdateDate": "2022-12-14",
+            "lastSequenceUpdateDate": "2013-11-13",
+            "entryVersion": 57,
+            "sequenceVersion": 2
+        },
+        "annotationScore": 1.0,
+        "organism": {
+            "scientificName": "Oryctolagus cuniculus",
+            "commonName": "Rabbit",
+            "taxonId": 9986,
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "Ensembl",
+                    "id": "ENSOCUP00000012051.3"
+                },
+                {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "Proteomes",
+                    "id": "UP000001811"
+                }
+            ],
+            "lineage": [
+                "Eukaryota",
+                "Metazoa",
+                "Chordata",
+                "Craniata",
+                "Vertebrata",
+                "Euteleostomi",
+                "Mammalia",
+                "Eutheria",
+                "Euarchontoglires",
+                "Glires",
+                "Lagomorpha",
+                "Leporidae",
+                "Oryctolagus"
+            ]
+        },
+        "proteinExistence": "4: Predicted",
+        "proteinDescription": {
+            "submissionNames": [
+                {
+                    "fullName": {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Ensembl",
+                                "id": "ENSOCUP00000012051.3"
+                            }
+                        ],
+                        "value": "Cilia and flagella associated protein 20"
+                    }
+                }
+            ]
+        },
+        "genes": [
+            {
+                "geneName": {
+                    "evidences": [
+                        {
+                            "evidenceCode": "ECO:0000313",
+                            "source": "Ensembl",
+                            "id": "ENSOCUP00000012051.3"
+                        }
+                    ],
+                    "value": "CFAP20"
+                }
+            }
+        ],
+        "features": [
+            {
+                "type": "Domain",
+                "location": {
+                    "start": {
+                        "value": 1,
+                        "modifier": "EXACT"
+                    },
+                    "end": {
+                        "value": 184,
+                        "modifier": "EXACT"
+                    }
+                },
+                "description": "CFA20_dom",
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000259",
+                        "source": "Pfam",
+                        "id": "PF05018"
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001811"
+                    }
+                ],
+                "id": "KW-1185",
+                "category": "Technical term",
+                "name": "Reference proteome"
+            }
+        ],
+        "references": [
+            {
+                "citation": {
+                    "id": "21993624",
+                    "citationType": "journal article",
+                    "authors": [
+                        "Lindblad-Toh K.",
+                        "Garber M.",
+                        "Zuk O.",
+                        "Lin M.F.",
+                        "Parker B.J.",
+                        "Washietl S.",
+                        "Kheradpour P.",
+                        "Ernst J.",
+                        "Jordan G.",
+                        "Mauceli E.",
+                        "Ward L.D.",
+                        "Lowe C.B.",
+                        "Holloway A.K.",
+                        "Clamp M.",
+                        "Gnerre S.",
+                        "Alfoldi J.",
+                        "Beal K.",
+                        "Chang J.",
+                        "Clawson H.",
+                        "Cuff J.",
+                        "Di Palma F.",
+                        "Fitzgerald S.",
+                        "Flicek P.",
+                        "Guttman M.",
+                        "Hubisz M.J.",
+                        "Jaffe D.B.",
+                        "Jungreis I.",
+                        "Kent W.J.",
+                        "Kostka D.",
+                        "Lara M.",
+                        "Martins A.L.",
+                        "Massingham T.",
+                        "Moltke I.",
+                        "Raney B.J.",
+                        "Rasmussen M.D.",
+                        "Robinson J.",
+                        "Stark A.",
+                        "Vilella A.J.",
+                        "Wen J.",
+                        "Xie X.",
+                        "Zody M.C.",
+                        "Baldwin J.",
+                        "Bloom T.",
+                        "Chin C.W.",
+                        "Heiman D.",
+                        "Nicol R.",
+                        "Nusbaum C.",
+                        "Young S.",
+                        "Wilkinson J.",
+                        "Worley K.C.",
+                        "Kovar C.L.",
+                        "Muzny D.M.",
+                        "Gibbs R.A.",
+                        "Cree A.",
+                        "Dihn H.H.",
+                        "Fowler G.",
+                        "Jhangiani S.",
+                        "Joshi V.",
+                        "Lee S.",
+                        "Lewis L.R.",
+                        "Nazareth L.V.",
+                        "Okwuonu G.",
+                        "Santibanez J.",
+                        "Warren W.C.",
+                        "Mardis E.R.",
+                        "Weinstock G.M.",
+                        "Wilson R.K.",
+                        "Delehaunty K.",
+                        "Dooling D.",
+                        "Fronik C.",
+                        "Fulton L.",
+                        "Fulton B.",
+                        "Graves T.",
+                        "Minx P.",
+                        "Sodergren E.",
+                        "Birney E.",
+                        "Margulies E.H.",
+                        "Herrero J.",
+                        "Green E.D.",
+                        "Haussler D.",
+                        "Siepel A.",
+                        "Goldman N.",
+                        "Pollard K.S.",
+                        "Pedersen J.S.",
+                        "Lander E.S.",
+                        "Kellis M."
+                    ],
+                    "citationCrossReferences": [
+                        {
+                            "database": "PubMed",
+                            "id": "21993624"
+                        },
+                        {
+                            "database": "DOI",
+                            "id": "10.1038/nature10530"
+                        }
+                    ],
+                    "title": "A high-resolution map of human evolutionary constraint using 29 mammals.",
+                    "publicationDate": "2011",
+                    "journal": "Nature",
+                    "firstPage": "476",
+                    "lastPage": "482",
+                    "volume": "478"
+                },
+                "referencePositions": [
+                    "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Ensembl",
+                                "id": "ENSOCUP00000012051.3"
+                            },
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Proteomes",
+                                "id": "UP000001811"
+                            }
+                        ],
+                        "value": "Thorbecke inbred",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Ensembl",
+                        "id": "ENSOCUP00000012051.3"
+                    },
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Proteomes",
+                        "id": "UP000001811"
+                    }
+                ]
+            },
+            {
+                "citation": {
+                    "id": "CI-20IMDPQG5Q1VJ",
+                    "citationType": "submission",
+                    "authoringGroup": [
+                        "Ensembl"
+                    ],
+                    "publicationDate": "AUG-2022",
+                    "submissionDatabase": "UniProtKB"
+                },
+                "referencePositions": [
+                    "IDENTIFICATION"
+                ],
+                "referenceComments": [
+                    {
+                        "evidences": [
+                            {
+                                "evidenceCode": "ECO:0000313",
+                                "source": "Ensembl",
+                                "id": "ENSOCUP00000012051.3"
+                            }
+                        ],
+                        "value": "Thorbecke",
+                        "type": "STRAIN"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "evidenceCode": "ECO:0000313",
+                        "source": "Ensembl",
+                        "id": "ENSOCUP00000012051.3"
+                    }
+                ]
+            }
+        ],
+        "uniProtKBCrossReferences": [
+            {
+                "database": "EMBL",
+                "id": "AAGW02052865",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "-"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "NOT_ANNOTATED_CDS"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "EMBL",
+                "id": "AAGW02052866",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "-"
+                    },
+                    {
+                        "key": "Status",
+                        "value": "NOT_ANNOTATED_CDS"
+                    },
+                    {
+                        "key": "MoleculeType",
+                        "value": "Genomic_DNA"
+                    }
+                ]
+            },
+            {
+                "database": "RefSeq",
+                "id": "XP_008255573.1",
+                "properties": [
+                    {
+                        "key": "NucleotideSequenceId",
+                        "value": "XM_008257351.2"
+                    }
+                ]
+            },
+            {
+                "database": "AlphaFoldDB",
+                "id": "G1T6K5",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "SMR",
+                "id": "G1T6K5",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "STRING",
+                "id": "9986.ENSOCUP00000012051",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Ensembl",
+                "id": "ENSOCUT00000014020.4",
+                "properties": [
+                    {
+                        "key": "ProteinId",
+                        "value": "ENSOCUP00000012051.3"
+                    },
+                    {
+                        "key": "GeneId",
+                        "value": "ENSOCUG00000014026.4"
+                    }
+                ]
+            },
+            {
+                "database": "GeneID",
+                "id": "100337719",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "KEGG",
+                "id": "ocu:100337719",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "CTD",
+                "id": "29105",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "eggNOG",
+                "id": "KOG3213",
+                "properties": [
+                    {
+                        "key": "ToxonomicScope",
+                        "value": "Eukaryota"
+                    }
+                ]
+            },
+            {
+                "database": "GeneTree",
+                "id": "ENSGT00390000004554",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "HOGENOM",
+                "id": "CLU_060610_1_1_1",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "InParanoid",
+                "id": "G1T6K5",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OMA",
+                "id": "TTYISCP",
+                "properties": [
+                    {
+                        "key": "Fingerprint",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "OrthoDB",
+                "id": "1213295at2759",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "TreeFam",
+                "id": "TF313405",
+                "properties": [
+                    {
+                        "key": "Description",
+                        "value": "-"
+                    }
+                ]
+            },
+            {
+                "database": "Proteomes",
+                "id": "UP000001811",
+                "properties": [
+                    {
+                        "key": "Component",
+                        "value": "Chromosome 5"
+                    }
+                ]
+            },
+            {
+                "database": "Bgee",
+                "id": "ENSOCUG00000014026",
+                "properties": [
+                    {
+                        "key": "ExpressionPatterns",
+                        "value": "Expressed in embryo and 16 other tissues"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR040441",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "CFA20/CFAP20DC"
+                    }
+                ]
+            },
+            {
+                "database": "InterPro",
+                "id": "IPR007714",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "CFA20_dom"
+                    }
+                ]
+            },
+            {
+                "database": "PANTHER",
+                "id": "PTHR12458",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "ORF PROTEIN"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "database": "Pfam",
+                "id": "PF05018",
+                "properties": [
+                    {
+                        "key": "EntryName",
+                        "value": "CFA20_dom"
+                    },
+                    {
+                        "key": "MatchStatus",
+                        "value": "1"
+                    }
+                ]
+            }
+        ],
+        "sequence": {
+            "value": "MFKNTFQSGFLSILYSIGSKPLQIWDKKVRNGHIKRITDNDIQSLVLEIEGTNVSTTYITCPADPKKTLGIKLPFLVMIIKNLKKYFTFEVQVLDDKNVRRRFRASNYQSTTRVKPFICTMPMRLDDGWNQIQFNLSDFTRRAYGTNYIETLRVQIHANCRIRRVYFSDRLYSEDELPAEFKLYLPVQNKAKQ",
+            "length": 193,
+            "molWeight": 22748,
+            "crc64": "9DF3DB123A15BF77",
+            "md5": "C2E485337B29463F12672A985F7A9565"
+        },
+        "extraAttributes": {
+            "countByFeatureType": {
+                "Domain": 1
+            },
+            "uniParcId": "UPI00000EAB10"
+        }
+    }
+}

@@ -72,3 +72,10 @@ $ python main.py -h     # help
 $ python main.py (UniProt accession)
 ```
 Please refer to the notebooks for details on each tool and function.
+
+## ChangeLog
+### [1.0.1] - 2023-01-23
+#### Fixed
+- Fixed a problem with ignoring strands when searching for genes around a query via NCBI.
+#### Changed
+- Changed a few of the locus-search result outputs via NCBI to be the same as those via Ensembl.

@@ -81,7 +81,7 @@ def process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=
     
     df_ft = pd.read_table(f'outputs/NCBI/feature_table/{file_name_ft}',
                           skiprows=1,
-                          names=['end', 'start', '_class', 'class_info', 'description'])
+                          names=['start', 'end', '_class', 'class_info', 'description'])
     
     region_list = []
     region = []
@@ -104,6 +104,20 @@ def process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=
             class_key = df_ft._class[i]
             class_dict = {class_key : {}}
             class_dict[class_key]['region'] = region_list[cnt]
+            
+            if (class_dict[class_key]['region'][0][0][0] == '>' or class_dict[class_key]['region'][0][0][0] == '<'):
+                start = int(class_dict[class_key]['region'][0][0][1:])
+            else:
+                start = int(class_dict[class_key]['region'][0][0])
+            
+            if (class_dict[class_key]['region'][0][1][0] == '>' or class_dict[class_key]['region'][0][1][0] == '<'):
+                end = int(class_dict[class_key]['region'][0][1][1:])
+            else:
+                end = int(class_dict[class_key]['region'][0][1])
+            
+            if (start < end): class_dict[class_key]['strand'] = 1
+            else: class_dict[class_key]['strand'] = -1
+            
             i += 1
             cnt += 1
             while (pd.isna(df_ft._class[i])):
@@ -134,6 +148,7 @@ def process_NCBI_json_into_DataFrame(class_dict_list, query_locus, update=False)
                 # start, end, gene_name, GeneID
                 content = [cd['gene']['region'][0][0],
                            cd['gene']['region'][0][1],
+                           cd['gene']['strand'],
                            cd['gene']['gene'],
                            cd['gene']['db_xref'].split(':')[1],
                            cd['gene']['gene_desc']]
@@ -143,7 +158,7 @@ def process_NCBI_json_into_DataFrame(class_dict_list, query_locus, update=False)
         content.append(protein_coding)
         gene_table.append(content)
     
-    df_gt = pd.DataFrame(gene_table, columns=['start', 'end', 'gene_name', 'GeneID', 'description', 'protein_coding'])
+    df_gt = pd.DataFrame(gene_table, columns=['start', 'end', 'strand', 'gene_name', 'GeneID', 'description', 'protein_coding'])
     
     file_name_gt = 'gt_' + query_locus.replace('.', '_') + '.tsv'
     if (os.path.isfile(f'outputs/NCBI/gene_table/{file_name_gt}')):
@@ -159,6 +174,8 @@ def process_NCBI_json_into_DataFrame(class_dict_list, query_locus, update=False)
 def search_nearby_genes_via_NCBI(df_gt, query_GeneID, scope=5):
 
     df_gt_filtered = df_gt[df_gt['protein_coding'] == 1].reset_index(drop=True)
+    strand = df_gt_filtered[(df_gt_filtered['GeneID'] == query_GeneID)].strand.item()
+    df_gt_filtered = df_gt_filtered[df_gt_filtered['strand'] == strand].reset_index(drop=True)
     hit_index = df_gt_filtered[(df_gt_filtered['GeneID'] == query_GeneID)].index.item()
     
     return df_gt_filtered.loc[max(hit_index-scope, 0) : min(hit_index+scope, len(df_gt_filtered))].drop(['protein_coding'], axis=1)
@@ -217,16 +234,16 @@ def process_Ensembl_json_into_DataFrame(query_specy, query_seq_region_name, upda
     
     table_id_region = []
     for de in dict_Ensembl:
-        id = de['gene_id']
         start = de['start']
         end = de['end']
         strand = de['strand']
+        id = de['gene_id']
         description = de['description']
-        table_id_region.append([id, start, end, strand, description])
+        table_id_region.append([start, end, strand, id, description])
     
     table_id_region = sorted(table_id_region, key=lambda x: x[1])
     
-    df_gt = pd.DataFrame(table_id_region, columns=['gene_id', 'start', 'end', 'strand', 'description'])
+    df_gt = pd.DataFrame(table_id_region, columns=['start', 'end', 'strand', 'gene_id', 'description'])
     df_gt.to_csv(f'outputs/Ensembl/gene_table/gt_{query_specy}_{query_seq_region_name}.csv', header=True, index=False)
     
     return df_gt
@@ -236,7 +253,7 @@ def process_Ensembl_json_into_DataFrame(query_specy, query_seq_region_name, upda
 def search_nearby_genes_via_Ensembl(df_gt, query_Ensembl_ID, scope=5):
 
     strand = df_gt[df_gt['gene_id'] == query_Ensembl_ID].strand.item()
-    df_gt_filtered = df_gt[df_gt['strand'] == strand].reset_index()
+    df_gt_filtered = df_gt[df_gt['strand'] == strand].reset_index(drop=True)
     hit_index = df_gt_filtered[df_gt_filtered['gene_id'] == query_Ensembl_ID].index.item()
     
     return df_gt_filtered.loc[max(hit_index-scope, 0) : min(hit_index+scope, len(df_gt_filtered))]
