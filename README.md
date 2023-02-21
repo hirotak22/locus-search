@@ -25,10 +25,15 @@ Tools to search for UniRef (UniRef50, 90, 100) of UniProt query.
 │   ├── NCBI
 │   │   ├── feature_table
 │   │   ├── gene_list
-│   │   └── gene_table
+│   │   ├── gene_table
+│   │   └── nucleotide_sequence
+│   │       ├── gene_sequence
+│   │       └── whole_sequence
 │   ├── Ensemnl
 │   │   ├── gene_list
-│   │   └── gene_table
+│   │   ├── gene_table
+│   │   └── nucleotide_sequence
+│   │       └── gene_sequence
 │   ├── ID_mapping
 │   │   ├── from_NCBI
 │   │   └── from_Ensembl
@@ -40,16 +45,19 @@ Tools to search for UniRef (UniRef50, 90, 100) of UniProt query.
     ├── __init__.py
     ├── id_mapping_tools.py
     ├── locus_search_tools.py
+    ├── sequence_acquisition_tools.py
     └── UniRef_search_tools.py
 ```
 The repository is divided into code and outputs.  
 Code contains Python implimentations of the three tools mentioned above, and the pipeline to use them in one-liner on command line, in addition to Jupyter notebooks as examples of each tool's use.  
 Outputs consist of the original data obtained by API in running each tool and the data processed in Python. Each directory is briefly described below.
-- `outputs/NCBI/feature_table, gene_list, gene_table`  
-    An original data obtained by the API is output in `/feature table`, a formatted version of it in json format in `/gene_list`, and a table summarizing the coordinate, name, GeneID, description, and whether it is protein-coding or not for each gene in `/gene_table`, respectively.
+- `outputs/NCBI/feature_table, gene_list, gene_table, nucleotide_sequence`  
+    An original data obtained by the API is output in `/feature table`, a formatted version of it in json format in `/gene_list`, and a table summarizing the coordinate, name, GeneID, description, and whether it is protein-coding or not for each gene in `/gene_table`, respectively.  
+    The nucleotide sequences of the genes obtained by locus-search are stored in `/nucleotide_sequence/gene_sequence` as FASTA files. The whole genome sequence is also stored in `/nucleotide_sequence/whole_sequence` as a FASTA file.
 
-- `outputs/Ensembl/gene_list, gene_table`  
-    An original data obtained by the API is output in `/gene_list`, and a table summarizing the ID, coordinates, strand, and description of each gene is output in `/gene_table`, respectively.
+- `outputs/Ensembl/gene_list, gene_table, nucleotide_sequence`  
+    An original data obtained by the API is output in `/gene_list`, and a table summarizing the ID, coordinates, strand, and description of each gene is output in `/gene_table`, respectively.  
+    The nucleotide sequences of the genes obtained by locus-search are stored in `/nucleotide_sequence/gene_sequence` as FASTA files.
 
 - `outputs/ID_mapping/from_NCBI, from_Ensembl`  
     The results of the job to convert the gene IDs in each external database into UniProt accessions are output here.
@@ -79,3 +87,6 @@ Please refer to the notebooks for details on each tool and function.
 - Fixed a problem with ignoring strands when searching for genes around a query via NCBI.
 #### Changed
 - Changed a few of the locus-search result outputs via NCBI to be the same as those via Ensembl.
+### [1.1.0] - 2023-02-21
+#### Added
+- Added a function to obtain the nucleotide sequences as FASTA files for the genes obtained by locus-search.

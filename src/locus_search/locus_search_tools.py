@@ -7,6 +7,8 @@ import numpy as np
 import pandas as pd
 import time
 
+from locus_search.sequence_acquisition_tools import *
+
 
 
 def check_external_links(query):
@@ -159,6 +161,7 @@ def process_NCBI_json_into_DataFrame(class_dict_list, query_locus, update=False)
         gene_table.append(content)
     
     df_gt = pd.DataFrame(gene_table, columns=['start', 'end', 'strand', 'gene_name', 'GeneID', 'description', 'protein_coding'])
+    df_gt = df_gt.astype({'start': 'string', 'end': 'string', 'strand': 'int32'})
     
     file_name_gt = 'gt_' + query_locus.replace('.', '_') + '.tsv'
     if (os.path.isfile(f'outputs/NCBI/gene_table/{file_name_gt}')):
@@ -210,7 +213,7 @@ def get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=False):
         if (not update):
             return None
     
-    Ensembl_URL = f'https://rest.ensembl.org/overlap/region/{query_specy}/{query_seq_region_name}:..:-1?content-type=application/json;biotype=protein_coding;feature=gene'
+    Ensembl_URL = f'https://rest.ensembl.org/overlap/region/{query_specy}/{query_seq_region_name}?content-type=application/json;biotype=protein_coding;feature=gene'
 
     Ensembl_json = requests.get(Ensembl_URL).text
     dict_Ensembl = json.loads(Ensembl_json)
@@ -244,6 +247,7 @@ def process_Ensembl_json_into_DataFrame(query_specy, query_seq_region_name, upda
     table_id_region = sorted(table_id_region, key=lambda x: x[1])
     
     df_gt = pd.DataFrame(table_id_region, columns=['start', 'end', 'strand', 'gene_id', 'description'])
+    df_gt = df_gt.astype({'start': 'string', 'end': 'string', 'strand': 'int32'})
     df_gt.to_csv(f'outputs/Ensembl/gene_table/gt_{query_specy}_{query_seq_region_name}.csv', header=True, index=False)
     
     return df_gt
@@ -268,7 +272,12 @@ def NCBI_pipeline(tag_GeneID, scope=5, update=False):
     NCBI_json, file_name_gl = process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=update)
     df_gene_table, file_name_gt = process_NCBI_json_into_DataFrame(NCBI_json, query_locus, update=update)
     
-    return search_nearby_genes_via_NCBI(df_gene_table, query_GeneID, scope)
+    df_output_NCBI = search_nearby_genes_via_NCBI(df_gene_table, query_GeneID, scope)
+    
+    get_nucleotide_sequence_via_NCBI(query_locus, update)
+    extract_gene_sequence_NCBI(query_locus, df_output_NCBI, update)
+    
+    return df_output_NCBI
 
 
 
@@ -279,7 +288,11 @@ def Ensembl_pipeline(tag_Ensembl, scope=5, update=False):
     get_gene_list_via_Ensembl(query_specy, query_seq_region_name, update=update)
     df_gene_table = process_Ensembl_json_into_DataFrame(query_specy, query_seq_region_name, update=update)
     
-    return search_nearby_genes_via_Ensembl(df_gene_table, query_Ensembl_ID, scope)
+    df_output_Ensembl = search_nearby_genes_via_Ensembl(df_gene_table, query_Ensembl_ID, scope)
+    
+    get_gene_sequence_via_Ensembl(df_output_Ensembl, update)
+    
+    return df_output_Ensembl
 
 
 
