@@ -48,8 +48,8 @@ def get_query_locus_via_NCBI(query_GeneID):
     
     tag_GenBank = NCBI_soup.find('GenomicInfo')
     query_locus = tag_GenBank.find('ChrAccVer').text
-    query_location = (tag_GenBank.find('ChrStart').text,
-                      tag_GenBank.find('ChrStop').text)
+    query_location = (int(tag_GenBank.find('ChrStart').text)+1,
+                      int(tag_GenBank.find('ChrStop').text)+1)
     
     return query_locus, query_location
 
@@ -83,7 +83,8 @@ def process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=
     
     df_ft = pd.read_table(f'outputs/NCBI/feature_table/{file_name_ft}',
                           skiprows=1,
-                          names=['start', 'end', '_class', 'class_info', 'description'])
+                          names=['start', 'end', '_class', 'class_info', 'description'],
+                          dtype = 'object')
     
     region_list = []
     region = []
@@ -127,9 +128,17 @@ def process_feature_table_NCBI_into_gene_list(query_locus, file_name_ft, update=
                     i += 1
                     continue
                 
+                if (df_ft.class_info[i] == 'db_xref'):
+                    if (not df_ft.description[i].startswith('GeneID')):
+                        class_dict[class_key].setdefault(df_ft.class_info[i], None)
+                        i += 1
+                        continue
                 class_dict[class_key][df_ft.class_info[i]] = df_ft.description[i]
                 i += 1
                 if (i == len(df_ft)): break
+            if (class_key == 'gene'):
+                class_dict[class_key].setdefault('gene_desc', None)
+            
             tmp_list.append(class_dict)
     class_dict_list.append(tmp_list)
     

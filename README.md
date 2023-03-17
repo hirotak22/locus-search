@@ -90,3 +90,6 @@ Please refer to the notebooks for details on each tool and function.
 ### [1.1.0] - 2023-02-21
 #### Added
 - Added a function to obtain the nucleotide sequences as FASTA files for the genes obtained by locus-search.
+### [1.1.1] - 2023-03-17
+#### Fixed
+- Fixed an error in locus-search via NCBI due to column type in pandas.DataFrame().

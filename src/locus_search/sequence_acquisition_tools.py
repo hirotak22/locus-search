@@ -76,13 +76,13 @@ def extract_gene_sequence_NCBI(query_locus, df_output_NCBI, update=False):
         if (strand == 1):
             with open(f'outputs/NCBI/nucleotide_sequence/gene_sequence/nucseq_{GeneID}.fasta', mode='w') as f_gene:
                 f_gene.write(f'{header[:idx_insert]}:{start}-{end}{header[idx_insert:]}\n')    # writing header
-                gene_seq = whole_sequence_forward[start_idx:end_idx]
+                gene_seq = whole_sequence_forward[(start_idx-1):end_idx]
                 for i in range(0, len(gene_seq), 70):
                     f_gene.write(gene_seq[i:min(i+70,len(gene_seq))] + '\n')    # writing gene sequence
         elif (strand == -1):
             with open(f'outputs/NCBI/nucleotide_sequence/gene_sequence/nucseq_{GeneID}.fasta', mode='w') as f_gene:
                 f_gene.write(f'{header[:idx_insert]}:c{start}-{end}{header[idx_insert:]}\n')    # writing header
-                gene_seq = whole_sequence_reverse[-start_idx:-end_idx]
+                gene_seq = whole_sequence_reverse[-start_idx:-(end_idx-1)]
                 for i in range(0, len(gene_seq), 70):
                     f_gene.write(gene_seq[i:min(i+70,len(gene_seq))] + '\n')    # writing gene sequence
         else:
