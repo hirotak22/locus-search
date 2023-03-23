@@ -93,3 +93,6 @@ Please refer to the notebooks for details on each tool and function.
 ### [1.1.1] - 2023-03-17
 #### Fixed
 - Fixed an error in locus-search via NCBI due to column type in pandas.DataFrame().
+### [1.2.0] - 2023-03-23
+#### Added
+- Added Dockerfile.

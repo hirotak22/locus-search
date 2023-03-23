@@ -1,0 +1,10 @@
+version: '1.2.0'
+services:
+  locus_search:
+    restart: always
+    build: .
+    container_name: 'locus_search'
+    working_dir: '/root/'
+    tty: true
+    volumes:
+      - .:/root
